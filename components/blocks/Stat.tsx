@@ -1,3 +1,5 @@
+import { TrendingUp } from 'lucide-react';
+
 export interface StatProps {
   value: string;
   label: string;
@@ -12,7 +14,13 @@ export interface StatProps {
  */
 export default function Stat({ value, label, source, sourceUrl }: StatProps) {
   return (
-    <div className="rounded-lg border border-brand-border bg-brand-sand/60 px-5 py-4">
+    <div className="relative overflow-hidden rounded-lg border border-brand-border bg-brand-sand/60 px-5 py-5">
+      <div
+        aria-hidden="true"
+        className="absolute right-4 top-4 rounded-full bg-brand-teal/10 p-2"
+      >
+        <TrendingUp size={18} className="text-brand-teal" />
+      </div>
       <p className="font-sans text-3xl font-semibold text-brand-ink sm:text-4xl">{value}</p>
       <p className="mt-1 text-lg text-brand-ink">{label}</p>
       {source &&

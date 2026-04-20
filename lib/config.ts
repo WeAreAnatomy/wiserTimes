@@ -5,7 +5,7 @@ export const siteConfig: SiteConfig = {
   tagline: 'Clear, practical guidance for later life',
   url: process.env.NEXT_PUBLIC_SITE_URL || 'https://wisertimes.com',
   description:
-    'Trusted UK guidance for people aged 55 and over and their families — equity release, mobility, funeral planning, benefits, wills, and tech.',
+    'Trusted UK guidance for people aged 50 and over and their families: equity release, mobility, funeral planning, benefits, wills, and tech.',
   owner: {
     legalName: 'Wiser Times',
     address: '',

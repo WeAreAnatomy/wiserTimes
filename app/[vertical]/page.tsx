@@ -1,25 +1,20 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
+import { BookOpen, ArrowRight, Star } from 'lucide-react';
 import { siteConfig, verticalsList } from '@/lib/config';
-import {
-  getPillarForVertical,
-  getSpokesForVertical,
-  articleUrl,
-} from '@/lib/content';
-import type { Vertical } from '@/lib/types';
+import { getArticlesByVertical, articleUrl } from '@/lib/content';
+import type { Vertical, Article } from '@/lib/types';
 import Container from '@/components/layout/Container';
 import Breadcrumbs from '@/components/layout/Breadcrumbs';
-import ArticleHeader from '@/components/content/ArticleHeader';
-import TableOfContents from '@/components/content/TableOfContents';
-import AuthorCard from '@/components/content/AuthorCard';
-import MarkdownRenderer from '@/components/content/MarkdownRenderer';
-import AffiliateDisclosure from '@/components/compliance/AffiliateDisclosure';
-import FCADisclaimer from '@/components/compliance/FCADisclaimer';
-import MedicalDisclaimer from '@/components/compliance/MedicalDisclaimer';
-import LegalDisclaimer from '@/components/compliance/LegalDisclaimer';
-import ArticleSchema from '@/components/seo/ArticleSchema';
-import FAQSchema from '@/components/seo/FAQSchema';
 import BreadcrumbSchema from '@/components/seo/BreadcrumbSchema';
+
+const contentTypeLabel: Record<string, string> = {
+  pillar: 'In-depth guide',
+  spoke: 'Guide',
+  'how-to': 'How-to',
+  comparison: 'Comparison',
+  'product-review': 'Review',
+};
 
 export function generateStaticParams() {
   return verticalsList.map((v) => ({ vertical: v.slug }));
@@ -28,15 +23,14 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: { vertical: string } }) {
   const v = siteConfig.verticals[params.vertical as Vertical];
   if (!v) return {};
-  const pillar = getPillarForVertical(v.slug);
   return {
-    title: pillar ? pillar.frontmatter.title : v.label,
-    description: pillar ? pillar.frontmatter.description : v.description,
+    title: `${v.label} guides`,
+    description: v.description,
     alternates: { canonical: `/${v.slug}/` },
   };
 }
 
-export default async function VerticalPillarPage({
+export default async function VerticalIndexPage({
   params,
 }: {
   params: { vertical: string };
@@ -44,8 +38,10 @@ export default async function VerticalPillarPage({
   const v = siteConfig.verticals[params.vertical as Vertical];
   if (!v) return notFound();
 
-  const pillar = getPillarForVertical(v.slug);
-  const spokes = getSpokesForVertical(v.slug);
+  const all = getArticlesByVertical(v.slug);
+  const pillar = all.find((a) => a.frontmatter.contentType === 'pillar') ?? null;
+  const others = all.filter((a) => a.frontmatter.contentType !== 'pillar');
+  const ordered: Article[] = pillar ? [pillar, ...others] : others;
 
   const crumbs = [
     { label: 'Home', href: '/' },
@@ -60,57 +56,79 @@ export default async function VerticalPillarPage({
     <Container width="content" className="pt-8 pb-16">
       <Breadcrumbs crumbs={crumbs} />
 
-      {pillar ? (
-        <>
-          <ArticleHeader article={pillar} />
-          <TableOfContents body={pillar.body} />
-          {pillar.frontmatter.affiliates && pillar.frontmatter.affiliates.length > 0 && (
-            <AffiliateDisclosure />
-          )}
-          <MarkdownRenderer source={pillar.body} />
-          {v.regulatoryDomain === 'finance' && (
-            <FCADisclaimer equityRelease={v.slug === 'equity-release'} />
-          )}
-          {v.regulatoryDomain === 'health' && <MedicalDisclaimer />}
-          {v.regulatoryDomain === 'legal' && <LegalDisclaimer />}
-          <AuthorCard authorSlug={pillar.frontmatter.author} />
-        </>
-      ) : (
-        <>
-          <h1 className="mt-4 font-serif text-4xl font-semibold text-brand-ink">{v.label}</h1>
-          <p className="mt-3 text-xl text-brand-muted">{v.description}</p>
-        </>
-      )}
+      <header className="mt-4">
+        <p className="font-sans text-sm font-semibold uppercase tracking-wide text-brand-teal">
+          Topic
+        </p>
+        <h1 className="mt-2 font-serif text-4xl font-semibold text-brand-ink sm:text-5xl">
+          {v.label}
+        </h1>
+        <p className="mt-3 max-w-2xl text-xl text-brand-muted">{v.description}</p>
+        {ordered.length > 0 && (
+          <p className="mt-4 text-base text-brand-muted">
+            {ordered.length} article{ordered.length === 1 ? '' : 's'} in this topic.
+          </p>
+        )}
+      </header>
 
-      {spokes.length > 0 && (
-        <section className="mt-10" aria-labelledby="guides-heading">
-          <h2 id="guides-heading" className="font-sans text-2xl font-semibold text-brand-ink">
-            More {v.shortLabel.toLowerCase()} guides
+      {ordered.length > 0 ? (
+        <section className="mt-8" aria-labelledby="articles-heading">
+          <h2 id="articles-heading" className="sr-only">
+            All {v.label} articles
           </h2>
-          <ul className="mt-4 grid gap-4 sm:grid-cols-2">
-            {spokes.map((s) => (
-              <li key={s.frontmatter.slug}>
-                <Link
-                  href={articleUrl(s.frontmatter)}
-                  className="block rounded-lg border border-brand-border bg-white p-5 hover:border-brand-teal hover:bg-brand-cream focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-teal"
-                >
-                  <p className="font-sans text-lg font-semibold text-brand-ink">
-                    {s.frontmatter.title}
-                  </p>
-                  <p className="mt-1 text-base text-brand-muted">{s.frontmatter.description}</p>
-                </Link>
-              </li>
-            ))}
+          <ul className="grid gap-4 sm:grid-cols-2">
+            {ordered.map((a) => {
+              const isPillar = a.frontmatter.contentType === 'pillar';
+              const label =
+                contentTypeLabel[a.frontmatter.contentType ?? 'spoke'] ?? 'Guide';
+              return (
+                <li key={a.frontmatter.slug} className={isPillar ? 'sm:col-span-2' : undefined}>
+                  <Link
+                    href={articleUrl(a.frontmatter)}
+                    className={`group flex h-full items-start gap-4 rounded-lg border bg-white p-5 transition focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-teal ${
+                      isPillar
+                        ? 'border-brand-teal/40 hover:border-brand-teal hover:shadow-md'
+                        : 'border-brand-border hover:border-brand-teal hover:shadow-sm'
+                    }`}
+                  >
+                    <span
+                      aria-hidden="true"
+                      className={`mt-0.5 flex h-10 w-10 flex-none items-center justify-center rounded-lg ${
+                        isPillar
+                          ? 'bg-brand-teal text-white'
+                          : 'bg-brand-teal/10 text-brand-teal'
+                      }`}
+                    >
+                      {isPillar ? <Star size={20} /> : <BookOpen size={18} />}
+                    </span>
+                    <span className="min-w-0 flex-1">
+                      <span className="block font-sans text-xs font-semibold uppercase tracking-wide text-brand-teal">
+                        {label}
+                      </span>
+                      <span className="mt-1 block font-sans text-lg font-semibold text-brand-ink group-hover:text-brand-teal">
+                        {a.frontmatter.title}
+                      </span>
+                      <span className="mt-1 block text-base text-brand-muted">
+                        {a.frontmatter.description}
+                      </span>
+                    </span>
+                    <ArrowRight
+                      size={18}
+                      aria-hidden="true"
+                      className="mt-1 flex-none text-brand-teal opacity-0 transition-opacity group-hover:opacity-100"
+                    />
+                  </Link>
+                </li>
+              );
+            })}
           </ul>
         </section>
+      ) : (
+        <p className="mt-10 text-lg text-brand-muted">
+          No articles in this topic yet. Check back soon.
+        </p>
       )}
 
-      {pillar && (
-        <>
-          <ArticleSchema article={pillar} />
-          <FAQSchema frontmatter={pillar.frontmatter} />
-        </>
-      )}
       <BreadcrumbSchema items={schemaCrumbs} />
     </Container>
   );

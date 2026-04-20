@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Body -->
+  <ellipse cx="32" cy="40" rx="18" ry="20" fill="#1a7a6e"/>
+  <!-- Head -->
+  <ellipse cx="32" cy="20" rx="14" ry="13" fill="#1a7a6e"/>
+  <!-- Ear tufts -->
+  <polygon points="20,10 17,2 23,8" fill="#1a7a6e"/>
+  <polygon points="44,10 47,2 41,8" fill="#1a7a6e"/>
+  <!-- Face disc -->
+  <ellipse cx="32" cy="22" rx="11" ry="10" fill="#f5f0e8"/>
+  <!-- Left eye -->
+  <circle cx="26" cy="20" r="5" fill="white"/>
+  <circle cx="26" cy="20" r="3.5" fill="#f5a623"/>
+  <circle cx="26" cy="20" r="2" fill="#1a1a1a"/>
+  <circle cx="27" cy="19" r="0.7" fill="white"/>
+  <!-- Right eye -->
+  <circle cx="38" cy="20" r="5" fill="white"/>
+  <circle cx="38" cy="20" r="3.5" fill="#f5a623"/>
+  <circle cx="38" cy="20" r="2" fill="#1a1a1a"/>
+  <circle cx="39" cy="19" r="0.7" fill="white"/>
+  <!-- Beak -->
+  <polygon points="32,24 29,28 35,28" fill="#d4891a"/>
+  <!-- Wing detail left -->
+  <path d="M14 35 Q18 28 22 34 Q18 36 14 35Z" fill="#155f56"/>
+  <!-- Wing detail right -->
+  <path d="M50 35 Q46 28 42 34 Q46 36 50 35Z" fill="#155f56"/>
+  <!-- Chest feathers -->
+  <ellipse cx="32" cy="46" rx="10" ry="8" fill="#e8e0cc"/>
+  <!-- Feet -->
+  <line x1="26" y1="59" x2="22" y2="62" stroke="#d4891a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="26" y1="59" x2="26" y2="63" stroke="#d4891a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="26" y1="59" x2="30" y2="62" stroke="#d4891a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="38" y1="59" x2="34" y2="62" stroke="#d4891a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="38" y1="59" x2="38" y2="63" stroke="#d4891a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="38" y1="59" x2="42" y2="62" stroke="#d4891a" stroke-width="2" stroke-linecap="round"/>
+</svg>

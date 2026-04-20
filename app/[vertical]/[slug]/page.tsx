@@ -2,7 +2,7 @@ import { notFound } from 'next/navigation';
 import { siteConfig, verticalsList } from '@/lib/config';
 import {
   getArticleBySlug,
-  getSpokesForVertical,
+  getArticlesByVertical,
   getRelatedArticles,
 } from '@/lib/content';
 import type { Vertical } from '@/lib/types';
@@ -28,8 +28,8 @@ import AdSlot from '@/components/ads/AdSlot';
 export function generateStaticParams() {
   const params: { vertical: string; slug: string }[] = [];
   for (const v of verticalsList) {
-    for (const s of getSpokesForVertical(v.slug)) {
-      params.push({ vertical: v.slug, slug: s.frontmatter.slug });
+    for (const a of getArticlesByVertical(v.slug)) {
+      params.push({ vertical: v.slug, slug: a.frontmatter.slug });
     }
   }
   return params;

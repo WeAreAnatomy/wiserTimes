@@ -28,7 +28,6 @@ export default function Container({
 }: ContainerProps) {
   const Element = Tag as keyof JSX.IntrinsicElements;
   return (
-    // @ts-expect-error — dynamic element type
     <Element className={`mx-auto w-full px-5 sm:px-6 ${widthClass[width]} ${className}`}>
       {children}
     </Element>

@@ -10,13 +10,15 @@ export default function Header() {
         <div className="flex items-center justify-between">
           <Link
             href="/"
-            className="inline-flex items-baseline gap-2 text-brand-ink focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-teal rounded-md"
+            className="inline-flex items-center gap-3 text-brand-ink focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-teal rounded-md"
           >
-            <span className="font-serif text-2xl font-semibold sm:text-3xl">
-              {siteConfig.name}
-            </span>
-            <span className="hidden text-base text-brand-muted sm:inline">
-              {siteConfig.tagline}
+            <span className="inline-flex items-baseline gap-2">
+              <span className="font-serif text-2xl font-semibold sm:text-3xl">
+                {siteConfig.name}
+              </span>
+              <span className="hidden text-base text-brand-muted sm:inline">
+                {siteConfig.tagline}
+              </span>
             </span>
           </Link>
         </div>

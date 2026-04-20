@@ -22,6 +22,19 @@ import { scan } from './lib/banned-words.mjs';
 
 const TOPICS = path.join(process.cwd(), 'data', 'topics.csv');
 
+// Derive regulatory domain from vertical when not explicitly set in the CSV.
+function regulatoryDomainForVertical(vertical) {
+  const map = {
+    'equity-release': 'finance',
+    'mobility-aids': 'health',
+    'funeral-planning': 'general',
+    'tech-guides': 'general',
+    'benefits': 'general',
+    'wills-poa': 'legal',
+  };
+  return map[vertical] || 'general';
+}
+
 async function main() {
   if (!fs.existsSync(TOPICS)) {
     console.error('No data/topics.csv found.');
@@ -47,17 +60,17 @@ async function main() {
   const requests = todo.map((row) => {
     const system = cachedSystem(
       composeSystemPrompt({
-        persona: row.author || 'editorial',
-        template: row.contentType || 'spoke',
+        persona: row.persona || 'editorial',
+        template: row.template || row.contentType || 'spoke',
       }),
     );
     const model = modelForTask({
       contentType: row.contentType,
-      regulatoryDomain: row.regulatoryDomain,
+      regulatoryDomain: row.regulatoryDomain || regulatoryDomainForVertical(row.vertical),
       stage: 'body',
     });
     return {
-      custom_id: `${row.vertical}::${row.slug}`,
+      custom_id: `${row.vertical}__${row.slug}`,
       model,
       system,
       user: buildUserPrompt(row),
@@ -76,7 +89,7 @@ async function main() {
       console.warn(`[skip] ${r.custom_id}: ${r.result.type}`);
       continue;
     }
-    const [vertical, slug] = r.custom_id.split('::');
+    const [vertical, slug] = r.custom_id.split('__');
     const text = r.result.message.content
       .filter((b) => b.type === 'text')
       .map((b) => b.text)
@@ -96,11 +109,11 @@ async function main() {
 
 function buildUserPrompt(row) {
   return [
-    `Primary keyword: ${row.keyword}`,
+    `Primary keyword: ${row.primaryKeyword}`,
     `Target URL: /${row.vertical}/${row.slug}/`,
     `Suggested title: ${row.title}`,
     `Target word count: ${row.targetWords || (row.contentType === 'pillar' ? '3000' : '1800')}`,
-    row.brief ? `\nAdditional context: ${row.brief}` : '',
+    row.notes ? `\nAdditional context: ${row.notes}` : '',
     '',
     'Return the finished article as a complete markdown file, frontmatter first, then body. No preamble.',
   ].join('\n');
@@ -108,12 +121,17 @@ function buildUserPrompt(row) {
 
 function splitFrontmatter(text) {
   // gray-matter parses YAML frontmatter and returns { data, content }.
-  // If the model forgets the fences, fall back to an empty object so the
-  // caller can still write a stub and flag it in the next compliance run.
-  if (!text.startsWith('---')) {
-    return { frontmatter: { title: 'Untitled', slug: 'untitled' }, body: text };
+  // Some model responses wrap the whole article in a ```yaml or ```markdown
+  // code fence; strip that wrapper before parsing so the real frontmatter
+  // is detected. If the model forgets frontmatter entirely, fall back to a
+  // stub and let the next compliance run flag it.
+  let cleaned = text.trim();
+  const fenceMatch = cleaned.match(/^```(?:yaml|markdown|md)?\s*\n([\s\S]*?)\n```\s*$/);
+  if (fenceMatch) cleaned = fenceMatch[1].trim();
+  if (!cleaned.startsWith('---')) {
+    return { frontmatter: { title: 'Untitled', slug: 'untitled' }, body: cleaned };
   }
-  const { data, content } = matter(text);
+  const { data, content } = matter(cleaned);
   return { frontmatter: data, body: content };
 }
 
