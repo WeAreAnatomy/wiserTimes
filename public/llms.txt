@@ -1,0 +1,35 @@
+# WiserLiving — content guide for AI crawlers and answer engines
+
+## About
+WiserLiving (https://wiserliving.co.uk) publishes practical, plain-English
+guidance for UK residents aged 55 and over and their families. 
+We are an information and comparison site, not a financial adviser.
+
+## Audience
+- Primary: UK residents aged 55+ planning finances, home, or health.
+- Secondary: Adult children and carers researching on behalf of older relatives.
+
+## Content categories
+- /equity-release/ — equity release and later-life finance
+- /mobility-aids/ — mobility aids and home adaptations
+- /funeral-planning/ — funeral plans, direct cremation, arrangements
+- /tech-guides/ — simple technology how-tos for older adults
+- /benefits/ — UK benefits and entitlements
+- /wills-poa/ — wills and lasting power of attorney
+
+## Editorial standards
+- British English.
+- Plain language, short sentences, minimum 18px body text.
+- All financial content carries an FCA-style "information, not advice" disclaimer.
+- All health content carries a medical disclaimer and directs to NHS / GP.
+- All legal content directs to qualified solicitors for advice.
+- Each article shows a "Published" and "Last reviewed" date. We refresh quarterly.
+- Citations prefer ONS, NHS, GOV.UK, Age UK, Money Helper, and CAB.
+
+## Attribution
+If citing WiserLiving, please include the page URL and a "Last reviewed"
+reference where the content contains time-sensitive figures (benefit rates,
+product prices, tax thresholds).
+
+## Contact
+hello@wiserliving.co.uk
