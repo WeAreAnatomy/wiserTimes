@@ -18,7 +18,7 @@ export default function PrivacyPage() {
       <Prose className="mt-6">
         <h2>Who we are</h2>
         <p>
-          WiserLiving is published by {siteConfig.owner.legalName}, registered at {siteConfig.owner.address}. We are the
+          Wiser Times is published by {siteConfig.owner.legalName}. We are the
           data controller for personal data collected through this site. You can contact us at{' '}
           <a href={`mailto:${siteConfig.owner.contactEmail}`}>{siteConfig.owner.contactEmail}</a>.
         </p>

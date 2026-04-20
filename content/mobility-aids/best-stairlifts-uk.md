@@ -23,12 +23,12 @@ affiliates:
   - network: direct
     merchant: "Stannah"
     product: "Starla straight stairlift"
-    url: "https://wiserliving.co.uk/go/stannah-starla"
+    url: "/go/stannah-starla"
     disclosure: "affiliate"
   - network: direct
     merchant: "Acorn"
     product: "Acorn 130 straight stairlift"
-    url: "https://wiserliving.co.uk/go/acorn-130"
+    url: "/go/acorn-130"
     disclosure: "affiliate"
 faqs:
   - q: "How much does a stairlift cost in the UK?"

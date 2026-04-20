@@ -5,12 +5,12 @@ import ComparisonTable from '@/components/blocks/ComparisonTable';
 
 export const metadata = {
   title: 'Cookie policy',
-  description: 'What cookies WiserLiving sets, why, and how to control them.',
+  description: 'What cookies Wiser Times sets, why, and how to control them.',
   alternates: { canonical: '/cookies/' },
 };
 
 const rows = [
-  ['wl-consent', 'WiserLiving', 'Essential', 'Remembers your cookie choice', '12 months'],
+  ['wl-consent', 'Wiser Times', 'Essential', 'Remembers your cookie choice', '12 months'],
   ['_ga / _ga_*', 'Google Analytics', 'Analytics', 'Measures site usage anonymously', '14 months'],
   ['_gid', 'Google Analytics', 'Analytics', 'Distinguishes users for a single session', '24 hours'],
   ['NID / __Secure-*', 'Google', 'Advertising', 'Personalises and measures ads', 'Up to 13 months'],

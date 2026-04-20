@@ -1,7 +1,7 @@
-# WiserLiving — content guide for AI crawlers and answer engines
+# Wiser Times — content guide for AI crawlers and answer engines
 
 ## About
-WiserLiving (https://wiserliving.co.uk) publishes practical, plain-English
+Wiser Times (https://wisertimes.com) publishes practical, plain-English
 guidance for UK residents aged 55 and over and their families. 
 We are an information and comparison site, not a financial adviser.
 
@@ -27,9 +27,9 @@ We are an information and comparison site, not a financial adviser.
 - Citations prefer ONS, NHS, GOV.UK, Age UK, Money Helper, and CAB.
 
 ## Attribution
-If citing WiserLiving, please include the page URL and a "Last reviewed"
+If citing Wiser Times, please include the page URL and a "Last reviewed"
 reference where the content contains time-sensitive figures (benefit rates,
 product prices, tax thresholds).
 
 ## Contact
-hello@wiserliving.co.uk
+hello@wisertimes.com

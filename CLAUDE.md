@@ -1,4 +1,4 @@
-# CLAUDE.md — WiserLiving Engineering Rules
+# CLAUDE.md — Wiser Times Engineering Rules
 
 This file is the first thing you should read when working on this repository. Its purpose is to stop you from writing new code when existing code will do. **Every line you add is a liability.** Component reuse is not a "nice to have" here — it is the rule.
 
@@ -152,6 +152,15 @@ Accessibility minimums (non-negotiable):
 
 ---
 
+## URLs and links
+
+- The production domain is `wisertimes.com`. The canonical URL is set once in `lib/config.ts` and in the `NEXT_PUBLIC_SITE_URL` env var.
+- **All internal references in code, components, content, and templates must use relative paths** (`/equity-release/`, `/go/stannah-starla`), never absolute URLs (`https://wisertimes.com/equity-release/`).
+- The only places the full domain should appear are: `lib/config.ts` (the `url` field), `.env.example` / `.env.local`, `public/llms.txt`, structured-data builders in `lib/seo.ts` (which read from `siteConfig.url`), and `<meta>` / Open Graph tags that require an absolute URL.
+- If you find an absolute self-referencing URL anywhere else, replace it with a relative path.
+
+---
+
 ## TypeScript
 
 - `strict: true`. No `any` unless there is a written comment explaining why.
@@ -176,7 +185,7 @@ A change is done when:
 - **"I'll just add a one-off `<div className="flex items-center gap-4">` wrapper here."** — That's `Container` or a `Row` prop on an existing component. Find it.
 - **"This callout is slightly different, I'll make `CalloutV2`."** — Add a `variant` prop to `Callout`.
 - **"I need to render markdown here too, I'll import `remark` again."** — Use `MarkdownRenderer`. It handles the shortcodes.
-- **"I'll put the FCA disclaimer text directly in this page."** — Use `<FCADisclaimer />`. The text lives in `lib/compliance.ts` for a reason: we update it quarterly.
+- **"I'll put the FCA disclaimer text directly in this page."** — Use `<FCADisclaimer />`. The text lives in `lib/compliance.ts` for a reason: it is updated quarterly.
 - **"I'll make a new ad position `top-sidebar-alt`."** — `AdSlot` takes a `position` prop. Add the position to the enum in `components/ads/AdSlot.tsx`, don't clone the component.
 - **"This script needs to call Claude, I'll set up the client here."** — `scripts/lib/claude.mjs` already sets up the client with batch + caching. Import it.
 

@@ -1,8 +1,8 @@
 {
-  "name": "wiserliving",
+  "name": "wisertimes",
   "version": "0.1.0",
   "private": true,
-  "description": "WiserLiving.co.uk — AI-automated content platform for later-life guidance (55+)",
+  "description": "WiserTimes.co.uk — AI-automated content platform for later-life guidance (55+)",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

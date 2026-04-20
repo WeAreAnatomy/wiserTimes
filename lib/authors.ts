@@ -28,9 +28,9 @@ export const authors: Record<string, Author> = {
   },
   editorial: {
     slug: 'editorial',
-    name: 'WiserLiving Editorial',
-    credentials: 'WiserLiving editorial team',
-    bio: 'The WiserLiving editorial team produces and maintains this guide. Content is reviewed quarterly for accuracy.',
+    name: 'Wiser Times Editorial',
+    credentials: 'Wiser Times editorial team',
+    bio: 'The Wiser Times editorial team produces and maintains this guide. Content is reviewed quarterly for accuracy.',
     experience: 'General guides across our six content areas.',
   },
 };

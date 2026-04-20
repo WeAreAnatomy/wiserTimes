@@ -58,7 +58,7 @@ export default function CookieConsent() {
       <div className="mx-auto flex max-w-wide flex-col gap-4 px-5 py-5 sm:px-6 md:flex-row md:items-center md:justify-between">
         <div>
           <p id="cookie-title" className="font-sans text-lg font-semibold text-brand-ink">
-            Your privacy on WiserLiving
+            Your privacy on Wiser Times
           </p>
           <p id="cookie-desc" className="mt-1 max-w-prose text-base text-brand-ink">
             We use essential cookies to make the site work. We{"'"}d also like your permission to set analytics and

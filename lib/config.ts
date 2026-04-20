@@ -1,15 +1,15 @@
 import type { SiteConfig } from './types';
 
 export const siteConfig: SiteConfig = {
-  name: 'WiserLiving',
+  name: 'Wiser Times',
   tagline: 'Clear, practical guidance for later life',
-  url: process.env.NEXT_PUBLIC_SITE_URL || 'https://wiserliving.co.uk',
+  url: process.env.NEXT_PUBLIC_SITE_URL || 'https://wisertimes.com',
   description:
     'Trusted UK guidance for people aged 55 and over and their families — equity release, mobility, funeral planning, benefits, wills, and tech.',
   owner: {
-    legalName: 'WiserLiving',
+    legalName: 'Wiser Times',
     address: '',
-    contactEmail: 'hello@wiserliving.co.uk',
+    contactEmail: 'hello@wisertimes.com',
   },
   verticals: {
     'equity-release': {

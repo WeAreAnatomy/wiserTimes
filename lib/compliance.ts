@@ -8,7 +8,7 @@ import type { RegulatoryDomain } from './types';
 export const disclaimers = {
   fca: {
     title: 'Important: information, not financial advice',
-    body: 'WiserLiving provides general information only and does not provide financial advice. You should seek independent financial advice before making any financial decisions. The value of investments can go down as well as up.',
+    body: 'Wiser Times provides general information only and does not provide financial advice. You should seek independent financial advice before making any financial decisions. The value of investments can go down as well as up.',
   },
   equityRelease: {
     title: 'About equity release',
@@ -20,7 +20,7 @@ export const disclaimers = {
   },
   legal: {
     title: 'Information, not legal advice',
-    body: 'WiserLiving provides general information about legal topics. It does not provide legal advice. Consult a qualified solicitor for advice about your specific circumstances.',
+    body: 'Wiser Times provides general information about legal topics. It does not provide legal advice. Consult a qualified solicitor for advice about your specific circumstances.',
   },
   affiliate: {
     title: 'Affiliate disclosure',

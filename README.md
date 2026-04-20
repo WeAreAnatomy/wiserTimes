@@ -1,4 +1,4 @@
-# WiserLiving
+# Wiser Times
 
 > Clear, practical guidance for later life.
 
@@ -12,7 +12,7 @@ This repo contains **the whole site** — the Next.js app, the content itself (m
 
 ```bash
 git clone …
-cd wiserliving
+cd wisertimes
 npm install
 cp .env.example .env.local    # fill in the keys you need
 npm run dev                   # http://localhost:3000
@@ -47,8 +47,6 @@ reports/                Auto-generated weekly revenue + compliance reports (comm
 public/                 Static assets (favicon, images, robots-ignored files).
 ```
 
-Two files set the rules: [`CLAUDE.md`](./CLAUDE.md) at the root, and [`components/README.md`](./components/README.md). Read them both before writing code.
-
 ---
 
 ## The content pipeline
@@ -73,6 +71,8 @@ Set `ANTHROPIC_API_KEY` in `.env.local` before running any generation step.
 ## Site configuration
 
 `lib/config.ts` defines the six verticals, the site owner, and the tagline. `lib/authors.ts` defines the editorial personae (margaret, david, priya, editorial). `lib/types.ts` is the single source of truth for every frontmatter field — **add fields there before writing them into markdown.**
+
+Two files set the rules: [`CLAUDE.md`](./CLAUDE.md) at the root, and [`components/README.md`](./components/README.md). Read them both before writing code.
 
 ---
 
@@ -134,4 +134,4 @@ There is no admin UI. `reports/` is the dashboard. If you want to know what the 
 
 ## Licence and ownership
 
-© WiserLiving 
+© Wiser Times

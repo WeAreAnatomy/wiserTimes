@@ -46,7 +46,7 @@ export default function LeadForm({
       <p className="mt-2 text-lg text-brand-ink">{intro}</p>
       <form action={action} method="POST" className="mt-5 grid gap-4">
         {utmCampaign && <input type="hidden" name="utm_campaign" value={utmCampaign} />}
-        <input type="hidden" name="utm_source" value="wiserliving" />
+        <input type="hidden" name="utm_source" value="wisertimes" />
         <input type="hidden" name="partner" value={partnerName} />
 
         {fields.map((f) => (
@@ -74,7 +74,7 @@ export default function LeadForm({
             className="mt-1 h-5 w-5 flex-none"
           />
           <span>
-            I agree that WiserLiving may pass my details to <strong>{partnerName}</strong> so they can
+            I agree that Wiser Times may pass my details to <strong>{partnerName}</strong> so they can
             contact me about this enquiry. I can withdraw consent at any time. See our{' '}
             <a href="/privacy/" className="text-brand-teal underline">
               privacy policy
