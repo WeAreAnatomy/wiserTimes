@@ -6,6 +6,7 @@ import { getArticlesByVertical, articleUrl } from '@/lib/content';
 import type { Vertical, Article } from '@/lib/types';
 import Container from '@/components/layout/Container';
 import Breadcrumbs from '@/components/layout/Breadcrumbs';
+import TopicIllustration from '@/components/blocks/TopicIllustration';
 import BreadcrumbSchema from '@/components/seo/BreadcrumbSchema';
 
 const contentTypeLabel: Record<string, string> = {
@@ -57,7 +58,10 @@ export default async function VerticalIndexPage({
       <Breadcrumbs crumbs={crumbs} />
 
       <header className="mt-4">
-        <p className="font-sans text-sm font-semibold uppercase tracking-wide text-brand-teal">
+        <div className="overflow-hidden rounded-2xl border border-brand-border bg-white shadow-sm">
+          <TopicIllustration topic={v.slug} variant="hero" label={`${v.label} illustration`} />
+        </div>
+        <p className="mt-6 font-sans text-sm font-semibold uppercase tracking-wide text-brand-teal">
           Topic
         </p>
         <h1 className="mt-2 font-serif text-4xl font-semibold text-brand-ink sm:text-5xl">

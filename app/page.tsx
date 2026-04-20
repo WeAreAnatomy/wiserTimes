@@ -20,6 +20,7 @@ import { articleUrl } from '@/lib/content';
 import Container from '@/components/layout/Container';
 import CTAButton from '@/components/blocks/CTAButton';
 import Stat from '@/components/blocks/Stat';
+import TopicIllustration from '@/components/blocks/TopicIllustration';
 import AdSlot from '@/components/ads/AdSlot';
 
 const verticalIcons: Record<string, LucideIcon> = {
@@ -80,33 +81,39 @@ export default function HomePage() {
     <>
       {/* ── Hero ── */}
       <section className="bg-brand-sand/40 border-b border-brand-border">
-        <Container width="wide" className="py-12 sm:py-16 text-center">
-          <p className="font-sans text-base font-semibold uppercase tracking-wide text-brand-teal">
-            For people over 55 and their families
-          </p>
-          <h1 className="mx-auto mt-3 max-w-3xl font-serif text-4xl font-semibold text-brand-ink sm:text-5xl">
-            {siteConfig.tagline}
-          </h1>
-          <p className="mx-auto mt-4 max-w-2xl text-xl text-brand-muted">
-            Honest, regularly reviewed guides on equity release, mobility, benefits,
-            wills, funeral planning, and the tech that keeps you connected.
-          </p>
+        <Container width="wide" className="grid items-center gap-10 py-12 sm:py-16 lg:grid-cols-[1.1fr_1fr]">
+          <div className="text-center lg:text-left">
+            <p className="font-sans text-base font-semibold uppercase tracking-wide text-brand-teal">
+              For people over 55 and their families
+            </p>
+            <h1 className="mt-3 max-w-3xl font-serif text-4xl font-semibold text-brand-ink sm:text-5xl lg:mx-0 mx-auto">
+              {siteConfig.tagline}
+            </h1>
+            <p className="mt-4 max-w-2xl text-xl text-brand-muted lg:mx-0 mx-auto">
+              Honest, regularly reviewed guides on equity release, mobility, benefits,
+              wills, funeral planning, and the tech that keeps you connected.
+            </p>
 
-          {/* Trust badges */}
-          <ul className="mt-8 flex flex-wrap items-center justify-center gap-x-6 gap-y-3">
-            <li className="flex items-center gap-2 rounded-full bg-white border border-brand-border px-4 py-2 text-base font-semibold text-brand-deep shadow-sm">
-              <ShieldCheck size={18} className="text-brand-teal" aria-hidden="true" />
-              Free to read
-            </li>
-            <li className="flex items-center gap-2 rounded-full bg-white border border-brand-border px-4 py-2 text-base font-semibold text-brand-deep shadow-sm">
-              <RefreshCw size={18} className="text-brand-teal" aria-hidden="true" />
-              Reviewed every 90 days
-            </li>
-            <li className="flex items-center gap-2 rounded-full bg-white border border-brand-border px-4 py-2 text-base font-semibold text-brand-deep shadow-sm">
-              <CheckCircle2 size={18} className="text-brand-teal" aria-hidden="true" />
-              No paywall, ever
-            </li>
-          </ul>
+            {/* Trust badges */}
+            <ul className="mt-8 flex flex-wrap items-center justify-center gap-x-6 gap-y-3 lg:justify-start">
+              <li className="flex items-center gap-2 rounded-full bg-white border border-brand-border px-4 py-2 text-base font-semibold text-brand-deep shadow-sm">
+                <ShieldCheck size={18} className="text-brand-teal" aria-hidden="true" />
+                Free to read
+              </li>
+              <li className="flex items-center gap-2 rounded-full bg-white border border-brand-border px-4 py-2 text-base font-semibold text-brand-deep shadow-sm">
+                <RefreshCw size={18} className="text-brand-teal" aria-hidden="true" />
+                Reviewed every 90 days
+              </li>
+              <li className="flex items-center gap-2 rounded-full bg-white border border-brand-border px-4 py-2 text-base font-semibold text-brand-deep shadow-sm">
+                <CheckCircle2 size={18} className="text-brand-teal" aria-hidden="true" />
+                No paywall, ever
+              </li>
+            </ul>
+          </div>
+
+          <div className="rounded-2xl border border-brand-border bg-white shadow-sm overflow-hidden">
+            <TopicIllustration topic="home" variant="hero" />
+          </div>
         </Container>
       </section>
 
@@ -123,20 +130,23 @@ export default function HomePage() {
               <li key={v.slug}>
                 <Link
                   href={`/${v.slug}/`}
-                  className={`group flex h-full flex-col rounded-lg border border-brand-border border-l-4 ${colors?.accent ?? ''} bg-white p-6 transition hover:shadow-md ${colors?.card ?? 'hover:border-brand-teal'} focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-teal`}
+                  className={`group flex h-full flex-col overflow-hidden rounded-lg border border-brand-border border-l-4 ${colors?.accent ?? ''} bg-white transition hover:shadow-md ${colors?.card ?? 'hover:border-brand-teal'} focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-teal`}
                 >
-                  <span
-                    aria-hidden="true"
-                    className={`mb-4 flex h-12 w-12 items-center justify-center rounded-xl ${colors?.icon ?? 'bg-brand-sand text-brand-teal'}`}
-                  >
-                    <Icon size={26} />
-                  </span>
-                  <p className="font-sans text-xl font-semibold text-brand-ink">{v.label}</p>
-                  <p className="mt-2 flex-1 text-lg text-brand-muted">{v.description}</p>
-                  <p className="mt-4 inline-flex items-center gap-1.5 font-sans font-semibold text-brand-teal">
-                    Read guides
-                    <ArrowRight size={16} aria-hidden="true" className="transition-transform group-hover:translate-x-0.5" />
-                  </p>
+                  <TopicIllustration topic={v.slug} variant="card" />
+                  <div className="flex flex-1 flex-col p-6">
+                    <span
+                      aria-hidden="true"
+                      className={`mb-4 flex h-12 w-12 items-center justify-center rounded-xl ${colors?.icon ?? 'bg-brand-sand text-brand-teal'}`}
+                    >
+                      <Icon size={26} />
+                    </span>
+                    <p className="font-sans text-xl font-semibold text-brand-ink">{v.label}</p>
+                    <p className="mt-2 flex-1 text-lg text-brand-muted">{v.description}</p>
+                    <p className="mt-4 inline-flex items-center gap-1.5 font-sans font-semibold text-brand-teal">
+                      Read guides
+                      <ArrowRight size={16} aria-hidden="true" className="transition-transform group-hover:translate-x-0.5" />
+                    </p>
+                  </div>
                 </Link>
               </li>
             );

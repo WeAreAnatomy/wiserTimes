@@ -117,6 +117,13 @@ Big-number stat with source attribution. Use whenever you cite a figure.
 - `source?: string`
 - `sourceUrl?: string`
 
+### `TopicIllustration.tsx`
+Editorial inline-SVG topic imagery. One component, many topics — add a new SVG inside this file rather than creating a sibling. Used as the home-page hero, on each topic card on the home page, and as the banner on each `/[vertical]/` landing page. Fully owned (no external requests, no licensing risk), brand-palette-matched, scales to any size.
+- `topic: Vertical | 'home'`
+- `variant?: 'card' | 'hero'` — default `'card'`; `hero` is taller for banners.
+- `label?: string` — when set, the SVG is exposed to assistive tech with this label; otherwise it is `aria-hidden`.
+- `className?: string`
+
 ### `CTAButton.tsx`
 The one button component. Discriminated union — either a link or a form submit.
 - Link mode: `href: string`, `external?: boolean`, `sponsored?: boolean`, plus common props.
