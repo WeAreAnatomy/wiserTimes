@@ -31,7 +31,7 @@ faqs:
       particular) makes you very likely to qualify for a full or near-full
       reduction under your local Council Tax Support scheme. You still need to
       apply to the council separately.
-  - q: What if I have dementia: can I be exempt from council tax entirely?
+  - q: "What if I have dementia: can I be exempt from council tax entirely?"
     a: >-
       Possibly. People with severe mental impairment, which includes many people
       living with advanced dementia, can be disregarded for council tax
