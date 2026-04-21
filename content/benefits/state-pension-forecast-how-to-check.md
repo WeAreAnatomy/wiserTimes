@@ -5,19 +5,13 @@ description: >-
   understanding what your forecast shows, and deciding whether voluntary
   National Insurance contributions are worth considering.
 slug: state-pension-forecast-how-to-check
-url: /benefits/state-pension-forecast-how-to-check/
-publishedAt: '2025-07-14'
-updatedAt: '2025-07-14'
 author: margaret
-category: benefits
-primaryKeyword: state pension forecast check
 tags:
   - state pension
   - national insurance
   - gov.uk
   - retirement planning
   - pension forecast
-readingTime: 9
 schema: HowTo
 howTo:
   totalTime: PT20M
@@ -47,8 +41,14 @@ howTo:
         Use the on-screen breakdown to see which years have gaps, then decide
         whether to pay voluntary Class 3 National Insurance contributions to
         fill them.
-published: '2026-07-09'
-lastReviewed: '2026-07-09'
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
+vertical: benefits
+contentType: how-to
+intent: informational
+regulatoryDomain: general
+keywords:
+  - state pension forecast check
 ---
 # How to check your State Pension forecast on gov.uk
 

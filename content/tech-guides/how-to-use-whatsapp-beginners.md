@@ -1,23 +1,11 @@
 ---
 title: 'How to use WhatsApp: a step-by-step guide for beginners'
 slug: how-to-use-whatsapp-beginners
-url: /tech-guides/how-to-use-whatsapp-beginners/
 description: >-
   New to WhatsApp? This step-by-step guide walks you through setting up the app,
   sending your first message, making calls and sharing photos — at your own
   pace.
-category: tech-guides
-primaryKeyword: how to use whatsapp
-secondaryKeywords:
-  - whatsapp for beginners
-  - how to set up whatsapp
-  - how to make a whatsapp call
-  - whatsapp group chat
-  - sending photos on whatsapp
-datePublished: 2025-07-14T00:00:00.000Z
-dateModified: 2025-07-14T00:00:00.000Z
-author: wiser-times-editorial
-readingTime: 9
+author: editorial
 howTo:
   totalTime: PT20M
   steps:
@@ -51,6 +39,12 @@ howTo:
         name, and tap the green tick to create it.
 published: '2026-10-04'
 lastReviewed: '2026-10-04'
+vertical: tech-guides
+contentType: how-to
+intent: informational
+regulatoryDomain: general
+keywords:
+  - how to use whatsapp
 ---
 # How to use WhatsApp: a step-by-step guide for beginners
 

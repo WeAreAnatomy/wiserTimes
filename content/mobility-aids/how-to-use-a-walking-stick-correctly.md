@@ -8,7 +8,6 @@ section: mobility-aids
 author: priya
 publishedDate: 2025-01-30T00:00:00.000Z
 updatedDate: 2025-01-30T00:00:00.000Z
-primaryKeyword: how to use a walking stick
 tags:
   - walking sticks
   - mobility aids
@@ -39,8 +38,14 @@ howTo:
       text: >-
         Match the stick to your grip, weight-bearing needs and the surfaces you
         walk on most.
-published: '2026-05-24'
-lastReviewed: '2026-05-24'
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
+vertical: mobility-aids
+contentType: how-to
+intent: informational
+regulatoryDomain: health
+keywords:
+  - how to use a walking stick
 ---
 ```
 

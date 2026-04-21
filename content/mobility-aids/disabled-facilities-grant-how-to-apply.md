@@ -1,20 +1,17 @@
 ---
 title: How do you apply for a Disabled Facilities Grant in England?
 slug: disabled-facilities-grant-how-to-apply
-url: /mobility-aids/disabled-facilities-grant-how-to-apply/
 description: >-
   A step-by-step guide to applying for a Disabled Facilities Grant in England,
   covering the council OT assessment, means test, eligible works, timescales,
   and what to do if you're refused.
 author: priya
-category: mobility-aids
 tags:
   - disabled-facilities-grant
   - home-adaptations
   - council-funding
   - OT-assessment
   - falls-prevention
-primaryKeyword: disabled facilities grant application
 targetUrl: /mobility-aids/disabled-facilities-grant-how-to-apply/
 schema:
   type: HowTo
@@ -50,8 +47,8 @@ howTo:
         The council inspects the finished adaptation and releases the grant
         payment, usually direct to the contractor.
 vertical: mobility-aids
-published: '2026-05-19'
-lastReviewed: '2026-05-19'
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
 contentType: how-to
 intent: informational
 regulatoryDomain: health

@@ -1,37 +1,61 @@
 ---
-title: Untitled
-slug: untitled
-published: '2026-07-19'
-lastReviewed: '2026-07-19'
----
-```yaml
----
 title: Does equity release affect eligibility for care home funding?
-description: Equity release counts as capital for local authority care funding assessments. Here's how the rules work and what a deferred payment agreement could mean for you.
+description: >-
+  Equity release counts as capital for local authority care funding assessments.
+  Here's how the rules work and what a deferred payment agreement could mean for
+  you.
 vertical: equity release and later-life finance
 contentType: spoke
 intent: informational
 regulatoryDomain: finance
 slug: equity-release-and-care-home-fees
 author: david
-published: 2025-01-30
-lastReviewed: 2025-01-30
-keywords: [equity release care home fees, care home funding means test, deferred payment agreement, local authority care assessment, lifetime mortgage care home]
+published: '2026-07-19'
+lastReviewed: '2026-07-19'
+keywords:
+  - equity release care home fees
+  - care home funding means test
+  - deferred payment agreement
+  - local authority care assessment
+  - lifetime mortgage care home
 faqs:
   - q: Does equity release money count in a care home means test?
-    a: Yes. Cash released from a lifetime mortgage or home reversion is treated as capital from the point it reaches your bank account. If that brings your assessable capital above £23,250 in England, you'll be expected to fund your own care in full until it falls below that threshold.
+    a: >-
+      Yes. Cash released from a lifetime mortgage or home reversion is treated
+      as capital from the point it reaches your bank account. If that brings
+      your assessable capital above £23,250 in England, you'll be expected to
+      fund your own care in full until it falls below that threshold.
   - q: Can I take out equity release to pay care home fees?
-    a: Technically yes, but it's a decision worth approaching with considerable caution. If you're already considering residential care, the property is likely to be sold within a relatively short period, which means compound interest on a lifetime mortgage could accumulate against an asset you'll sell anyway. Get regulated advice before proceeding.
-  - q: What is a deferred payment agreement and how does it differ from equity release?
-    a: A deferred payment agreement (DPA) is arranged through your local authority. It allows care costs to be paid from the eventual sale of your home, rather than you having to sell immediately. Unlike equity release, no interest compounds on your property's full value — the council charges a capped interest rate on the debt it covers.
+    a: >-
+      Technically yes, but it's a decision worth approaching with considerable
+      caution. If you're already considering residential care, the property is
+      likely to be sold within a relatively short period, which means compound
+      interest on a lifetime mortgage could accumulate against an asset you'll
+      sell anyway. Get regulated advice before proceeding.
+  - q: >-
+      What is a deferred payment agreement and how does it differ from equity
+      release?
+    a: >-
+      A deferred payment agreement (DPA) is arranged through your local
+      authority. It allows care costs to be paid from the eventual sale of your
+      home, rather than you having to sell immediately. Unlike equity release,
+      no interest compounds on your property's full value — the council charges
+      a capped interest rate on the debt it covers.
   - q: Is my home included in the care home means test?
-    a: In most cases your home is disregarded for the first 12 weeks of permanent residential care. After that, it is included in the capital assessment unless a qualifying person — a spouse, civil partner, or dependent relative — continues to live there.
+    a: >-
+      In most cases your home is disregarded for the first 12 weeks of permanent
+      residential care. After that, it is included in the capital assessment
+      unless a qualifying person — a spouse, civil partner, or dependent
+      relative — continues to live there.
   - q: Who can give regulated advice on equity release for care costs?
-    a: Any adviser discussing equity release products must be authorised by the Financial Conduct Authority. For care funding specifically, a specialist later-life financial adviser or an independent care fees adviser (sometimes holding the CF8 qualification) can look at the full picture alongside state entitlements.
+    a: >-
+      Any adviser discussing equity release products must be authorised by the
+      Financial Conduct Authority. For care funding specifically, a specialist
+      later-life financial adviser or an independent care fees adviser
+      (sometimes holding the CF8 qualification) can look at the full picture
+      alongside state entitlements.
 affiliates: []
 ---
-```
-
 # Does equity release affect eligibility for care home funding?
 
 If you've already taken out equity release, or are wondering whether to do so, the short answer is this: any cash sitting in your bank account from a lifetime mortgage or home reversion plan counts as your capital for local authority care funding purposes. Once your assessable capital exceeds £23,250 in England (the figures differ slightly in Wales and Scotland), the council will not contribute to your care costs until that capital is spent down. That's not a reason to panic, but it is a reason to plan carefully and take regulated advice before making any move.

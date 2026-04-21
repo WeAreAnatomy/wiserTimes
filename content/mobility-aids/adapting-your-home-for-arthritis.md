@@ -1,35 +1,49 @@
 ---
-title: Untitled
-slug: untitled
-published: '2026-05-14'
-lastReviewed: '2026-05-14'
----
-```yaml
----
-title: "Practical home adaptations if you have arthritis"
-description: "Arthritis makes daily tasks harder, but small home changes can restore independence. From lever taps to grab rails, here's what actually helps."
+title: Practical home adaptations if you have arthritis
+description: >-
+  Arthritis makes daily tasks harder, but small home changes can restore
+  independence. From lever taps to grab rails, here's what actually helps.
 vertical: mobility aids and home adaptations
 contentType: spoke
 intent: informational
 regulatoryDomain: health
 slug: adapting-your-home-for-arthritis
 author: priya
-published: 2025-07-14
-lastReviewed: 2025-07-14
-keywords: [home adaptations arthritis, arthritis home aids, grab rails arthritis, lever taps arthritis, OT assessment arthritis]
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
+keywords:
+  - home adaptations arthritis
+  - arthritis home aids
+  - grab rails arthritis
+  - lever taps arthritis
+  - OT assessment arthritis
 faqs:
   - q: Can I get a free OT assessment for arthritis adaptations?
-    a: "Yes. You can request a community occupational therapy assessment through your local council at no charge. The waiting time varies, but this is the right first step for most people. Your GP can also refer you, which sometimes speeds things up."
+    a: >-
+      Yes. You can request a community occupational therapy assessment through
+      your local council at no charge. The waiting time varies, but this is the
+      right first step for most people. Your GP can also refer you, which
+      sometimes speeds things up.
   - q: Will the council fund adaptations for arthritis?
-    a: "Smaller aids like grab rails and lever tap adaptors are often supplied free by the council following an OT assessment. Larger works, such as a wet room or stairlift, are almost always self-funded or covered by the Disabled Facilities Grant, which is means-tested."
+    a: >-
+      Smaller aids like grab rails and lever tap adaptors are often supplied
+      free by the council following an OT assessment. Larger works, such as a
+      wet room or stairlift, are almost always self-funded or covered by the
+      Disabled Facilities Grant, which is means-tested.
   - q: What is the Disabled Facilities Grant and how much is it?
-    a: "The Disabled Facilities Grant (DFG) is a means-tested grant from your local council that can cover major home adaptations. In England the maximum is £30,000, in Wales £36,000. You apply through your council; an OT referral usually forms part of the process."
+    a: >-
+      The Disabled Facilities Grant (DFG) is a means-tested grant from your
+      local council that can cover major home adaptations. In England the
+      maximum is £30,000, in Wales £36,000. You apply through your council; an
+      OT referral usually forms part of the process.
   - q: Are there any arthritis-specific charities that can help?
-    a: "Versus Arthritis offers a helpline (0800 5200 520) and local support groups. They can also point you towards benefit entitlements you may not know about. Age UK has caseworkers who can help with grant applications and benefits checks."
+    a: >-
+      Versus Arthritis offers a helpline (0800 5200 520) and local support
+      groups. They can also point you towards benefit entitlements you may not
+      know about. Age UK has caseworkers who can help with grant applications
+      and benefits checks.
 affiliates: []
 ---
-```
-
 # Practical home adaptations if you have arthritis
 
 Arthritis doesn't affect any two people in exactly the same way, but the pattern I see most often in people's homes is this: the big things are manageable, and the small, repetitive things are exhausting. Turning a tap. Getting the lid off a jar. Pushing yourself up from the toilet. Done once, these are trivial. Done a dozen times a day with inflamed, stiff joints, they grind people down.

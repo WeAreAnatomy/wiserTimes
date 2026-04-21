@@ -5,18 +5,14 @@ description: >-
   using it for daily tasks: reminders, timers, phone calls, audiobooks, and
   radio.
 slug: how-to-set-up-alexa
-url: /tech-guides/how-to-set-up-alexa/
 publishDate: 2025-01-28T00:00:00.000Z
 updateDate: 2025-01-28T00:00:00.000Z
-category: tech-guides
-primaryKeyword: how to set up alexa
 tags:
   - amazon echo
   - alexa
   - smart speaker
   - technology for older adults
   - voice assistant
-readingTime: 9
 howTo:
   totalTime: PT30M
   steps:
@@ -48,6 +44,13 @@ howTo:
         audiobooks, or stream BBC Radio 4.
 published: '2026-09-27'
 lastReviewed: '2026-09-27'
+vertical: tech-guides
+contentType: how-to
+intent: informational
+regulatoryDomain: general
+author: editorial
+keywords:
+  - how to set up alexa
 ---
 # How to set up an Amazon Echo (Alexa) in your home
 

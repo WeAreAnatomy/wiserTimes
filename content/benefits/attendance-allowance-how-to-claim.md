@@ -44,8 +44,8 @@ howTo:
         DWP if you need to add information or if you want to challenge the
         outcome.
 vertical: benefits
-published: '2026-04-21'
-lastReviewed: '2026-04-21'
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
 contentType: how-to
 intent: informational
 regulatoryDomain: general

@@ -1,38 +1,47 @@
 ---
-title: Untitled
-slug: untitled
-published: '2026-10-08'
-lastReviewed: '2026-10-08'
----
-```yaml
----
-title: "How to make a video call on an Android phone or tablet"
+title: How to make a video call on an Android phone or tablet
 slug: how-to-video-call-android
-description: "A plain-English guide to making video calls on Android using WhatsApp, Google Meet and Zoom — including what to do when the camera points the wrong way."
-topic: tech-guides
-primaryKeyword: how to video call android
+description: >-
+  A plain-English guide to making video calls on Android using WhatsApp, Google
+  Meet and Zoom — including what to do when the camera points the wrong way.
 targetUrl: /tech-guides/how-to-video-call-android/
-datePublished: 2025-01-30
-dateModified: 2025-01-30
-readingTime: 9
 howTo:
   totalTime: PT20M
   steps:
     - name: Check your camera and microphone work
-      text: Open the front camera in your phone's camera app to confirm it is active before you call anyone.
+      text: >-
+        Open the front camera in your phone's camera app to confirm it is active
+        before you call anyone.
     - name: Choose your app
-      text: Decide whether to use WhatsApp, Google Meet or Zoom based on what the person you are calling already uses.
+      text: >-
+        Decide whether to use WhatsApp, Google Meet or Zoom based on what the
+        person you are calling already uses.
     - name: Make a WhatsApp video call
-      text: Open a chat with the contact, tap the camera icon in the top-right corner, and wait for them to answer.
+      text: >-
+        Open a chat with the contact, tap the camera icon in the top-right
+        corner, and wait for them to answer.
     - name: Make a Google Meet call
-      text: Open Google Meet, tap New Call, choose the contact or enter their email address, then tap Start.
+      text: >-
+        Open Google Meet, tap New Call, choose the contact or enter their email
+        address, then tap Start.
     - name: Make a Zoom call
-      text: Open Zoom, tap New Meeting to test the camera, or tap Join and enter a meeting ID sent to you by someone else.
+      text: >-
+        Open Zoom, tap New Meeting to test the camera, or tap Join and enter a
+        meeting ID sent to you by someone else.
     - name: Fix a camera pointing the wrong way
-      text: During any call, tap the rotate or flip-camera icon on screen to switch between front and rear camera.
+      text: >-
+        During any call, tap the rotate or flip-camera icon on screen to switch
+        between front and rear camera.
+published: '2026-10-08'
+lastReviewed: '2026-10-08'
+vertical: tech-guides
+contentType: how-to
+intent: informational
+regulatoryDomain: general
+author: editorial
+keywords:
+  - how to video call android
 ---
-```
-
 # How to make a video call on an Android phone or tablet
 
 This guide is for anyone who wants to see the face of the person they're calling, not just hear their voice. By the end, you'll be able to start a video call using WhatsApp, Google Meet or Zoom on any Android phone or tablet — and you'll know what to do if the camera seems to be pointing at the ceiling rather than at you. No technical background needed.

@@ -1,43 +1,54 @@
 ---
-title: Untitled
-slug: untitled
-published: '2026-08-23'
+title: How to register a death in England and Wales
+slug: how-to-register-a-death-uk
+section: funeral-planning
+description: >-
+  A step-by-step guide to registering a death in England and Wales: who can do
+  it, the five-day rule, what to bring, and which documents you'll receive.
+author: editorial
 lastReviewed: '2026-08-23'
----
-```yaml
----
-title: "How to register a death in England and Wales"
-slug: "how-to-register-a-death-uk"
-section: "funeral-planning"
-url: "/funeral-planning/how-to-register-a-death-uk/"
-primaryKeyword: "how to register a death uk"
-description: "A step-by-step guide to registering a death in England and Wales: who can do it, the five-day rule, what to bring, and which documents you'll receive."
-author: "editorial"
-lastReviewed: "2025-01-01"
 howTo:
   totalTime: PT60M
   steps:
-    - name: "Check who is legally allowed to register the death"
-      text: "Only certain people — close relatives, someone present at the death, or the occupier of the premises — are qualified informants under the Births and Deaths Registration Act 1953."
-    - name: "Obtain the Medical Certificate of Cause of Death"
-      text: "Collect the MCCD from the doctor or hospital before you can book a registration appointment."
-    - name: "Check whether the coroner is involved"
-      text: "If the death has been referred to the coroner, you cannot register until the coroner issues a pink form (Form 100B) or an inquest concludes."
-    - name: "Book an appointment at the register office"
-      text: "Contact the register office in the district where the death occurred, not where the person lived."
-    - name: "Attend the appointment and provide the required information"
-      text: "Give the registrar the deceased's personal details and any supporting documents you have available."
-    - name: "Receive your documents and decide how many death certificates to order"
-      text: "Collect the green burial certificate, the white death certificate copies, and consider how many certified copies you'll need."
+    - name: Check who is legally allowed to register the death
+      text: >-
+        Only certain people — close relatives, someone present at the death, or
+        the occupier of the premises — are qualified informants under the Births
+        and Deaths Registration Act 1953.
+    - name: Obtain the Medical Certificate of Cause of Death
+      text: >-
+        Collect the MCCD from the doctor or hospital before you can book a
+        registration appointment.
+    - name: Check whether the coroner is involved
+      text: >-
+        If the death has been referred to the coroner, you cannot register until
+        the coroner issues a pink form (Form 100B) or an inquest concludes.
+    - name: Book an appointment at the register office
+      text: >-
+        Contact the register office in the district where the death occurred,
+        not where the person lived.
+    - name: Attend the appointment and provide the required information
+      text: >-
+        Give the registrar the deceased's personal details and any supporting
+        documents you have available.
+    - name: Receive your documents and decide how many death certificates to order
+      text: >-
+        Collect the green burial certificate, the white death certificate
+        copies, and consider how many certified copies you'll need.
 tags:
-  - "death registration"
-  - "funeral planning"
-  - "bereavement"
-  - "register a death"
-  - "death certificate"
+  - death registration
+  - funeral planning
+  - bereavement
+  - register a death
+  - death certificate
+published: '2026-08-23'
+vertical: funeral-planning
+contentType: how-to
+intent: informational
+regulatoryDomain: general
+keywords:
+  - how to register a death uk
 ---
-```
-
 # How to register a death in England and Wales
 
 Registering a death is one of the first legal tasks you'll face after losing someone, and it has to happen within five days in England and Wales. This guide is for anyone who has been left to handle the practicalities: a spouse, an adult child, a sibling, or a close friend who was present at the end. By the time you've read it, you'll know exactly who can register, what to bring, what to say, and which documents you'll walk away with.

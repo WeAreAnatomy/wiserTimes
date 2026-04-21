@@ -1,37 +1,54 @@
 ---
-title: Untitled
-slug: untitled
-published: '2026-07-23'
-lastReviewed: '2026-07-23'
----
-```yaml
----
 title: What is the Equity Release Council and why does it matter?
-description: The Equity Release Council sets mandatory standards for lifetime mortgages and home reversion plans. Here's what those standards mean for you in practice.
+description: >-
+  The Equity Release Council sets mandatory standards for lifetime mortgages and
+  home reversion plans. Here's what those standards mean for you in practice.
 vertical: equity release and later-life finance
 contentType: spoke
 intent: informational
 regulatoryDomain: finance
 slug: equity-release-council-standards
 author: david
-published: 2025-07-14
-lastReviewed: 2025-07-14
-keywords: [equity release council, equity release standards, no negative equity guarantee, lifetime mortgage protection, equity release rules]
+published: '2026-07-23'
+lastReviewed: '2026-07-23'
+keywords:
+  - equity release council
+  - equity release standards
+  - no negative equity guarantee
+  - lifetime mortgage protection
+  - equity release rules
 faqs:
   - q: Is the Equity Release Council the same as the FCA?
-    a: No. The FCA is the statutory regulator — it authorises firms and individuals to give financial advice. The Equity Release Council is a trade body that adds a second layer of voluntary product standards on top of FCA regulation. Both matter, but in different ways.
+    a: >-
+      No. The FCA is the statutory regulator — it authorises firms and
+      individuals to give financial advice. The Equity Release Council is a
+      trade body that adds a second layer of voluntary product standards on top
+      of FCA regulation. Both matter, but in different ways.
   - q: What happens if a provider leaves the Equity Release Council?
-    a: Their existing products remain subject to the terms agreed at outset. The Council's standards are built into the product contract, not just a membership promise. That said, you should always check current membership status before proceeding.
+    a: >-
+      Their existing products remain subject to the terms agreed at outset. The
+      Council's standards are built into the product contract, not just a
+      membership promise. That said, you should always check current membership
+      status before proceeding.
   - q: Does the no-negative-equity guarantee apply to home reversion plans?
-    a: No. The no-negative-equity guarantee is specific to lifetime mortgages. Home reversion plans work differently — you sell a share of the property, so there is no debt to compound. The Council has separate standards for reversion plans.
+    a: >-
+      No. The no-negative-equity guarantee is specific to lifetime mortgages.
+      Home reversion plans work differently — you sell a share of the property,
+      so there is no debt to compound. The Council has separate standards for
+      reversion plans.
   - q: Can I move home if I have a lifetime mortgage from a Council member?
-    a: Yes, provided the new property meets the lender's criteria. Council members must allow you to transfer (port) your mortgage to a suitable new property. You cannot be forced to repay simply because you want to move.
+    a: >-
+      Yes, provided the new property meets the lender's criteria. Council
+      members must allow you to transfer (port) your mortgage to a suitable new
+      property. You cannot be forced to repay simply because you want to move.
   - q: Where can I find a list of Equity Release Council members?
-    a: The full member directory is on the Equity Release Council's own website at equityreleasecouncil.com. Key Later Life Finance, Aviva, Legal & General, More2Life and Pure Retirement are among the major lenders currently listed.
+    a: >-
+      The full member directory is on the Equity Release Council's own website
+      at equityreleasecouncil.com. Key Later Life Finance, Aviva, Legal &
+      General, More2Life and Pure Retirement are among the major lenders
+      currently listed.
 affiliates: []
 ---
-```
-
 # What is the Equity Release Council and why does it matter?
 
 The Equity Release Council is a UK trade body that sets mandatory product standards for lifetime mortgages and home reversion plans. If a lender, adviser or solicitor is a Council member, they have contractually agreed to follow those standards — which means you, as a customer, get specific legal protections built into your product from day one. The most well-known of these is the no-negative-equity guarantee: you can never owe more than your home is worth, no matter how long you live or how much the loan compounds.

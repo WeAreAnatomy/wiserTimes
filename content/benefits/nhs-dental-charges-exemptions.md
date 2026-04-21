@@ -1,37 +1,55 @@
 ---
-title: Untitled
-slug: untitled
-published: '2026-07-07'
-lastReviewed: '2026-07-07'
----
-```yaml
----
 title: NHS dental charges and who is exempt from paying
-description: Find out who qualifies for free NHS dental treatment in England, which charge bands apply, and how to get an HC2 certificate if you're on a low income.
+description: >-
+  Find out who qualifies for free NHS dental treatment in England, which charge
+  bands apply, and how to get an HC2 certificate if you're on a low income.
 vertical: benefits
 contentType: spoke
 intent: informational
 regulatoryDomain: general
 slug: nhs-dental-charges-exemptions
 author: margaret
-published: 2025-07-11
-lastReviewed: 2025-07-11
-keywords: [nhs dental charges exemptions, free nhs dental treatment, hc2 certificate, dental charge bands, pension credit dental, attendance allowance dental]
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
+keywords:
+  - nhs dental charges exemptions
+  - free nhs dental treatment
+  - hc2 certificate
+  - dental charge bands
+  - pension credit dental
+  - attendance allowance dental
 faqs:
   - q: Does Attendance Allowance give you free NHS dental treatment?
-    a: No. Receiving Attendance Allowance alone does not exempt you from NHS dental charges. However, if you're also on Pension Credit or a low enough income to qualify for an HC2 certificate, you'll be covered through one of those routes instead.
+    a: >-
+      No. Receiving Attendance Allowance alone does not exempt you from NHS
+      dental charges. However, if you're also on Pension Credit or a low enough
+      income to qualify for an HC2 certificate, you'll be covered through one of
+      those routes instead.
   - q: How much is an NHS dental check-up in 2025?
-    a: A check-up that requires no further treatment is free in some cases, but if any treatment is carried out it falls under Band 1, which costs £26.80 in England as of April 2025. Check-ups in Scotland, Wales and Northern Ireland are priced differently under their own systems.
+    a: >-
+      A check-up that requires no further treatment is free in some cases, but
+      if any treatment is carried out it falls under Band 1, which costs £26.80
+      in England as of April 2025. Check-ups in Scotland, Wales and Northern
+      Ireland are priced differently under their own systems.
   - q: Can I get free dental treatment while pregnant?
-    a: Yes. You're entitled to free NHS dental treatment if you're pregnant and if treatment begins within 12 months of your baby's due date. You'll need a valid Maternity Exemption Certificate (MATEX) to show your dentist.
+    a: >-
+      Yes. You're entitled to free NHS dental treatment if you're pregnant and
+      if treatment begins within 12 months of your baby's due date. You'll need
+      a valid Maternity Exemption Certificate (MATEX) to show your dentist.
   - q: What is the HC2 certificate and who should apply?
-    a: The HC2 certificate is issued under the NHS Low Income Scheme and entitles the holder to free NHS dental treatment. You apply using form HC1, available from Jobcentre Plus, some NHS dentists, or by calling 0300 330 1343. Eligibility is assessed on savings, income and outgoings.
+    a: >-
+      The HC2 certificate is issued under the NHS Low Income Scheme and entitles
+      the holder to free NHS dental treatment. You apply using form HC1,
+      available from Jobcentre Plus, some NHS dentists, or by calling 0300 330
+      1343. Eligibility is assessed on savings, income and outgoings.
   - q: My dentist says I owe for treatment I thought was free. What do I do?
-    a: Ask for an itemised receipt and check your exemption was recorded correctly on the FP17 form. If you believe you were wrongly charged, contact NHS England or your integrated care board. You have six months from the date of treatment to request a refund.
+    a: >-
+      Ask for an itemised receipt and check your exemption was recorded
+      correctly on the FP17 form. If you believe you were wrongly charged,
+      contact NHS England or your integrated care board. You have six months
+      from the date of treatment to request a refund.
 affiliates: []
 ---
-```
-
 # NHS dental charges and who is exempt from paying
 
 Many people pay more than they need to for NHS dental treatment, simply because they don't know which exemptions exist. In England, NHS dentistry runs on a band charge system with three price levels, and a significant number of people qualify to have their treatment covered entirely. If you're on Pension Credit, under 18, pregnant, or on a low income, you may owe nothing at all. This article explains how the charge bands work, who is automatically exempt, and what to do if you're not automatically covered but still struggling to afford treatment.

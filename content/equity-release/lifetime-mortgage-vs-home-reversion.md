@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: finance
 slug: lifetime-mortgage-vs-home-reversion
 author: david
-published: '2026-05-10'
-lastReviewed: '2026-05-10'
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
 keywords:
   - lifetime mortgage vs home reversion
   - equity release types

@@ -7,7 +7,6 @@ description: >-
 slug: telling-organisations-after-death
 section: funeral-planning
 author: editorial
-primaryKeyword: who to notify when someone dies uk
 targetUrl: /funeral-planning/telling-organisations-after-death/
 publishedDate: 2025-01-15T00:00:00.000Z
 updatedDate: 2025-01-15T00:00:00.000Z
@@ -48,6 +47,12 @@ howTo:
         lender.
 published: '2026-09-01'
 lastReviewed: '2026-09-01'
+vertical: funeral-planning
+contentType: how-to
+intent: informational
+regulatoryDomain: general
+keywords:
+  - who to notify when someone dies uk
 ---
 # Who to notify when someone dies: a complete checklist
 

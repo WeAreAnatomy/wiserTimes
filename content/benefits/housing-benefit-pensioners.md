@@ -1,35 +1,51 @@
 ---
-title: Untitled
-slug: untitled
-published: '2026-07-02'
-lastReviewed: '2026-07-02'
----
-```yaml
----
-title: "Housing Benefit for pensioners: how it works in 2026"
-description: "Most pensioners now claim housing costs through Pension Credit, not Housing Benefit. Find out which system applies to you and how to apply."
+title: 'Housing Benefit for pensioners: how it works in 2026'
+description: >-
+  Most pensioners now claim housing costs through Pension Credit, not Housing
+  Benefit. Find out which system applies to you and how to apply.
 vertical: benefits
 contentType: spoke
 intent: informational
 regulatoryDomain: general
 slug: housing-benefit-pensioners
 author: margaret
-published: 2026-01-28
-lastReviewed: 2026-01-28
-keywords: [housing benefit pensioners, pension credit housing costs, housing benefit over pension age, help with rent pensioners uk]
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
+keywords:
+  - housing benefit pensioners
+  - pension credit housing costs
+  - housing benefit over pension age
+  - help with rent pensioners uk
 faqs:
   - q: Can I still claim Housing Benefit as a pensioner in 2026?
-    a: "It depends when you reached pension age and your circumstances. Most pensioners who need help with rent now claim it through Pension Credit's housing element rather than Housing Benefit. Some older claimants are still on legacy Housing Benefit and can stay on it for now, but new claims go through Pension Credit."
+    a: >-
+      It depends when you reached pension age and your circumstances. Most
+      pensioners who need help with rent now claim it through Pension Credit's
+      housing element rather than Housing Benefit. Some older claimants are
+      still on legacy Housing Benefit and can stay on it for now, but new claims
+      go through Pension Credit.
   - q: How much help with rent can pensioners get?
-    a: "There is no fixed amount. Pension Credit's housing element, like the old Housing Benefit, is worked out from your eligible rent, your income and your savings. Council and housing association tenants are covered in full up to the Local Housing Allowance cap. Private tenants may get less, depending on local rent levels."
+    a: >-
+      There is no fixed amount. Pension Credit's housing element, like the old
+      Housing Benefit, is worked out from your eligible rent, your income and
+      your savings. Council and housing association tenants are covered in full
+      up to the Local Housing Allowance cap. Private tenants may get less,
+      depending on local rent levels.
   - q: Will my Housing Benefit stop when I move to Pension Credit?
-    a: "If you are migrated from Housing Benefit to Pension Credit, the DWP should ensure continuity of support. In practice, always confirm with your local council that any Housing Benefit payment is formally closed and that Pension Credit has taken over, to avoid an overpayment being demanded later."
+    a: >-
+      If you are migrated from Housing Benefit to Pension Credit, the DWP should
+      ensure continuity of support. In practice, always confirm with your local
+      council that any Housing Benefit payment is formally closed and that
+      Pension Credit has taken over, to avoid an overpayment being demanded
+      later.
   - q: I am a carer for my elderly parent. Can they get housing help?
-    a: "Yes. If your parent is over pension age and renting, they may be entitled to housing support through Pension Credit. You can help them apply by calling the Pension Credit claim line on 0800 99 1234. Age UK also runs a free benefits check service if you want to work through the numbers first."
+    a: >-
+      Yes. If your parent is over pension age and renting, they may be entitled
+      to housing support through Pension Credit. You can help them apply by
+      calling the Pension Credit claim line on 0800 99 1234. Age UK also runs a
+      free benefits check service if you want to work through the numbers first.
 affiliates: []
 ---
-```
-
 # Housing Benefit for pensioners: how it works in 2026
 
 If you are renting and over pension age, you can get help with your rent costs from the state. For most pensioners making a new claim in 2026, that help comes through Pension Credit rather than Housing Benefit. The two systems do much the same job, but they work differently, and which one applies to you depends mainly on when you first claimed and your current circumstances. This article explains both routes, who is still on the old Housing Benefit system, and what to do if you haven't claimed anything yet.

@@ -5,13 +5,9 @@ description: >-
   to Wi-Fi, creating a Google account, adjusting text size and brightness, and
   installing your first apps.
 slug: setting-up-android-tablet-beginners
-url: /tech-guides/setting-up-android-tablet-beginners/
-primaryKeyword: android tablet setup for beginners
 contentType: how-to
 vertical: tech-guides
-author: wiser-times-editorial
-datePublished: 2025-07-14T00:00:00.000Z
-dateModified: 2025-07-14T00:00:00.000Z
+author: editorial
 howTo:
   totalTime: PT45M
   steps:
@@ -41,6 +37,10 @@ howTo:
         iPlayer or WhatsApp, then tap Install.
 published: '2026-10-20'
 lastReviewed: '2026-10-20'
+intent: informational
+regulatoryDomain: general
+keywords:
+  - android tablet setup for beginners
 ---
 # How to set up an Android tablet if you are new to technology
 

@@ -8,7 +8,7 @@ contentType: spoke
 intent: informational
 regulatoryDomain: health
 slug: online-video-calls-for-health
-author: wiser-times-editorial
+author: editorial
 published: '2026-10-15'
 lastReviewed: '2026-10-15'
 keywords:

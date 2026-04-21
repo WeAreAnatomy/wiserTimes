@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: health
 slug: stairlift-rental-vs-buying
 author: priya
-published: '2026-06-04'
-lastReviewed: '2026-06-04'
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
 keywords:
   - rent or buy stairlift
   - stairlift rental

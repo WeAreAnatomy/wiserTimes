@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: general
 slug: carers-allowance-eligibility-2026
 author: margaret
-published: '2026-04-26'
-lastReviewed: '2026-04-26'
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
 keywords:
   - carers allowance eligibility 2026
   - carer's allowance rules

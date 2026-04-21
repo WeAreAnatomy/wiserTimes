@@ -8,7 +8,7 @@ vertical: wills and lasting power of attorney
 contentType: spoke
 intent: informational
 regulatoryDomain: legal
-slug: wills-poa/how-to-choose-an-executor
+slug: how-to-choose-an-executor
 author: david
 published: '2026-11-16'
 lastReviewed: '2026-11-16'

@@ -1,37 +1,59 @@
 ---
-title: Untitled
-slug: untitled
-published: '2026-06-28'
-lastReviewed: '2026-06-28'
----
-```yaml
----
 title: What support is available for unpaid carers in the UK?
-description: From Carer's Allowance to free respite breaks, unpaid carers in the UK have more support available than many realise. Here's what to claim and how.
+description: >-
+  From Carer's Allowance to free respite breaks, unpaid carers in the UK have
+  more support available than many realise. Here's what to claim and how.
 vertical: benefits
 contentType: spoke
 intent: informational
 regulatoryDomain: general
 slug: help-for-carers-uk
 author: margaret
-published: 2025-07-14
-lastReviewed: 2025-07-14
-keywords: [support for carers uk, carer's allowance, carer's assessment, respite care, unpaid carers, carer support]
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
+keywords:
+  - support for carers uk
+  - carer's allowance
+  - carer's assessment
+  - respite care
+  - unpaid carers
+  - carer support
 faqs:
   - q: Can I claim Carer's Allowance if I'm already getting the State Pension?
-    a: You can claim, but if your State Pension is worth more than £81.90 a week (the 2025/26 Carer's Allowance rate), you won't receive any payment on top. You may still qualify for an underlying entitlement, which can open the door to Pension Credit top-ups. Worth checking even so.
+    a: >-
+      You can claim, but if your State Pension is worth more than £81.90 a week
+      (the 2025/26 Carer's Allowance rate), you won't receive any payment on
+      top. You may still qualify for an underlying entitlement, which can open
+      the door to Pension Credit top-ups. Worth checking even so.
   - q: What is a Carer's Assessment and do I have to pay for it?
-    a: A Carer's Assessment is a free conversation with your local council about how caring affects your life and what support might help. You're entitled to one under the Care Act 2014, regardless of whether the person you care for has had their own assessment.
+    a: >-
+      A Carer's Assessment is a free conversation with your local council about
+      how caring affects your life and what support might help. You're entitled
+      to one under the Care Act 2014, regardless of whether the person you care
+      for has had their own assessment.
   - q: What counts as respite care?
-    a: Respite is any arrangement that gives you a break from caring. That might be a few hours a week with a paid carer at home, a short stay in a care home for the person you support, or a sitting service. Councils and charities both provide it, sometimes free of charge.
-  - q: I'm caring for someone but I don't live with them. Am I still entitled to support?
-    a: Yes. Distance doesn't disqualify you. If you're providing regular, substantial care — broadly understood as 35 or more hours a week — you have the same entitlements to a Carer's Assessment and Carer's Allowance as someone caring in the same household.
+    a: >-
+      Respite is any arrangement that gives you a break from caring. That might
+      be a few hours a week with a paid carer at home, a short stay in a care
+      home for the person you support, or a sitting service. Councils and
+      charities both provide it, sometimes free of charge.
+  - q: >-
+      I'm caring for someone but I don't live with them. Am I still entitled to
+      support?
+    a: >-
+      Yes. Distance doesn't disqualify you. If you're providing regular,
+      substantial care — broadly understood as 35 or more hours a week — you
+      have the same entitlements to a Carer's Assessment and Carer's Allowance
+      as someone caring in the same household.
   - q: Where can I find a local carer support group?
-    a: Carers UK runs a directory at carersuk.org, and most councils fund a local carers centre or voluntary organisation. Age UK also connects carers to local services. A quick call to your GP surgery is often the fastest route — many practices have a social prescriber who knows exactly what's available nearby.
+    a: >-
+      Carers UK runs a directory at carersuk.org, and most councils fund a local
+      carers centre or voluntary organisation. Age UK also connects carers to
+      local services. A quick call to your GP surgery is often the fastest route
+      — many practices have a social prescriber who knows exactly what's
+      available nearby.
 affiliates: []
 ---
-```
-
 # What support is available for unpaid carers in the UK?
 
 If you're looking after a family member or friend without pay, the UK has a patchwork of financial help, practical services and legal entitlements designed specifically for you. The patchwork is genuinely useful. It is also, unfortunately, genuinely confusing. This guide pulls it together.

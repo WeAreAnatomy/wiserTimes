@@ -1,17 +1,12 @@
 ---
 title: How to get a social care needs assessment in England
 slug: social-care-needs-assessment-uk
-url: /mobility-aids/social-care-needs-assessment-uk/
 description: >-
   A step-by-step guide to requesting and preparing for a social care needs
   assessment from your local council in England, including what to expect on the
   day.
-topic: mobility-aids
 persona: priya
 template: how-to
-primaryKeyword: social care needs assessment
-datePublished: 2025-07-14T00:00:00.000Z
-dateModified: 2025-07-14T00:00:00.000Z
 howTo:
   totalTime: PT60M
   steps:
@@ -35,8 +30,15 @@ howTo:
       text: >-
         Read the outcome letter, ask questions, and request a review if your
         situation changes.
-published: '2026-06-02'
-lastReviewed: '2026-06-02'
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
+vertical: mobility-aids
+contentType: how-to
+intent: informational
+regulatoryDomain: health
+author: priya
+keywords:
+  - social care needs assessment
 ---
 # How to get a social care needs assessment in England
 

@@ -5,10 +5,7 @@ description: >-
   saving favourite places, and downloading maps for areas with no signal.
 slug: using-google-maps-on-phone
 section: tech-guides
-primaryKeyword: google maps for beginners
 targetUrl: /tech-guides/using-google-maps-on-phone/
-publishedAt: 2025-01-30T00:00:00.000Z
-updatedAt: 2025-01-30T00:00:00.000Z
 howTo:
   totalTime: PT20M
   steps:
@@ -34,6 +31,13 @@ howTo:
         map and draw a box around the area you want.
 published: '2026-11-02'
 lastReviewed: '2026-11-02'
+vertical: tech-guides
+contentType: how-to
+intent: informational
+regulatoryDomain: general
+author: editorial
+keywords:
+  - google maps for beginners
 ---
 # How to use Google Maps on your smartphone
 

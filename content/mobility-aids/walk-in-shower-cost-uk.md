@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: health
 slug: walk-in-shower-cost-uk
 author: priya
-published: '2026-06-07'
-lastReviewed: '2026-06-07'
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
 keywords:
   - walk in shower cost uk
   - wet room cost uk

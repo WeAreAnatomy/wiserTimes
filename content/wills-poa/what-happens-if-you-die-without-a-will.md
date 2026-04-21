@@ -7,7 +7,7 @@ vertical: wills and lasting power of attorney
 contentType: spoke
 intent: informational
 regulatoryDomain: legal
-slug: wills-poa/what-happens-if-you-die-without-a-will
+slug: what-happens-if-you-die-without-a-will
 author: david
 published: '2026-11-25'
 lastReviewed: '2026-11-25'

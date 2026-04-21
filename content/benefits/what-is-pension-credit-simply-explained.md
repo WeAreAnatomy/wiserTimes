@@ -1,37 +1,55 @@
 ---
-title: Untitled
-slug: untitled
-published: '2026-07-14'
-lastReviewed: '2026-07-14'
----
-```yaml
----
-title: "Pension Credit explained simply: what it is and who it's for"
-description: "Pension Credit tops up your weekly income if you're over State Pension age and on a low income. Find out what it pays, who qualifies and how to claim."
+title: 'Pension Credit explained simply: what it is and who it''s for'
+description: >-
+  Pension Credit tops up your weekly income if you're over State Pension age and
+  on a low income. Find out what it pays, who qualifies and how to claim.
 vertical: benefits
 contentType: spoke
 intent: informational
 regulatoryDomain: general
 slug: what-is-pension-credit-simply-explained
 author: margaret
-published: 2025-07-14
-lastReviewed: 2025-07-14
-keywords: [pension credit explained simply, what is pension credit, who qualifies for pension credit, pension credit amount 2025, how to claim pension credit]
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
+keywords:
+  - pension credit explained simply
+  - what is pension credit
+  - who qualifies for pension credit
+  - pension credit amount 2025
+  - how to claim pension credit
 faqs:
   - q: Does Pension Credit affect other benefits?
-    a: "Claiming Pension Credit can actually open the door to other help: free TV licences for over-75s, Housing Benefit, Council Tax Reduction and help with NHS costs. Getting Pension Credit on your record is often worth doing for these reasons alone, even if the weekly top-up itself is modest."
+    a: >-
+      Claiming Pension Credit can actually open the door to other help: free TV
+      licences for over-75s, Housing Benefit, Council Tax Reduction and help
+      with NHS costs. Getting Pension Credit on your record is often worth doing
+      for these reasons alone, even if the weekly top-up itself is modest.
   - q: Can I get Pension Credit if I have savings?
-    a: "Yes, though savings above £10,000 affect the calculation. For every £500 (or part thereof) over £10,000, the DWP treats you as having £1 a week in income, whether or not you actually receive it. Savings under £10,000 are ignored entirely."
+    a: >-
+      Yes, though savings above £10,000 affect the calculation. For every £500
+      (or part thereof) over £10,000, the DWP treats you as having £1 a week in
+      income, whether or not you actually receive it. Savings under £10,000 are
+      ignored entirely.
   - q: What if my partner is younger than State Pension age?
-    a: "If you've reached State Pension age but your partner hasn't, you can still make a joint claim. The rules changed in 2019, so your eligibility depends on when you first claimed. If you're in this situation, call the Pension Credit claim line on 0800 99 1234 for a personal assessment."
+    a: >-
+      If you've reached State Pension age but your partner hasn't, you can still
+      make a joint claim. The rules changed in 2019, so your eligibility depends
+      on when you first claimed. If you're in this situation, call the Pension
+      Credit claim line on 0800 99 1234 for a personal assessment.
   - q: How far back can a Pension Credit claim be backdated?
-    a: "You can ask for your claim to be backdated by up to three months, provided you would have qualified during that period. Many people miss out on months of payments simply by not asking. Always request backdating when you apply."
+    a: >-
+      You can ask for your claim to be backdated by up to three months, provided
+      you would have qualified during that period. Many people miss out on
+      months of payments simply by not asking. Always request backdating when
+      you apply.
   - q: I already get the full new State Pension. Can I still qualify?
-    a: "Possibly, yes. The full new State Pension in 2025/26 is £221.20 a week. The Guarantee Credit threshold for a single person is £227.10. That gap of roughly £6 a week means even people on a full State Pension can still qualify, particularly if they have no other income."
+    a: >-
+      Possibly, yes. The full new State Pension in 2025/26 is £221.20 a week.
+      The Guarantee Credit threshold for a single person is £227.10. That gap of
+      roughly £6 a week means even people on a full State Pension can still
+      qualify, particularly if they have no other income.
 affiliates: []
 ---
-```
-
 # Pension Credit explained simply: what it is and who it's for
 
 Pension Credit is a weekly means-tested benefit from the government that tops up your income if you've reached State Pension age and don't have much money coming in. It's not a loan, not linked to National Insurance contributions, and it doesn't have to be paid back. In 2025/26, it guarantees a single person at least £227.10 a week, and a couple at least £346.60. Around 880,000 eligible pensioners aren't currently claiming it, according to DWP estimates, which means there's a reasonable chance you or someone you know is missing out.

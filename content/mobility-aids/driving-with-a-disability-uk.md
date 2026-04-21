@@ -1,37 +1,54 @@
 ---
-title: Untitled
-slug: untitled
-published: '2026-09-10'
-lastReviewed: '2026-09-10'
----
-```yaml
----
-title: "Driving with a disability in the UK: what help is available"
-description: "From DVLA medical rules to vehicle adaptations and the Motability scheme, here's a practical guide to driving with a disability in the UK."
+title: 'Driving with a disability in the UK: what help is available'
+description: >-
+  From DVLA medical rules to vehicle adaptations and the Motability scheme,
+  here's a practical guide to driving with a disability in the UK.
 vertical: mobility-aids-and-home-adaptations
 contentType: spoke
 intent: informational
 regulatoryDomain: health
 slug: driving-with-a-disability-uk
 author: priya
-published: 2025-01-28
-lastReviewed: 2025-01-28
-keywords: [driving with disability uk, DVLA medical requirements, Motability scheme, vehicle adaptations disability, MIDAS driving assessment]
+published: '2026-09-10'
+lastReviewed: '2026-09-10'
+keywords:
+  - driving with disability uk
+  - DVLA medical requirements
+  - Motability scheme
+  - vehicle adaptations disability
+  - MIDAS driving assessment
 faqs:
   - q: Do I have to tell the DVLA if I develop a medical condition?
-    a: Yes. You're legally required to tell the DVLA about any condition that may affect your ability to drive safely. Failing to do so is a criminal offence and can also invalidate your insurance. The GOV.UK medical conditions tool lists which conditions must be declared.
+    a: >-
+      Yes. You're legally required to tell the DVLA about any condition that may
+      affect your ability to drive safely. Failing to do so is a criminal
+      offence and can also invalidate your insurance. The GOV.UK medical
+      conditions tool lists which conditions must be declared.
   - q: How much does a MIDAS driving assessment cost?
-    a: Costs vary by centre, but most charge between £150 and £250 for a full assessment including the on-road element. Some councils subsidise assessments for residents. Contact your nearest Regional Driving Assessment Centre for a current quote.
+    a: >-
+      Costs vary by centre, but most charge between £150 and £250 for a full
+      assessment including the on-road element. Some councils subsidise
+      assessments for residents. Contact your nearest Regional Driving
+      Assessment Centre for a current quote.
   - q: Can I get a car adapted if I lease through Motability?
-    a: Yes. Motability works with a network of approved adapters. Standard adaptations such as hand controls and spinner knobs are usually free to install. More significant changes may carry an additional cost, which Motability partly subsidises.
+    a: >-
+      Yes. Motability works with a network of approved adapters. Standard
+      adaptations such as hand controls and spinner knobs are usually free to
+      install. More significant changes may carry an additional cost, which
+      Motability partly subsidises.
   - q: Will my car insurance be more expensive if my vehicle is adapted?
-    a: Not necessarily. Some insurers specialise in adapted vehicles and can be very competitive. Always declare adaptations to your insurer, as failing to do so could invalidate a claim.
+    a: >-
+      Not necessarily. Some insurers specialise in adapted vehicles and can be
+      very competitive. Always declare adaptations to your insurer, as failing
+      to do so could invalidate a claim.
   - q: What if I feel unsafe driving but my doctor says I'm fine?
-    a: You can request a MIDAS assessment independently of your GP. A specialist driving assessor will give you a clearer, practical picture of your abilities behind the wheel. Their report can also support a conversation with your doctor.
+    a: >-
+      You can request a MIDAS assessment independently of your GP. A specialist
+      driving assessor will give you a clearer, practical picture of your
+      abilities behind the wheel. Their report can also support a conversation
+      with your doctor.
 affiliates: []
 ---
-```
-
 # Driving with a disability in the UK: what help is available
 
 Disability doesn't automatically mean the end of your driving life. For many people, the right combination of medical clearance, vehicle adaptations and professional assessment means they can keep driving safely for years. The key is knowing which steps to take, in which order, and where the genuine limits lie.

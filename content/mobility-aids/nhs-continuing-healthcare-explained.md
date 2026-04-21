@@ -1,37 +1,56 @@
 ---
-title: Untitled
-slug: untitled
-published: '2026-05-28'
-lastReviewed: '2026-05-28'
----
-```yaml
----
-title: "NHS Continuing Healthcare: who qualifies and what it covers"
-description: "NHS Continuing Healthcare funds full care costs for people with complex health needs. Find out who qualifies, how the assessment works, and how to request one."
+title: 'NHS Continuing Healthcare: who qualifies and what it covers'
+description: >-
+  NHS Continuing Healthcare funds full care costs for people with complex health
+  needs. Find out who qualifies, how the assessment works, and how to request
+  one.
 vertical: mobility-aids
 contentType: spoke
 intent: informational
 regulatoryDomain: health
 slug: nhs-continuing-healthcare-explained
 author: priya
-published: 2025-07-10
-lastReviewed: 2025-07-10
-keywords: [nhs continuing healthcare, continuing healthcare eligibility, chc assessment, nhs funded care, continuing care checklist]
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
+keywords:
+  - nhs continuing healthcare
+  - continuing healthcare eligibility
+  - chc assessment
+  - nhs funded care
+  - continuing care checklist
 faqs:
-  - q: "Does NHS Continuing Healthcare cover care home fees?"
-    a: "Yes. If you're awarded NHS Continuing Healthcare, the NHS pays the full cost of your care, including care home fees, with no means test. You don't need to use your savings or sell your home to fund that care."
-  - q: "How long does a CHC assessment take?"
-    a: "There's no fixed deadline, but NHS England guidance says the full assessment should be completed within 28 days of the checklist stage. In practice, delays are common. If you haven't heard within six weeks, it's reasonable to chase the integrated care board in writing."
-  - q: "Can I appeal if I'm turned down?"
-    a: "Yes. You can request a local review first, then escalate to an independent review panel run by NHS England. The charity Beacon offers free CHC advice and can help you prepare an appeal."
-  - q: "What's the difference between NHS Continuing Healthcare and NHS-funded nursing care?"
-    a: "NHS-funded nursing care (FNC) is a flat weekly payment (£235.88 per week in 2024/25) toward nursing costs for people in care homes who don't meet the full CHC threshold. CHC covers all care costs. They are separate entitlements."
-  - q: "Does a terminal diagnosis automatically qualify someone for CHC?"
-    a: "Not automatically, but the fast-track pathway applies when a clinician considers that a person may be approaching the end of life. Fast-track decisions can be made within 48 hours and don't require the full Decision Support Tool process."
+  - q: Does NHS Continuing Healthcare cover care home fees?
+    a: >-
+      Yes. If you're awarded NHS Continuing Healthcare, the NHS pays the full
+      cost of your care, including care home fees, with no means test. You don't
+      need to use your savings or sell your home to fund that care.
+  - q: How long does a CHC assessment take?
+    a: >-
+      There's no fixed deadline, but NHS England guidance says the full
+      assessment should be completed within 28 days of the checklist stage. In
+      practice, delays are common. If you haven't heard within six weeks, it's
+      reasonable to chase the integrated care board in writing.
+  - q: Can I appeal if I'm turned down?
+    a: >-
+      Yes. You can request a local review first, then escalate to an independent
+      review panel run by NHS England. The charity Beacon offers free CHC advice
+      and can help you prepare an appeal.
+  - q: >-
+      What's the difference between NHS Continuing Healthcare and NHS-funded
+      nursing care?
+    a: >-
+      NHS-funded nursing care (FNC) is a flat weekly payment (£235.88 per week
+      in 2024/25) toward nursing costs for people in care homes who don't meet
+      the full CHC threshold. CHC covers all care costs. They are separate
+      entitlements.
+  - q: Does a terminal diagnosis automatically qualify someone for CHC?
+    a: >-
+      Not automatically, but the fast-track pathway applies when a clinician
+      considers that a person may be approaching the end of life. Fast-track
+      decisions can be made within 48 hours and don't require the full Decision
+      Support Tool process.
 affiliates: []
 ---
-```
-
 # NHS Continuing Healthcare: who qualifies and what it covers
 
 NHS Continuing Healthcare (CHC) is fully funded care arranged and paid for by the NHS. If you qualify, the NHS meets the entire cost of your care package, whether that's at home, in a care home or in a nursing home. There's no means test; your savings, property and pension are irrelevant. The eligibility question is purely clinical: does your primary need arise from health, rather than social care? That distinction matters enormously in practice, because it determines whether you fund your own care or the NHS does.

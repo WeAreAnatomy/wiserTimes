@@ -5,10 +5,8 @@ description: >-
   in the UK: internal complaints, the Financial Ombudsman Service, timescales,
   and what to expect at each stage.
 slug: equity-release-complaints-process
-url: /equity-release/equity-release-complaints-process/
 author: david
 date: 2025-07-09T00:00:00.000Z
-category: equity-release
 tags:
   - equity release
   - complaints
@@ -45,6 +43,12 @@ howTo:
         everything you send.
 published: '2026-07-21'
 lastReviewed: '2026-07-21'
+vertical: equity-release
+contentType: how-to
+intent: informational
+regulatoryDomain: finance
+keywords:
+  - equity release complaint
 ---
 ```
 

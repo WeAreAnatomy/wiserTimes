@@ -10,8 +10,8 @@ intent: informational
 regulatoryDomain: general
 slug: free-nhs-prescriptions-over-60
 author: margaret
-published: '2026-06-23'
-lastReviewed: '2026-06-23'
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
 keywords:
   - free nhs prescriptions over 60
   - nhs prescription exemption age

@@ -1,37 +1,56 @@
 ---
-title: Untitled
-slug: untitled
-published: '2026-05-17'
-lastReviewed: '2026-05-17'
----
-```yaml
----
 title: How do you choose a care home in the UK?
-description: A practical guide to CQC ratings, what to look for on visits, and the right questions to ask staff when choosing a care home in the UK.
-vertical: mobility aids and home adaptations
+description: >-
+  A practical guide to CQC ratings, what to look for on visits, and the right
+  questions to ask staff when choosing a care home in the UK.
+vertical: mobility-aids
 contentType: spoke
 intent: informational
-regulatoryDomain: general
+regulatoryDomain: health
 slug: choosing-a-care-home-uk
 author: priya
-published: 2025-07-14
-lastReviewed: 2025-07-14
-keywords: [choosing a care home uk, care home visits, CQC ratings, nursing home uk, residential care home]
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
+keywords:
+  - choosing a care home uk
+  - care home visits
+  - CQC ratings
+  - nursing home uk
+  - residential care home
 faqs:
   - q: What is the difference between a residential care home and a nursing home?
-    a: A residential care home provides personal care such as washing, dressing and meals, but does not have qualified nurses on site. A nursing home has registered nurses available around the clock and can manage complex medical needs. Some homes are registered for both.
+    a: >-
+      A residential care home provides personal care such as washing, dressing
+      and meals, but does not have qualified nurses on site. A nursing home has
+      registered nurses available around the clock and can manage complex
+      medical needs. Some homes are registered for both.
   - q: How do CQC ratings work?
-    a: The Care Quality Commission rates every registered care home in England on five areas: safe, effective, caring, responsive and well-led. Each gets one of four ratings — Outstanding, Good, Requires Improvement or Inadequate. You can search any home's current rating at cqc.org.uk.
+    a: >-
+      The Care Quality Commission rates every registered care home in England on
+      five areas: safe, effective, caring, responsive and well-led. Each gets
+      one of four ratings — Outstanding, Good, Requires Improvement or
+      Inadequate. You can search any home's current rating at cqc.org.uk.
   - q: Who pays for a care home in the UK?
-    a: If your capital and savings are below £23,250 in England (different thresholds apply in Scotland, Wales and Northern Ireland), the local authority will contribute to your care costs after a needs assessment. Above that threshold, you typically self-fund. A financial assessment by the council clarifies your position.
+    a: >-
+      If your capital and savings are below £23,250 in England (different
+      thresholds apply in Scotland, Wales and Northern Ireland), the local
+      authority will contribute to your care costs after a needs assessment.
+      Above that threshold, you typically self-fund. A financial assessment by
+      the council clarifies your position.
   - q: Can I change my mind after a care home is chosen?
-    a: Yes. You are not locked in. If a home is not working out, you or your family can give notice and move elsewhere. It is worth checking the notice period in the contract before signing, as it is typically two to four weeks.
+    a: >-
+      Yes. You are not locked in. If a home is not working out, you or your
+      family can give notice and move elsewhere. It is worth checking the notice
+      period in the contract before signing, as it is typically two to four
+      weeks.
   - q: What should I look for in a dementia care home specifically?
-    a: Look for staff who have completed dementia-specific training, secure outdoor spaces, calm communal areas without excessive noise, and evidence that the home follows a person-centred approach. The CQC inspection report often comments on dementia care in detail.
+    a: >-
+      Look for staff who have completed dementia-specific training, secure
+      outdoor spaces, calm communal areas without excessive noise, and evidence
+      that the home follows a person-centred approach. The CQC inspection report
+      often comments on dementia care in detail.
 affiliates: []
 ---
-```
-
 # How do you choose a care home in the UK?
 
 Finding the right care home for yourself or someone you love is one of the more significant decisions most families will face. The good news is there is a clear process to follow. Start with the Care Quality Commission (CQC) website to filter out homes with poor inspection records, then visit a shortlist in person, ask specific questions, and read the contract carefully before committing. Done properly, the whole process takes a few weeks rather than a few days — and that time is well spent.
@@ -133,7 +152,7 @@ Choosing a care home well takes effort. But the families I've seen do it methodi
 - q: What is the difference between a residential care home and a nursing home?
   a: A residential care home provides personal care such as washing, dressing and meals, but does not have qualified nurses on site. A nursing home has registered nurses available around the clock and can manage complex medical needs. Some homes are registered for both.
 - q: How do CQC ratings work?
-  a: The Care Quality Commission rates every registered care home in England on five areas: safe, effective, caring, responsive and well-led. Each gets one of four ratings — Outstanding, Good, Requires Improvement or Inadequate. You can search any home's current rating at cqc.org.uk.
+  a: The Care Quality Commission rates every registered care home in England on five areas — safe, effective, caring, responsive and well-led. Each gets one of four ratings — Outstanding, Good, Requires Improvement or Inadequate. You can search any home's current rating at cqc.org.uk.
 - q: Who pays for a care home in the UK?
   a: If your capital and savings are below £23,250 in England (different thresholds apply in Scotland, Wales and Northern Ireland), the local authority will contribute to your care costs after a needs assessment. Above that threshold, you typically self-fund. A financial assessment by the council clarifies your position.
 - q: Can I change my mind after a care home is chosen?

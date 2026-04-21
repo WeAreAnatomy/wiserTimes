@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: general
 slug: prepaid-funeral-plan-worth-it
 author: margaret
-published: '2026-05-12'
-lastReviewed: '2026-05-12'
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
 keywords:
   - prepaid funeral plan worth it
   - funeral plan FCA regulated

@@ -3,7 +3,6 @@ title: How to apply for probate in England and Wales
 slug: how-to-apply-for-probate-uk
 section: funeral-planning
 author: editorial
-primaryKeyword: how to apply for probate uk
 targetUrl: /funeral-planning/how-to-apply-for-probate-uk/
 description: >-
   A step-by-step guide to applying for probate in England and Wales, including
@@ -48,6 +47,12 @@ howTo:
         property, and distribute the estate to beneficiaries.
 published: '2026-08-18'
 lastReviewed: '2026-08-18'
+vertical: funeral-planning
+contentType: how-to
+intent: informational
+regulatoryDomain: general
+keywords:
+  - how to apply for probate uk
 ---
 ```
 

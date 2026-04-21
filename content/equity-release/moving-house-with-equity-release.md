@@ -1,37 +1,54 @@
 ---
-title: Untitled
-slug: untitled
-published: '2026-08-04'
-lastReviewed: '2026-08-04'
----
-```yaml
----
 title: Can you move house if you have an equity release plan?
-description: Yes, most lifetime mortgages can move with you — but the new property must meet your lender's criteria. Here's what to check before you agree a sale.
+description: >-
+  Yes, most lifetime mortgages can move with you — but the new property must
+  meet your lender's criteria. Here's what to check before you agree a sale.
 vertical: equity release and later-life finance
 contentType: spoke
 intent: informational
 regulatoryDomain: finance
-slug: equity-release/moving-house-with-equity-release
+slug: moving-house-with-equity-release
 author: david
-published: 2025-07-14
-lastReviewed: 2025-07-14
-keywords: [moving house with equity release, portable lifetime mortgage, equity release portability, early repayment charges equity release, lifetime mortgage new property]
+published: '2026-08-04'
+lastReviewed: '2026-08-04'
+keywords:
+  - moving house with equity release
+  - portable lifetime mortgage
+  - equity release portability
+  - early repayment charges equity release
+  - lifetime mortgage new property
 faqs:
   - q: Can I move house if I have a lifetime mortgage?
-    a: Most lifetime mortgages include a portability feature, meaning the loan can transfer to a new property if it meets the lender's criteria on value, construction type and condition. Your lender must agree to the transfer before you complete the purchase.
+    a: >-
+      Most lifetime mortgages include a portability feature, meaning the loan
+      can transfer to a new property if it meets the lender's criteria on value,
+      construction type and condition. Your lender must agree to the transfer
+      before you complete the purchase.
   - q: What happens if my new home doesn't qualify for equity release?
-    a: If the new property doesn't meet your lender's criteria, you'll need to repay the loan in full on completion. That usually triggers early repayment charges, though some lenders waive them in certain circumstances — check your plan documents carefully.
+    a: >-
+      If the new property doesn't meet your lender's criteria, you'll need to
+      repay the loan in full on completion. That usually triggers early
+      repayment charges, though some lenders waive them in certain circumstances
+      — check your plan documents carefully.
   - q: Do I need a new equity release application if I move?
-    a: Not usually a full new application, but your lender will reassess the new property. They'll instruct their own valuation and review the construction type, tenure and condition. Expect the process to take several weeks.
+    a: >-
+      Not usually a full new application, but your lender will reassess the new
+      property. They'll instruct their own valuation and review the construction
+      type, tenure and condition. Expect the process to take several weeks.
   - q: Can I borrow more when I port my lifetime mortgage?
-    a: Some lenders will allow you to increase the loan at the point of porting, subject to your age, the new property's value and their current lending criteria. This isn't guaranteed, so ask your adviser before you exchange contracts.
+    a: >-
+      Some lenders will allow you to increase the loan at the point of porting,
+      subject to your age, the new property's value and their current lending
+      criteria. This isn't guaranteed, so ask your adviser before you exchange
+      contracts.
   - q: Are early repayment charges on lifetime mortgages large?
-    a: They can be substantial. Fixed ERCs typically start around 5% of the outstanding balance in early years and taper down, though some plans use gilt-based calculations that are harder to predict. Always get a redemption figure in writing before committing.
+    a: >-
+      They can be substantial. Fixed ERCs typically start around 5% of the
+      outstanding balance in early years and taper down, though some plans use
+      gilt-based calculations that are harder to predict. Always get a
+      redemption figure in writing before committing.
 affiliates: []
 ---
-```
-
 # Can you move house if you have an equity release plan?
 
 Yes, in most cases you can move house without repaying your equity release plan early. The majority of lifetime mortgages sold in the UK include a portability clause, which lets you transfer the loan to a new property rather than settle it when you sell. The catch is that your lender has to approve the move, and the new home has to meet their criteria. If it doesn't, you're looking at full repayment and, very likely, early repayment charges.

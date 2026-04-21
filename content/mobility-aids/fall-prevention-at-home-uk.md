@@ -1,37 +1,56 @@
 ---
-title: Untitled
-slug: untitled
-published: '2026-09-13'
-lastReviewed: '2026-09-13'
----
-```yaml
----
-title: How to prevent falls at home: a practical room-by-room guide
-description: Falls at home are common but largely preventable. This room-by-room guide covers lighting, flooring, footwear and exercises to help you stay safe and independent.
+title: 'How to prevent falls at home: a practical room-by-room guide'
+description: >-
+  Falls at home are common but largely preventable. This room-by-room guide
+  covers lighting, flooring, footwear and exercises to help you stay safe and
+  independent.
 vertical: mobility aids and home adaptations
 contentType: spoke
 intent: informational
 regulatoryDomain: health
 slug: fall-prevention-at-home-uk
 author: priya
-published: 2025-07-14
-lastReviewed: 2025-07-14
-keywords: [fall prevention elderly home, falls prevention at home UK, home safety for older adults, balance exercises older adults, NHS falls service]
+published: '2026-09-13'
+lastReviewed: '2026-09-13'
+keywords:
+  - fall prevention elderly home
+  - falls prevention at home UK
+  - home safety for older adults
+  - balance exercises older adults
+  - NHS falls service
 faqs:
   - q: How do I get a free falls assessment at home?
-    a: Ask your GP to refer you to your local NHS falls prevention service, or contact your local authority's adult social care team. An occupational therapist will visit and assess your home at no cost. Many areas also accept self-referrals directly through the NHS.
+    a: >-
+      Ask your GP to refer you to your local NHS falls prevention service, or
+      contact your local authority's adult social care team. An occupational
+      therapist will visit and assess your home at no cost. Many areas also
+      accept self-referrals directly through the NHS.
   - q: Are non-slip mats enough to make a bathroom safe?
-    a: They help, but they're rarely sufficient on their own. Grab rails positioned correctly for your height and balance make a far bigger difference. A qualified OT can advise on the right height and angle for your home specifically.
+    a: >-
+      They help, but they're rarely sufficient on their own. Grab rails
+      positioned correctly for your height and balance make a far bigger
+      difference. A qualified OT can advise on the right height and angle for
+      your home specifically.
   - q: Does the council pay for grab rails and ramps?
-    a: Small adaptations such as grab rails and simple external ramps are frequently funded by the local authority, often at no cost to you. Larger work may qualify for a Disabled Facilities Grant. Eligibility depends on your local council and your financial situation.
+    a: >-
+      Small adaptations such as grab rails and simple external ramps are
+      frequently funded by the local authority, often at no cost to you. Larger
+      work may qualify for a Disabled Facilities Grant. Eligibility depends on
+      your local council and your financial situation.
   - q: What footwear actually reduces fall risk indoors?
-    a: Shoes or slippers with a firm, thin, non-slip sole and a closed heel. Thick-soled slippers feel comfortable but can reduce floor-feel and stability. Avoid walking in socks or bare feet, particularly on wooden or tiled floors.
+    a: >-
+      Shoes or slippers with a firm, thin, non-slip sole and a closed heel.
+      Thick-soled slippers feel comfortable but can reduce floor-feel and
+      stability. Avoid walking in socks or bare feet, particularly on wooden or
+      tiled floors.
   - q: Which exercises help most with balance?
-    a: Heel-to-toe walking, single-leg standing (near a wall or worktop for safety) and sit-to-stand repetitions from a chair are among the most practical. The NHS-backed Otago Exercise Programme has strong evidence behind it and can be done at home.
+    a: >-
+      Heel-to-toe walking, single-leg standing (near a wall or worktop for
+      safety) and sit-to-stand repetitions from a chair are among the most
+      practical. The NHS-backed Otago Exercise Programme has strong evidence
+      behind it and can be done at home.
 affiliates: []
 ---
-```
-
 # How to prevent falls at home: a practical room-by-room guide
 
 Around one in three adults over 65 falls at least once a year, according to the NHS. For many, the fall happens at home, somewhere familiar, somewhere they've moved around safely for decades. That's partly why home falls are so easy to dismiss until they aren't. The good news is that most home fall risks are fixable, and many fixes cost very little. This guide works through your home room by room, covering the changes that actually make a difference.

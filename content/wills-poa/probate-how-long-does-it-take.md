@@ -8,7 +8,7 @@ vertical: wills and lasting power of attorney
 contentType: spoke
 intent: informational
 regulatoryDomain: legal
-slug: wills-poa/probate-how-long-does-it-take
+slug: probate-how-long-does-it-take
 author: david
 published: '2026-11-23'
 lastReviewed: '2026-11-23'

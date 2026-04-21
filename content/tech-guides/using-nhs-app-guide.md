@@ -5,12 +5,8 @@ description: >-
   ordering repeat prescriptions and viewing your test results.
 slug: using-nhs-app-guide
 section: tech-guides
-primaryKeyword: nhs app how to use
 targetUrl: /tech-guides/using-nhs-app-guide/
-datePublished: 2025-01-30T00:00:00.000Z
-dateModified: 2025-01-30T00:00:00.000Z
-author: wiser-times-editorial
-readingTime: 9
+author: editorial
 schema: HowTo
 howTo:
   totalTime: PT20M
@@ -47,6 +43,12 @@ tags:
   - health record
 published: '2026-11-04'
 lastReviewed: '2026-11-04'
+vertical: tech-guides
+contentType: how-to
+intent: informational
+regulatoryDomain: general
+keywords:
+  - nhs app how to use
 ---
 # How to use the NHS App to manage your health
 

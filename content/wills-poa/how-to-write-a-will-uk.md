@@ -3,8 +3,6 @@ title: How to write a will in the UK
 slug: how-to-write-a-will-uk
 date: '2025-01-28'
 author: editorial
-category: wills-poa
-primaryKeyword: how to write a will uk
 targetUrl: /wills-poa/how-to-write-a-will-uk/
 description: >-
   A plain-English guide to writing a valid will in the UK: what to include, how

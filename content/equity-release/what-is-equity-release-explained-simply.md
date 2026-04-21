@@ -1,37 +1,52 @@
 ---
-title: Untitled
-slug: untitled
-published: '2026-08-11'
-lastReviewed: '2026-08-11'
----
-```yaml
----
 title: What is equity release? A plain-English explanation
-description: Equity release lets homeowners aged 55 or over borrow against their property without selling it. Here is how it works, what it costs, and who it suits.
+description: >-
+  Equity release lets homeowners aged 55 or over borrow against their property
+  without selling it. Here is how it works, what it costs, and who it suits.
 vertical: equity release and later-life finance
 contentType: spoke
 intent: informational
 regulatoryDomain: finance
-slug: equity-release/what-is-equity-release-explained-simply
+slug: what-is-equity-release-explained-simply
 author: david
-published: 2025-07-14
-lastReviewed: 2025-07-14
-keywords: [what is equity release, equity release explained, lifetime mortgage, home reversion, equity release uk]
+published: '2026-08-11'
+lastReviewed: '2026-08-11'
+keywords:
+  - what is equity release
+  - equity release explained
+  - lifetime mortgage
+  - home reversion
+  - equity release uk
 faqs:
   - q: Can I lose my home with equity release?
-    a: Not if your plan is Equity Release Council-approved. All council-approved plans include a no-negative-equity guarantee and a contractual right to remain in your property for life, or until you move into long-term care.
+    a: >-
+      Not if your plan is Equity Release Council-approved. All council-approved
+      plans include a no-negative-equity guarantee and a contractual right to
+      remain in your property for life, or until you move into long-term care.
   - q: Does equity release affect my state pension or benefits?
-    a: It does not affect your state pension. However, releasing a lump sum could push your savings above means-tested benefit thresholds, which may affect entitlements like Pension Credit. See our benefits guide or speak to a specialist.
+    a: >-
+      It does not affect your state pension. However, releasing a lump sum could
+      push your savings above means-tested benefit thresholds, which may affect
+      entitlements like Pension Credit. See our benefits guide or speak to a
+      specialist.
   - q: Can I still move house if I have equity release?
-    a: Yes. Equity Release Council standards require all approved plans to be portable, meaning you can transfer the mortgage to a new property, subject to the lender's criteria for that property.
+    a: >-
+      Yes. Equity Release Council standards require all approved plans to be
+      portable, meaning you can transfer the mortgage to a new property, subject
+      to the lender's criteria for that property.
   - q: What happens to the debt when I die?
-    a: The property is typically sold, the lender is repaid from the proceeds, and any remaining money goes to your estate. Your family will not inherit a debt that exceeds the property's value under a no-negative-equity guarantee.
+    a: >-
+      The property is typically sold, the lender is repaid from the proceeds,
+      and any remaining money goes to your estate. Your family will not inherit
+      a debt that exceeds the property's value under a no-negative-equity
+      guarantee.
   - q: Is equity release regulated?
-    a: Yes. Lifetime mortgages and home reversion plans are both regulated by the Financial Conduct Authority. Any adviser who recommends one must be FCA-authorised.
+    a: >-
+      Yes. Lifetime mortgages and home reversion plans are both regulated by the
+      Financial Conduct Authority. Any adviser who recommends one must be
+      FCA-authorised.
 affiliates: []
 ---
-```
-
 # What is equity release? A plain-English explanation
 
 Equity release is a way for homeowners aged 55 or over to access money tied up in their property without having to sell it or move out. The most common form is a **lifetime mortgage**: you borrow against your home, the interest rolls up over time, and the loan is repaid when you die or move into long-term care. The second form, a **home reversion plan**, involves selling a share of your property to a provider at a discount, in exchange for a lump sum or regular income, while retaining the right to live there.

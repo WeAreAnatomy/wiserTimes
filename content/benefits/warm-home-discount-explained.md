@@ -10,8 +10,8 @@ intent: informational
 regulatoryDomain: general
 slug: warm-home-discount-explained
 author: margaret
-published: '2026-07-12'
-lastReviewed: '2026-07-12'
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
 keywords:
   - warm home discount 2026
   - warm home discount eligibility

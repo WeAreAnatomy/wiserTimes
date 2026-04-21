@@ -1,15 +1,9 @@
 ---
 title: How to set up an iPhone if you're new to smartphones
 slug: iphone-setup-for-over-60s
-url: /tech-guides/iphone-setup-for-over-60s/
 publishDate: 2025-01-28T00:00:00.000Z
 lastReviewed: '2026-04-20'
 author: margaret
-category: tech-guides
-primaryKeyword: iphone setup for seniors uk
-metaDescription: >-
-  A plain-English guide to setting up an iPhone for the first time, covering
-  accessibility settings, Apple ID, iCloud backup and installing apps.
 howTo:
   totalTime: PT60M
   steps:
@@ -48,7 +42,9 @@ vertical: tech-guides
 contentType: how-to
 intent: informational
 regulatoryDomain: general
-description: ''
+description: >-
+  A plain-English guide to setting up an iPhone for the first time, covering
+  accessibility settings, Apple ID, iCloud backup and installing apps.
 keywords:
   - iphone setup for seniors uk
 published: '2026-04-20'

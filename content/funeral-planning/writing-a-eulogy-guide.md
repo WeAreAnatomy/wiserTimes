@@ -1,39 +1,51 @@
 ---
-title: Untitled
-slug: untitled
-published: '2026-09-06'
-lastReviewed: '2026-09-06'
----
-```yaml
----
-title: "How to write and deliver a eulogy"
-slug: "writing-a-eulogy-guide"
-section: "funeral-planning"
-primaryKeyword: "how to write a eulogy"
-description: "A step-by-step guide to writing and delivering a eulogy: structure, length, gathering memories from family, and practical tips for the day itself."
-author: "editorial"
-publishedAt: "2025-01-15"
-updatedAt: "2025-01-15"
+title: How to write and deliver a eulogy
+slug: writing-a-eulogy-guide
+section: funeral-planning
+description: >-
+  A step-by-step guide to writing and delivering a eulogy: structure, length,
+  gathering memories from family, and practical tips for the day itself.
+author: editorial
 howTo:
   totalTime: PT3H
   steps:
-    - name: "Decide who is writing the eulogy"
-      text: "Agree with the family on one person to lead the writing, even if others contribute memories."
-    - name: "Gather memories from family and friends"
-      text: "Send a simple set of questions to people who knew the person well, giving them a week to reply."
-    - name: "Choose a structure"
-      text: "Arrange your material into a beginning that introduces the person, a middle that tells their story, and a close that offers comfort."
-    - name: "Write a first draft"
-      text: "Write the whole eulogy from start to finish without stopping to edit, then put it aside for a day."
-    - name: "Edit for length and tone"
-      text: "Cut until the spoken version runs to around six or seven minutes, and read it aloud to check it sounds natural."
-    - name: "Practise delivering it"
-      text: "Read the eulogy aloud at least four times before the funeral, ideally to another person who will give honest feedback."
-    - name: "Prepare for the day itself"
-      text: "Print the eulogy in a large font, bring a second copy, and have a plan for managing emotion at the lectern."
+    - name: Decide who is writing the eulogy
+      text: >-
+        Agree with the family on one person to lead the writing, even if others
+        contribute memories.
+    - name: Gather memories from family and friends
+      text: >-
+        Send a simple set of questions to people who knew the person well,
+        giving them a week to reply.
+    - name: Choose a structure
+      text: >-
+        Arrange your material into a beginning that introduces the person, a
+        middle that tells their story, and a close that offers comfort.
+    - name: Write a first draft
+      text: >-
+        Write the whole eulogy from start to finish without stopping to edit,
+        then put it aside for a day.
+    - name: Edit for length and tone
+      text: >-
+        Cut until the spoken version runs to around six or seven minutes, and
+        read it aloud to check it sounds natural.
+    - name: Practise delivering it
+      text: >-
+        Read the eulogy aloud at least four times before the funeral, ideally to
+        another person who will give honest feedback.
+    - name: Prepare for the day itself
+      text: >-
+        Print the eulogy in a large font, bring a second copy, and have a plan
+        for managing emotion at the lectern.
+published: '2026-09-06'
+lastReviewed: '2026-09-06'
+vertical: funeral-planning
+contentType: how-to
+intent: informational
+regulatoryDomain: general
+keywords:
+  - how to write a eulogy
 ---
-```
-
 # How to write and deliver a eulogy
 
 Writing a eulogy is one of the most meaningful things you can do for someone you've lost, and also one of the most daunting. This guide is for anyone who has been asked to give a eulogy, or who wants to write one for themselves or a family member, and isn't sure where to begin. By the end, you'll have a clear structure to follow, practical ways to gather material, and specific tips for getting through the delivery on the day.

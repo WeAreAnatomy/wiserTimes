@@ -1,37 +1,59 @@
 ---
-title: Untitled
-slug: untitled
-published: '2026-07-28'
-lastReviewed: '2026-07-28'
----
-```yaml
----
 title: What happens to an equity release plan when the homeowner dies?
-description: When a homeowner with equity release dies, the loan must usually be repaid within 12 months, typically by selling the property. Here's what families need to know.
+description: >-
+  When a homeowner with equity release dies, the loan must usually be repaid
+  within 12 months, typically by selling the property. Here's what families need
+  to know.
 vertical: equity release and later-life finance
 contentType: spoke
 intent: informational
 regulatoryDomain: finance
 slug: equity-release-what-happens-on-death
 author: david
-published: 2025-07-14
-lastReviewed: 2025-07-14
-keywords: [equity release on death, what happens to equity release when you die, equity release repayment after death, lifetime mortgage on death, equity release and inheritance]
+published: '2026-07-28'
+lastReviewed: '2026-07-28'
+keywords:
+  - equity release on death
+  - what happens to equity release when you die
+  - equity release repayment after death
+  - lifetime mortgage on death
+  - equity release and inheritance
 faqs:
   - q: How long does the family have to repay an equity release plan after death?
-    a: Most lenders allow 12 months from the date of death, though some set the clock from the date probate is granted. Check the specific terms in the plan documents. Lenders will usually pause or waive interest accrual during an agreed repayment period, but this varies.
+    a: >-
+      Most lenders allow 12 months from the date of death, though some set the
+      clock from the date probate is granted. Check the specific terms in the
+      plan documents. Lenders will usually pause or waive interest accrual
+      during an agreed repayment period, but this varies.
   - q: Does the family have to sell the house to repay equity release?
-    a: Not necessarily. The estate can repay the loan using other assets, or a family member can remortgage to buy the property. In practice, most families sell, because the sums involved are large. The no-negative-equity guarantee means the estate will never owe more than the sale proceeds.
-  - q: What happens if there is money left over after repaying the equity release loan?
-    a: Any remaining equity belongs to the estate and passes to the beneficiaries under the will, or under the rules of intestacy if there is no will. This is why understanding how compound interest erodes equity over time matters when the plan is first taken out.
+    a: >-
+      Not necessarily. The estate can repay the loan using other assets, or a
+      family member can remortgage to buy the property. In practice, most
+      families sell, because the sums involved are large. The no-negative-equity
+      guarantee means the estate will never owe more than the sale proceeds.
+  - q: >-
+      What happens if there is money left over after repaying the equity release
+      loan?
+    a: >-
+      Any remaining equity belongs to the estate and passes to the beneficiaries
+      under the will, or under the rules of intestacy if there is no will. This
+      is why understanding how compound interest erodes equity over time matters
+      when the plan is first taken out.
   - q: Does equity release affect inheritance tax?
-    a: The outstanding loan reduces the value of the estate, which can reduce the inheritance tax liability. However, the interaction with IHT planning is complex, and you should speak to a specialist estate planning solicitor or an FCA-authorised adviser before drawing any conclusions.
+    a: >-
+      The outstanding loan reduces the value of the estate, which can reduce the
+      inheritance tax liability. However, the interaction with IHT planning is
+      complex, and you should speak to a specialist estate planning solicitor or
+      an FCA-authorised adviser before drawing any conclusions.
   - q: What if the surviving partner wants to stay in the property?
-    a: On a joint lifetime mortgage, the surviving borrower simply continues living in the property under the existing plan. The loan only becomes repayable when the second borrower dies or moves permanently into long-term care. This is one of the key reasons couples take out joint rather than single plans.
+    a: >-
+      On a joint lifetime mortgage, the surviving borrower simply continues
+      living in the property under the existing plan. The loan only becomes
+      repayable when the second borrower dies or moves permanently into
+      long-term care. This is one of the key reasons couples take out joint
+      rather than single plans.
 affiliates: []
 ---
-```
-
 # What happens to an equity release plan when the homeowner dies?
 
 When someone with a lifetime mortgage dies, the clock starts. Their estate typically has 12 months to repay the outstanding loan, and in most cases that means selling the property. The process is more straightforward than many families fear, but there are real decisions to make under time pressure, often while grieving. Knowing what to expect before that moment arrives makes everything easier.

@@ -1,39 +1,48 @@
 ---
-title: Untitled
-slug: untitled
-published: '2026-07-05'
-lastReviewed: '2026-07-05'
----
-```yaml
----
-title: "How to appeal a benefits decision in the UK"
-description: "Been refused a benefit or had your award cut? This step-by-step guide walks you through mandatory reconsideration and the tribunal appeal process, with timescales, evidence tips and where to get free help."
-slug: "how-to-appeal-benefits-decision"
-url: "/benefits/how-to-appeal-benefits-decision/"
-primaryKeyword: "appeal benefits decision uk"
-category: "benefits"
-author: "Margaret"
-publishDate: "2025-01-28"
-lastReviewed: "2025-01-28"
-readingTime: "9 min"
+title: How to appeal a benefits decision in the UK
+description: >-
+  Been refused a benefit or had your award cut? This step-by-step guide walks
+  you through mandatory reconsideration and the tribunal appeal process, with
+  timescales, evidence tips and where to get free help.
+slug: how-to-appeal-benefits-decision
+author: Margaret
+publishDate: '2025-01-28'
+lastReviewed: '2026-04-20'
 howTo:
-  totalTime: "PT2H"
+  totalTime: PT2H
   steps:
-    - name: "Read your decision letter carefully"
-      text: "Find the date of your decision letter and note the deadline for requesting mandatory reconsideration."
-    - name: "Request mandatory reconsideration"
-      text: "Contact the DWP (or the relevant agency) in writing within one month of the decision to ask them to look again."
-    - name: "Gather your evidence"
-      text: "Collect medical letters, GP records, care plans and any other documents that support your case before reconsideration."
-    - name: "Wait for the mandatory reconsideration notice"
-      text: "The DWP will review the decision and send you a mandatory reconsideration notice, usually within a few weeks."
-    - name: "Appeal to the tribunal if needed"
-      text: "If the decision still goes against you, complete form SSCS1 and send it to HMCTS within one month of the reconsideration notice."
-    - name: "Prepare for your tribunal hearing"
-      text: "Organise your evidence, consider getting representation, and understand what to expect on the day."
+    - name: Read your decision letter carefully
+      text: >-
+        Find the date of your decision letter and note the deadline for
+        requesting mandatory reconsideration.
+    - name: Request mandatory reconsideration
+      text: >-
+        Contact the DWP (or the relevant agency) in writing within one month of
+        the decision to ask them to look again.
+    - name: Gather your evidence
+      text: >-
+        Collect medical letters, GP records, care plans and any other documents
+        that support your case before reconsideration.
+    - name: Wait for the mandatory reconsideration notice
+      text: >-
+        The DWP will review the decision and send you a mandatory
+        reconsideration notice, usually within a few weeks.
+    - name: Appeal to the tribunal if needed
+      text: >-
+        If the decision still goes against you, complete form SSCS1 and send it
+        to HMCTS within one month of the reconsideration notice.
+    - name: Prepare for your tribunal hearing
+      text: >-
+        Organise your evidence, consider getting representation, and understand
+        what to expect on the day.
+published: '2026-04-20'
+vertical: benefits
+contentType: how-to
+intent: informational
+regulatoryDomain: general
+keywords:
+  - appeal benefits decision uk
 ---
-```
-
 # How to appeal a benefits decision in the UK
 
 This guide is for anyone who has received a benefits decision they believe is wrong, whether that is a refusal, a lower award than expected, or a sudden cut to an existing payment. It is also useful for family members helping someone through the process. By the end, you will know exactly what steps to take, in what order, and where to get free support if you need it.

@@ -10,8 +10,8 @@ intent: informational
 regulatoryDomain: general
 slug: free-tv-licence-over-75
 author: margaret
-published: '2026-06-25'
-lastReviewed: '2026-06-25'
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
 keywords:
   - over 75 tv licence
   - free tv licence over 75

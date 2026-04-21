@@ -29,16 +29,47 @@ const regulatoryByVertical = {
   'wills-poa': 'legal',
 };
 
-function normalise(data, vertical, slug) {
+// Extract first usable paragraph from markdown body as a fallback description.
+function extractDescription(body) {
+  const lines = body.split('\n');
+  for (const line of lines) {
+    const t = line.trim();
+    if (!t) continue;
+    if (t.startsWith('#')) continue;
+    if (t.startsWith(':::')) continue;
+    if (t.startsWith('|')) continue;
+    if (t.startsWith('!')) continue;
+    if (t.startsWith('-') || t.startsWith('*')) continue;
+    if (t.length < 40) continue;
+    // Strip inline markdown (bold, links, code)
+    const clean = t.replace(/\*\*|__|\[([^\]]+)\]\([^)]+\)|`[^`]+`/g, '$1').trim();
+    return clean.length > 160 ? clean.slice(0, 157) + '...' : clean;
+  }
+  return '';
+}
+
+function normalise(data, vertical, slug, body) {
   const out = { ...data };
   const csv = topicByKey.get(`${vertical}/${slug}`) || {};
 
-  if (!out.vertical && out.topic) out.vertical = out.topic;
+  // Field renames: various names the model uses for vertical
+  if (!out.vertical && (out.topic || out.category)) out.vertical = out.topic || out.category;
   if (!out.vertical) out.vertical = vertical;
   delete out.topic;
+  delete out.category;
+
+  // Clean up extra model-added fields that don't belong in our schema
+  delete out.url;
+  delete out.primaryKeyword;
+  delete out.secondaryKeywords;
+  delete out.readingTime;
+  delete out.datePublished;
+  delete out.dateModified;
 
   if (!out.slug || out.slug.includes('/')) out.slug = slug;
 
+  // published: NEVER overwrite a value that schedule.mjs already set.
+  // Only fill in if genuinely missing.
   if (!out.published && out.publishedAt) out.published = out.publishedAt;
   if (out.published instanceof Date) out.published = out.published.toISOString().slice(0, 10);
   if (typeof out.published === 'string' && out.published.includes('T')) {
@@ -66,10 +97,17 @@ function normalise(data, vertical, slug) {
     out.regulatoryDomain = regulatoryByVertical[out.vertical] || 'general';
   }
 
+  // author: map legacy author slugs to persona slugs
+  const authorMap = { 'wiser-times-editorial': 'editorial' };
   if (!out.author) out.author = csv.persona || 'editorial';
+  if (authorMap[out.author]) out.author = authorMap[out.author];
 
   if (!out.title && csv.title) out.title = csv.title;
-  if (!out.description) out.description = '';
+
+  // description: prefer metaDescription rename, then existing value, then body extract
+  if (!out.description && out.metaDescription) out.description = out.metaDescription;
+  delete out.metaDescription;
+  if (!out.description) out.description = extractDescription(body);
 
   if (!out.keywords) out.keywords = csv.primaryKeyword ? [csv.primaryKeyword] : [];
 
@@ -88,7 +126,7 @@ for (const v of fs.readdirSync(CONTENT_ROOT, { withFileTypes: true })) {
     const raw = fs.readFileSync(path.join(dir, file), 'utf8');
     const parsed = matter(raw);
     const before = JSON.stringify(parsed.data);
-    const fixed = normalise(parsed.data, v.name, slug);
+    const fixed = normalise(parsed.data, v.name, slug, parsed.content);
     const after = JSON.stringify(fixed);
     if (before === after) {
       unchanged++;

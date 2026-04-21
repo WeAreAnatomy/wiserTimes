@@ -1,37 +1,55 @@
 ---
-title: Untitled
-slug: untitled
-published: '2026-10-28'
-lastReviewed: '2026-10-28'
----
-```yaml
----
 title: Ways to stay in touch with family using technology
-description: Video calls, group chats and photo-sharing apps make it easier than ever to feel close to family. Here's what works, what doesn't, and how to choose.
+description: >-
+  Video calls, group chats and photo-sharing apps make it easier than ever to
+  feel close to family. Here's what works, what doesn't, and how to choose.
 vertical: simple technology guides
 contentType: spoke
 intent: informational
 regulatoryDomain: general
-slug: tech-guides/staying-in-touch-with-family-technology
+slug: staying-in-touch-with-family-technology
 author: wiser-times-tech
-published: 2025-07-14
-lastReviewed: 2025-07-14
-keywords: [staying in touch with family technology, video calling for older people, WhatsApp for seniors, photo sharing apps UK, group messaging family]
+published: '2026-10-28'
+lastReviewed: '2026-10-28'
+keywords:
+  - staying in touch with family technology
+  - video calling for older people
+  - WhatsApp for seniors
+  - photo sharing apps UK
+  - group messaging family
 faqs:
   - q: What is the easiest video calling app for older people?
-    a: FaceTime is the simplest if everyone in your family uses an iPhone or iPad. If not, WhatsApp video calling works on any smartphone and is free over Wi-Fi. Zoom is worth considering if you want to include larger groups, since it allows up to 100 participants on a free account.
+    a: >-
+      FaceTime is the simplest if everyone in your family uses an iPhone or
+      iPad. If not, WhatsApp video calling works on any smartphone and is free
+      over Wi-Fi. Zoom is worth considering if you want to include larger
+      groups, since it allows up to 100 participants on a free account.
   - q: Do I need Wi-Fi to make a video call?
-    a: Not strictly, but without Wi-Fi you'll use your mobile data allowance, which can run down quickly during a video call. Most providers suggest you'll use roughly 200–270 MB per hour on a standard call. If your data plan is limited, connect to home Wi-Fi first.
+    a: >-
+      Not strictly, but without Wi-Fi you'll use your mobile data allowance,
+      which can run down quickly during a video call. Most providers suggest
+      you'll use roughly 200–270 MB per hour on a standard call. If your data
+      plan is limited, connect to home Wi-Fi first.
   - q: Is WhatsApp safe for older people to use?
-    a: WhatsApp uses end-to-end encryption, which means only you and the person you're messaging can read what you send. It's free, widely used and generally considered safe. As with any app, be cautious about messages from unknown contacts, and never share your bank details or passwords via any messaging platform.
+    a: >-
+      WhatsApp uses end-to-end encryption, which means only you and the person
+      you're messaging can read what you send. It's free, widely used and
+      generally considered safe. As with any app, be cautious about messages
+      from unknown contacts, and never share your bank details or passwords via
+      any messaging platform.
   - q: How do I share photos with family without social media?
-    a: Google Photos and Apple's Shared Albums let you create a private album that only invited family members can see. Neither requires you to post publicly. Alternatively, the Lifecake app is designed specifically for family photo sharing and is used widely in the UK.
+    a: >-
+      Google Photos and Apple's Shared Albums let you create a private album
+      that only invited family members can see. Neither requires you to post
+      publicly. Alternatively, the Lifecake app is designed specifically for
+      family photo sharing and is used widely in the UK.
   - q: My grandchildren use different phones to me. Does that matter?
-    a: Less than it used to. WhatsApp, Zoom and Google Meet all work across iPhones, Android phones and tablets regardless of make or model. FaceTime is the exception — it only works between Apple devices.
+    a: >-
+      Less than it used to. WhatsApp, Zoom and Google Meet all work across
+      iPhones, Android phones and tablets regardless of make or model. FaceTime
+      is the exception — it only works between Apple devices.
 affiliates: []
 ---
-```
-
 # Ways to stay in touch with family using technology
 
 Keeping in close contact with family doesn't require technical expertise or expensive kit. A smartphone or tablet, a reliable Wi-Fi connection, and the right app are genuinely enough to hold a weekly video call with grandchildren in Edinburgh, share holiday photos with a daughter in New Zealand, or trade silly messages with a sibling all day long. This guide runs through the main options — video calls, group messaging, photo sharing and plain old voice calls — and offers some honest thoughts on which tools work well and which add more frustration than they're worth.

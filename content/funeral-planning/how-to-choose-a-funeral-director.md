@@ -1,37 +1,60 @@
 ---
-title: Untitled
-slug: untitled
-published: '2026-08-20'
-lastReviewed: '2026-08-20'
----
-```yaml
----
-title: How to choose a funeral director: what to look for
-description: Choosing a funeral director in the UK takes more than picking the nearest name. Here's what to check, ask, and compare before you commit.
+title: 'How to choose a funeral director: what to look for'
+description: >-
+  Choosing a funeral director in the UK takes more than picking the nearest
+  name. Here's what to check, ask, and compare before you commit.
 vertical: funeral-planning
 contentType: spoke
 intent: informational
 regulatoryDomain: general
 slug: how-to-choose-a-funeral-director
 author: david
-published: 2025-01-30
-lastReviewed: 2025-01-30
-keywords: [choosing a funeral director uk, how to choose a funeral director, funeral director questions to ask, NAFD, SAIF, funeral price list]
+published: '2026-08-20'
+lastReviewed: '2026-08-20'
+keywords:
+  - choosing a funeral director uk
+  - how to choose a funeral director
+  - funeral director questions to ask
+  - NAFD
+  - SAIF
+  - funeral price list
 faqs:
   - q: Do funeral directors in the UK have to be licensed?
-    a: No. Funeral directing is not a licensed profession in the UK. Anyone can legally set up as a funeral director. This makes membership of a trade body such as NAFD or SAIF a meaningful signal of commitment to minimum standards, though it is not a legal requirement.
+    a: >-
+      No. Funeral directing is not a licensed profession in the UK. Anyone can
+      legally set up as a funeral director. This makes membership of a trade
+      body such as NAFD or SAIF a meaningful signal of commitment to minimum
+      standards, though it is not a legal requirement.
   - q: What is a standardised price list and am I entitled to one?
-    a: Since 2021, the Competition and Markets Authority requires funeral directors in Great Britain to provide a standardised price list, both in-branch and online. It must show the cost of a basic funeral, individual itemised services, and disbursements such as crematorium fees. You are entitled to receive one before you agree to anything.
+    a: >-
+      Since 2021, the Competition and Markets Authority requires funeral
+      directors in Great Britain to provide a standardised price list, both
+      in-branch and online. It must show the cost of a basic funeral, individual
+      itemised services, and disbursements such as crematorium fees. You are
+      entitled to receive one before you agree to anything.
   - q: Can I use a funeral director in a different area?
-    a: Yes. There is no rule requiring you to use a local firm, though using one at a distance can add transport costs. You can collect a body from a hospital or care home in one area and instruct a funeral director based elsewhere.
+    a: >-
+      Yes. There is no rule requiring you to use a local firm, though using one
+      at a distance can add transport costs. You can collect a body from a
+      hospital or care home in one area and instruct a funeral director based
+      elsewhere.
   - q: What is the difference between NAFD and SAIF?
-    a: Both are UK trade associations with codes of practice and complaint procedures. The National Association of Funeral Directors (NAFD) is larger, with around 3,500 member locations. The Society of Allied and Independent Funeral Directors (SAIF) focuses specifically on independent, family-run firms. Neither guarantees perfection, but both offer a complaints route if things go wrong.
+    a: >-
+      Both are UK trade associations with codes of practice and complaint
+      procedures. The National Association of Funeral Directors (NAFD) is
+      larger, with around 3,500 member locations. The Society of Allied and
+      Independent Funeral Directors (SAIF) focuses specifically on independent,
+      family-run firms. Neither guarantees perfection, but both offer a
+      complaints route if things go wrong.
   - q: What should a basic funeral cost in 2025?
-    a: Costs vary significantly by region. According to SunLife's Cost of Dying report 2024, the average cost of a basic funeral in the UK is around £4,000, though cremation-only direct funerals can be arranged for £1,000 to £1,500 with some providers. Always compare like-for-like using the standardised price list.
+    a: >-
+      Costs vary significantly by region. According to SunLife's Cost of Dying
+      report 2024, the average cost of a basic funeral in the UK is around
+      £4,000, though cremation-only direct funerals can be arranged for £1,000
+      to £1,500 with some providers. Always compare like-for-like using the
+      standardised price list.
 affiliates: []
 ---
-```
-
 # How to choose a funeral director: what to look for
 
 You don't need to accept the first funeral director you find. You have the right to shop around, ask questions, and walk away if something doesn't feel right. This guide covers what to check before you instruct anyone, what a legitimate price list should contain, and what membership of NAFD or SAIF actually means in practice.

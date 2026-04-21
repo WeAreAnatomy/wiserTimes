@@ -1,38 +1,47 @@
 ---
-title: Untitled
-slug: untitled
-published: '2026-09-03'
-lastReviewed: '2026-09-03'
----
-```yaml
----
-title: "What to do in the first days after someone dies in the UK"
-slug: "what-to-do-when-someone-dies-uk"
-url: "/funeral-planning/what-to-do-when-someone-dies-uk/"
-description: "A step-by-step guide to the practical tasks in the days after a bereavement: getting the medical certificate, registering the death, and notifying key organisations."
-primaryKeyword: "what to do when someone dies uk"
-category: "funeral-planning"
-author: "editorial"
-datePublished: "2025-07-08"
-dateModified: "2025-07-08"
+title: What to do in the first days after someone dies in the UK
+slug: what-to-do-when-someone-dies-uk
+description: >-
+  A step-by-step guide to the practical tasks in the days after a bereavement:
+  getting the medical certificate, registering the death, and notifying key
+  organisations.
+author: editorial
 howTo:
   totalTime: PT7D
   steps:
-    - name: "Get the medical certificate of cause of death"
-      text: "Contact the GP or hospital to obtain the MCCD, which is needed before you can register the death."
-    - name: "Contact a funeral director"
-      text: "Appoint a funeral director to collect and care for the body while you complete the registration."
-    - name: "Register the death"
-      text: "Book an appointment at the register office within five days (eight in Scotland) to formally register the death."
-    - name: "Collect the official death certificates"
-      text: "Order multiple certified copies at the register office; you'll need one for each organisation you notify."
-    - name: "Apply for the Tell Us Once service"
-      text: "Use the government's Tell Us Once service to notify multiple public-sector bodies in a single session."
-    - name: "Notify financial and private organisations"
-      text: "Contact banks, insurers, pension providers, and utilities individually using the death certificates."
+    - name: Get the medical certificate of cause of death
+      text: >-
+        Contact the GP or hospital to obtain the MCCD, which is needed before
+        you can register the death.
+    - name: Contact a funeral director
+      text: >-
+        Appoint a funeral director to collect and care for the body while you
+        complete the registration.
+    - name: Register the death
+      text: >-
+        Book an appointment at the register office within five days (eight in
+        Scotland) to formally register the death.
+    - name: Collect the official death certificates
+      text: >-
+        Order multiple certified copies at the register office; you'll need one
+        for each organisation you notify.
+    - name: Apply for the Tell Us Once service
+      text: >-
+        Use the government's Tell Us Once service to notify multiple
+        public-sector bodies in a single session.
+    - name: Notify financial and private organisations
+      text: >-
+        Contact banks, insurers, pension providers, and utilities individually
+        using the death certificates.
+published: '2026-09-03'
+lastReviewed: '2026-09-03'
+vertical: funeral-planning
+contentType: how-to
+intent: informational
+regulatoryDomain: general
+keywords:
+  - what to do when someone dies uk
 ---
-```
-
 # What to do in the first days after someone dies in the UK
 
 This guide is for anyone who has just lost someone close and needs to know what happens next. By the end of it, you'll understand how to get the paperwork in motion, who needs to be told, and in what order. It won't cover everything about funerals or probate in depth, but it will get you through the immediate practical steps when you may be least able to think clearly.

@@ -1,21 +1,16 @@
 ---
-title: Untitled
-slug: untitled
-published: '2026-08-06'
-lastReviewed: '2026-08-06'
----
-```yaml
----
-title: "Questions to ask before meeting an equity release adviser"
-description: "Going into an equity release meeting prepared makes a real difference. Here are the credentials to check, documents to bring, and questions worth asking."
+title: Questions to ask before meeting an equity release adviser
+description: >-
+  Going into an equity release meeting prepared makes a real difference. Here
+  are the credentials to check, documents to bring, and questions worth asking.
 vertical: equity-release-and-later-life-finance
 contentType: spoke
 intent: informational
 regulatoryDomain: finance
 slug: questions-to-ask-equity-release-adviser
 author: david
-published: 2025-07-14
-lastReviewed: 2025-07-14
+published: '2026-08-06'
+lastReviewed: '2026-08-06'
 keywords:
   - questions to ask equity release adviser
   - equity release adviser checklist
@@ -24,19 +19,37 @@ keywords:
   - equity release advice questions
 faqs:
   - q: Does an equity release adviser have to be FCA-authorised?
-    a: "Yes. Any adviser giving regulated advice on equity release must be authorised by the Financial Conduct Authority. You can check their status on the FCA Register at register.fca.org.uk. If they're not listed, walk away."
+    a: >-
+      Yes. Any adviser giving regulated advice on equity release must be
+      authorised by the Financial Conduct Authority. You can check their status
+      on the FCA Register at register.fca.org.uk. If they're not listed, walk
+      away.
   - q: How much does equity release advice cost?
-    a: "Adviser fees typically run from around £1,500 to £3,000, though some firms charge a percentage of the loan amount instead. Always ask for the figure in pounds before you agree to anything. Some advisers offer a free initial consultation."
+    a: >-
+      Adviser fees typically run from around £1,500 to £3,000, though some firms
+      charge a percentage of the loan amount instead. Always ask for the figure
+      in pounds before you agree to anything. Some advisers offer a free initial
+      consultation.
   - q: Can I take someone with me to the appointment?
-    a: "Absolutely, and a good adviser will actively encourage it. Bringing an adult child or trusted friend means a second pair of ears on anything you might want to revisit later."
+    a: >-
+      Absolutely, and a good adviser will actively encourage it. Bringing an
+      adult child or trusted friend means a second pair of ears on anything you
+      might want to revisit later.
   - q: What if I change my mind after getting advice?
-    a: "You're not committed until you sign the final legal documents. Even after that, there's a 14-day cooling-off period on regulated mortgage contracts. An Equity Release Council member adviser should explain this clearly."
-  - q: What's the difference between a lifetime mortgage and a home reversion plan?
-    a: "A lifetime mortgage lets you borrow against your home while retaining ownership. A home reversion plan involves selling a share of the property at below market value in exchange for a lump sum or income. Both are forms of equity release, but they work very differently."
+    a: >-
+      You're not committed until you sign the final legal documents. Even after
+      that, there's a 14-day cooling-off period on regulated mortgage contracts.
+      An Equity Release Council member adviser should explain this clearly.
+  - q: >-
+      What's the difference between a lifetime mortgage and a home reversion
+      plan?
+    a: >-
+      A lifetime mortgage lets you borrow against your home while retaining
+      ownership. A home reversion plan involves selling a share of the property
+      at below market value in exchange for a lump sum or income. Both are forms
+      of equity release, but they work very differently.
 affiliates: []
 ---
-```
-
 # Questions to ask before meeting an equity release adviser
 
 Walking into an equity release appointment without preparation is a bit like signing a contract you haven't read. The adviser may be perfectly competent and entirely straightforward, but equity release is a long-term financial commitment and you'll get far more from the meeting if you've thought through what you want to know beforehand. This guide covers the credentials worth checking, what to bring, and the specific questions that tend to matter most.

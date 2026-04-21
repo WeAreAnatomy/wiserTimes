@@ -2,7 +2,6 @@
 title: How to get care equipment through the NHS
 slug: care-equipment-through-nhs
 section: mobility-aids
-url: /mobility-aids/care-equipment-through-nhs/
 description: >-
   A step-by-step guide to getting care equipment through the NHS and local
   authority community equipment services, including what's free, what isn't, and
@@ -15,8 +14,6 @@ keywords:
   - disabled facilities grant equipment
 author: Priya
 persona: occupational-therapist
-datePublished: '2025-07-14'
-dateModified: '2025-07-14'
 howTo:
   totalTime: PT30M
   steps:
@@ -50,6 +47,10 @@ howTo:
         collect and refurbish items for someone else.
 published: '2026-09-08'
 lastReviewed: '2026-09-08'
+vertical: mobility-aids
+contentType: how-to
+intent: informational
+regulatoryDomain: health
 ---
 # How to get care equipment through the NHS
 

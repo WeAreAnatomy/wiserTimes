@@ -8,7 +8,7 @@ vertical: simple technology guides
 contentType: spoke
 intent: informational
 regulatoryDomain: general
-slug: tech-guides/password-safety-guide
+slug: password-safety-guide
 author: tech-guides-editor
 published: '2026-10-18'
 lastReviewed: '2026-10-18'

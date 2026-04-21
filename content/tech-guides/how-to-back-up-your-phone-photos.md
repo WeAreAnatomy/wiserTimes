@@ -5,12 +5,8 @@ description: >-
   whether you use an iPhone or an Android phone — so a lost or broken phone
   doesn't mean losing everything.
 slug: how-to-back-up-your-phone-photos
-url: /tech-guides/how-to-back-up-your-phone-photos/
 publishDate: 2025-01-30T00:00:00.000Z
 updateDate: 2025-01-30T00:00:00.000Z
-category: tech-guides
-primaryKeyword: how to back up phone photos
-readingTime: 9
 howTo:
   totalTime: PT20M
   steps:
@@ -40,6 +36,13 @@ howTo:
         successful backup.
 published: '2026-09-24'
 lastReviewed: '2026-09-24'
+vertical: tech-guides
+contentType: how-to
+intent: informational
+regulatoryDomain: general
+author: editorial
+keywords:
+  - how to back up phone photos
 ---
 This guide is for anyone who has ever worried about what would happen if their phone was lost, stolen or simply stopped working. By the time you finish reading, you'll know how to make sure your photos and contacts are saved somewhere safe, automatically, without having to think about it again. It covers iPhones and Android phones, and you don't need to be especially confident with technology to follow the steps.
 

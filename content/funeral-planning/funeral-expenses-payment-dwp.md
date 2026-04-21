@@ -1,21 +1,16 @@
 ---
-title: Untitled
-slug: untitled
-published: '2026-08-16'
-lastReviewed: '2026-08-16'
----
-```yaml
----
-title: "DWP Funeral Expenses Payment: who can claim and how to apply"
-description: "The DWP Funeral Expenses Payment can help cover burial or cremation costs if you receive certain benefits. Find out who qualifies and how to claim."
+title: 'DWP Funeral Expenses Payment: who can claim and how to apply'
+description: >-
+  The DWP Funeral Expenses Payment can help cover burial or cremation costs if
+  you receive certain benefits. Find out who qualifies and how to claim.
 vertical: funeral-planning
 contentType: spoke
 intent: informational
 regulatoryDomain: general
-slug: funeral-planning/funeral-expenses-payment-dwp
+slug: funeral-expenses-payment-dwp
 author: margaret
-published: 2025-07-14
-lastReviewed: 2025-07-14
+published: '2026-08-16'
+lastReviewed: '2026-08-16'
 keywords:
   - funeral expenses payment
   - DWP funeral payment
@@ -24,19 +19,37 @@ keywords:
   - how to claim funeral expenses payment
 faqs:
   - q: How long do I have to claim Funeral Expenses Payment?
-    a: You must claim within six months of the date of the funeral. The DWP will not accept late claims except in genuinely exceptional circumstances, so it is worth applying as soon as you are able, even before you have all the paperwork to hand.
+    a: >-
+      You must claim within six months of the date of the funeral. The DWP will
+      not accept late claims except in genuinely exceptional circumstances, so
+      it is worth applying as soon as you are able, even before you have all the
+      paperwork to hand.
   - q: Will the payment cover the full cost of the funeral?
-    a: Almost certainly not in full. The payment covers burial or cremation fees, certain necessary travel costs, and up to £1,000 for other expenses. Any money the deceased left behind, or contributions from other sources, will be deducted from what you receive.
+    a: >-
+      Almost certainly not in full. The payment covers burial or cremation fees,
+      certain necessary travel costs, and up to £1,000 for other expenses. Any
+      money the deceased left behind, or contributions from other sources, will
+      be deducted from what you receive.
   - q: What happens if the deceased had some savings?
-    a: The DWP will deduct the value of any assets in the estate, including savings accounts, from the payment. Insurance policies specifically taken out to cover funeral costs are also deducted. Other assets, such as a jointly owned property, are treated differently, so it is worth asking the DWP directly about your specific situation.
+    a: >-
+      The DWP will deduct the value of any assets in the estate, including
+      savings accounts, from the payment. Insurance policies specifically taken
+      out to cover funeral costs are also deducted. Other assets, such as a
+      jointly owned property, are treated differently, so it is worth asking the
+      DWP directly about your specific situation.
   - q: Can I claim if I am not the next of kin?
-    a: Yes, in some circumstances. If there is no close relative who is responsible for the funeral, the DWP can accept a claim from a close friend. The key test is whether it was reasonable for you to arrange the funeral given the family circumstances.
+    a: >-
+      Yes, in some circumstances. If there is no close relative who is
+      responsible for the funeral, the DWP can accept a claim from a close
+      friend. The key test is whether it was reasonable for you to arrange the
+      funeral given the family circumstances.
   - q: What if the DWP refuses my claim?
-    a: You can ask for a mandatory reconsideration within one month of the refusal letter. If that fails, you can appeal to an independent tribunal. Citizens Advice or your local Age UK branch can help you prepare either.
+    a: >-
+      You can ask for a mandatory reconsideration within one month of the
+      refusal letter. If that fails, you can appeal to an independent tribunal.
+      Citizens Advice or your local Age UK branch can help you prepare either.
 affiliates: []
 ---
-```
-
 # DWP Funeral Expenses Payment: who can claim and how to apply
 
 Funeral Expenses Payment is a grant from the Department for Work and Pensions that helps towards the cost of a funeral. It is not means-tested in the traditional sense, but it is tied to benefits: you can only claim if you, or your partner, receive one of a specific list of qualifying benefits at the time you apply. You have six months from the date of the funeral to make a claim. The payment will not cover everything, but it can take the edge off costs that often run to several thousand pounds.

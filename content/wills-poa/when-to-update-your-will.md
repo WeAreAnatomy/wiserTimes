@@ -7,7 +7,7 @@ vertical: wills and lasting power of attorney
 contentType: spoke
 intent: informational
 regulatoryDomain: legal
-slug: wills-poa/when-to-update-your-will
+slug: when-to-update-your-will
 author: david
 published: '2026-11-27'
 lastReviewed: '2026-11-27'

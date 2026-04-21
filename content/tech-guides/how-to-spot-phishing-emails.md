@@ -8,7 +8,7 @@ contentType: spoke
 intent: informational
 regulatoryDomain: general
 slug: how-to-spot-phishing-emails
-author: wiser-times-editorial
+author: editorial
 published: '2026-10-01'
 lastReviewed: '2026-10-01'
 keywords:

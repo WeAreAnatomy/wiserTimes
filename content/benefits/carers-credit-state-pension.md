@@ -10,8 +10,8 @@ intent: informational
 regulatoryDomain: general
 slug: carers-credit-state-pension
 author: margaret
-published: '2026-06-18'
-lastReviewed: '2026-06-18'
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
 keywords:
   - carers credit state pension
   - carers credit eligibility

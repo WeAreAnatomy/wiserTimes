@@ -1,46 +1,57 @@
 ---
-title: Untitled
-slug: untitled
-published: '2026-09-22'
-lastReviewed: '2026-09-22'
----
-```yaml
----
-title: "Setting up and using email: a guide for complete beginners"
-description: "A plain-English guide to creating your first email account, sending and receiving messages, handling attachments, and keeping your inbox under control. Written for UK readers new to email."
+title: 'Setting up and using email: a guide for complete beginners'
+description: >-
+  A plain-English guide to creating your first email account, sending and
+  receiving messages, handling attachments, and keeping your inbox under
+  control. Written for UK readers new to email.
 slug: email-for-beginners-uk
-url: /tech-guides/email-for-beginners-uk/
-primaryKeyword: email for beginners uk
-category: tech-guides
 tags:
   - email
   - technology
   - beginners
   - gmail
   - outlook
-readingTime: 9
-publishedDate: 2025-01-28
-updatedDate: 2025-01-28
+publishedDate: 2025-01-28T00:00:00.000Z
+updatedDate: 2025-01-28T00:00:00.000Z
 howTo:
   totalTime: PT30M
   steps:
     - name: Choose an email provider
-      text: Decide between Gmail (Google) and Outlook (Microsoft) based on which feels more familiar.
+      text: >-
+        Decide between Gmail (Google) and Outlook (Microsoft) based on which
+        feels more familiar.
     - name: Create your account
-      text: Visit the provider's website, enter your details, and choose an email address.
+      text: >-
+        Visit the provider's website, enter your details, and choose an email
+        address.
     - name: Sign in for the first time
-      text: Use your new email address and password to log in on a computer, tablet, or phone.
+      text: >-
+        Use your new email address and password to log in on a computer, tablet,
+        or phone.
     - name: Send your first email
-      text: Click or tap the compose button, enter a recipient's address, write your message, and press send.
+      text: >-
+        Click or tap the compose button, enter a recipient's address, write your
+        message, and press send.
     - name: Read and reply to messages
       text: Open a message from your inbox and use the reply button to respond.
     - name: Open and save an attachment
-      text: Tap or click the paperclip icon or file name in a message to open or download a file someone has sent.
+      text: >-
+        Tap or click the paperclip icon or file name in a message to open or
+        download a file someone has sent.
     - name: Keep your inbox tidy
-      text: Use folders or labels to sort messages, and delete anything you no longer need.
+      text: >-
+        Use folders or labels to sort messages, and delete anything you no
+        longer need.
+published: '2026-09-22'
+lastReviewed: '2026-09-22'
+vertical: tech-guides
+contentType: how-to
+intent: informational
+regulatoryDomain: general
+author: editorial
+keywords:
+  - email for beginners uk
 ---
-```
-
 # Setting up and using email: a guide for complete beginners
 
 This guide is for anyone who has never had an email account, or who set one up years ago with someone else's help and would now like to understand what they're actually doing. By the end, you'll be able to create a free account, send a message to a friend or family member, open files people send you, and keep your inbox from becoming a wall of unread clutter. No prior experience needed.

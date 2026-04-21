@@ -1,19 +1,11 @@
 ---
-title: Untitled
-slug: untitled
-published: '2026-05-21'
-lastReviewed: '2026-05-21'
----
-```yaml
----
-title: "How to get help at home after leaving hospital"
-description: "A step-by-step guide to discharge planning, reablement services and your rights around timing — so you or a family member can return home safely."
+title: How to get help at home after leaving hospital
+description: >-
+  A step-by-step guide to discharge planning, reablement services and your
+  rights around timing — so you or a family member can return home safely.
 slug: help-at-home-after-hospital
-url: /mobility-aids/help-at-home-after-hospital/
-publishDate: 2025-07-10
+publishDate: 2025-07-10T00:00:00.000Z
 author: priya
-category: mobility-aids
-primaryKeyword: help at home after hospital discharge
 tags:
   - hospital discharge
   - reablement
@@ -25,20 +17,43 @@ howTo:
   totalTime: PT30M
   steps:
     - name: Tell the ward team you'll need support at home
-      text: As early as possible after admission, let nurses or the ward clerk know you don't feel ready to go home alone, so a discharge assessment can begin.
+      text: >-
+        As early as possible after admission, let nurses or the ward clerk know
+        you don't feel ready to go home alone, so a discharge assessment can
+        begin.
     - name: Ask to speak to the hospital social worker or discharge coordinator
-      text: Request this conversation directly; it triggers a formal review of your care needs and sets the discharge planning process in motion.
+      text: >-
+        Request this conversation directly; it triggers a formal review of your
+        care needs and sets the discharge planning process in motion.
     - name: Understand what intermediate care and reablement mean
-      text: Ask the team whether you qualify for a period of free reablement support at home, which can last up to six weeks under the NHS Continuing Healthcare framework.
+      text: >-
+        Ask the team whether you qualify for a period of free reablement support
+        at home, which can last up to six weeks under the NHS Continuing
+        Healthcare framework.
     - name: Know your rights around discharge timing
-      text: Confirm with the ward team that you cannot legally be sent home without a safe discharge plan in place, and ask for any decision in writing if you feel under pressure.
+      text: >-
+        Confirm with the ward team that you cannot legally be sent home without
+        a safe discharge plan in place, and ask for any decision in writing if
+        you feel under pressure.
     - name: Request an occupational therapy assessment before you leave
-      text: An OT can assess your home environment, identify equipment you need and arrange for grab rails, a raised toilet seat or other aids to be in place before you arrive.
+      text: >-
+        An OT can assess your home environment, identify equipment you need and
+        arrange for grab rails, a raised toilet seat or other aids to be in
+        place before you arrive.
     - name: Arrange a follow-up care review
-      text: Before discharge, agree a date for a formal review of your support package, typically within six weeks, so your care can be scaled back or adjusted as you recover.
+      text: >-
+        Before discharge, agree a date for a formal review of your support
+        package, typically within six weeks, so your care can be scaled back or
+        adjusted as you recover.
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
+vertical: mobility-aids
+contentType: how-to
+intent: informational
+regulatoryDomain: health
+keywords:
+  - help at home after hospital discharge
 ---
-```
-
 # How to get help at home after leaving hospital
 
 This guide is for anyone who has been admitted to hospital and is worried about what happens when they leave, and for adult children trying to make sense of the system on a parent's behalf. By the time you reach the end, you'll know who to ask for help, what you're entitled to, and how to push back calmly if you feel the hospital is rushing things.

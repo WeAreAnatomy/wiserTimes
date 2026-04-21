@@ -1,37 +1,57 @@
 ---
-title: Untitled
-slug: untitled
-published: '2026-08-02'
-lastReviewed: '2026-08-02'
----
-```yaml
----
-title: "Equity release and your estate: what family members should know"
-description: "Equity release reduces the inheritance you leave. Here's how repayment works on death or care entry, what protected equity means, and what to ask."
+title: 'Equity release and your estate: what family members should know'
+description: >-
+  Equity release reduces the inheritance you leave. Here's how repayment works
+  on death or care entry, what protected equity means, and what to ask.
 vertical: equity release and later-life finance
 contentType: spoke
 intent: informational
 regulatoryDomain: finance
-slug: equity-release/inheritance-and-equity-release
+slug: inheritance-and-equity-release
 author: david
-published: 2025-07-14
-lastReviewed: 2025-07-14
-keywords: [equity release and inheritance, equity release on death, equity release estate, protected equity, inheritance guarantee equity release, lifetime mortgage repayment death]
+published: '2026-08-02'
+lastReviewed: '2026-08-02'
+keywords:
+  - equity release and inheritance
+  - equity release on death
+  - equity release estate
+  - protected equity
+  - inheritance guarantee equity release
+  - lifetime mortgage repayment death
 faqs:
   - q: Does equity release have to be repaid when someone dies?
-    a: "Yes. With a lifetime mortgage, the loan plus all accrued interest becomes repayable when the last borrower dies or moves permanently into care. The estate typically has 12 months to repay, usually by selling the property, though some lenders allow longer."
+    a: >-
+      Yes. With a lifetime mortgage, the loan plus all accrued interest becomes
+      repayable when the last borrower dies or moves permanently into care. The
+      estate typically has 12 months to repay, usually by selling the property,
+      though some lenders allow longer.
   - q: Can I protect some inheritance for my children?
-    a: "Yes. Most Equity Release Council-approved lifetime mortgages offer an optional protected equity feature, which ringfences a fixed percentage of your property's final sale value for your estate. You choose the percentage upfront, typically between 10% and 50%."
+    a: >-
+      Yes. Most Equity Release Council-approved lifetime mortgages offer an
+      optional protected equity feature, which ringfences a fixed percentage of
+      your property's final sale value for your estate. You choose the
+      percentage upfront, typically between 10% and 50%.
   - q: What is a no-negative-equity guarantee?
-    a: "It's a product standard required by the Equity Release Council. It means that even if your outstanding loan grows to exceed your property's sale value, your estate will never owe the shortfall. The lender absorbs any deficit."
+    a: >-
+      It's a product standard required by the Equity Release Council. It means
+      that even if your outstanding loan grows to exceed your property's sale
+      value, your estate will never owe the shortfall. The lender absorbs any
+      deficit.
   - q: Does equity release affect inheritance tax?
-    a: "Releasing equity reduces the value of your estate, which can lower an inheritance tax liability. However, the picture depends on what you do with the funds. Gifting the money could create a separate IHT issue if you die within seven years. A specialist financial adviser can model this properly."
+    a: >-
+      Releasing equity reduces the value of your estate, which can lower an
+      inheritance tax liability. However, the picture depends on what you do
+      with the funds. Gifting the money could create a separate IHT issue if you
+      die within seven years. A specialist financial adviser can model this
+      properly.
   - q: What happens if the property sells for less than the loan?
-    a: "If your property is sold for less than the outstanding loan balance, and your plan meets Equity Release Council standards, the no-negative-equity guarantee protects your estate. Nothing extra is owed, and beneficiaries receive nothing from the sale proceeds."
+    a: >-
+      If your property is sold for less than the outstanding loan balance, and
+      your plan meets Equity Release Council standards, the no-negative-equity
+      guarantee protects your estate. Nothing extra is owed, and beneficiaries
+      receive nothing from the sale proceeds.
 affiliates: []
 ---
-```
-
 # Equity release and your estate: what family members should know
 
 Equity release reduces the inheritance your family will receive. That is the blunt reality, and it is worth stating at the start rather than the end. A lifetime mortgage compounds interest over years, sometimes decades, and the loan repaid on death or care entry can be considerably larger than the amount originally borrowed. What your estate receives, if anything, depends on how much equity remains in the property after that repayment.

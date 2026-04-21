@@ -2,15 +2,12 @@
 title: How to get the most out of a smart TV
 slug: smart-tv-guide-for-beginners
 section: tech-guides
-primaryKeyword: smart tv guide for seniors
 targetURL: /tech-guides/smart-tv-guide-for-beginners/
 description: >-
   A plain-English guide to setting up a smart TV: connecting to Wi-Fi, watching
   BBC iPlayer, Netflix and YouTube, and adjusting subtitles, text size and audio
   description.
-datePublished: '2025-01-28'
-dateModified: '2025-01-28'
-author: wiser-times-editorial
+author: editorial
 howTo:
   totalTime: PT45M
   steps:
@@ -42,6 +39,12 @@ howTo:
         adjust contrast.
 published: '2026-10-26'
 lastReviewed: '2026-10-26'
+vertical: tech-guides
+contentType: how-to
+intent: informational
+regulatoryDomain: general
+keywords:
+  - smart tv guide for seniors
 ---
 # How to get the most out of a smart TV
 

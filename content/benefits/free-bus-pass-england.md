@@ -1,16 +1,11 @@
 ---
 title: How to get your free bus pass in England
-slug: benefits/free-bus-pass-england
+slug: free-bus-pass-england
 description: >-
   If you've reached State Pension age, you're entitled to free bus travel across
   England. Here's how to apply through your local council, what the pass covers,
   and what to do if things go wrong.
-primaryKeyword: free bus pass england
-datePublished: 2025-07-14T00:00:00.000Z
-dateModified: 2025-07-14T00:00:00.000Z
 author: margaret
-category: benefits
-readingTime: 8
 howTo:
   totalTime: PT20M
   steps:
@@ -36,8 +31,14 @@ howTo:
       text: >-
         Tap or show your pass on any eligible bus service in England from 9:30am
         on weekdays and all day at weekends and bank holidays.
-published: '2026-06-21'
-lastReviewed: '2026-06-21'
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
+vertical: benefits
+contentType: how-to
+intent: informational
+regulatoryDomain: general
+keywords:
+  - free bus pass england
 ---
 ```
 

@@ -87,7 +87,17 @@ for (const v of fs.readdirSync(CONTENT_ROOT, { withFileTypes: true })) {
     }
 
     const slug = file.replace(/\.md$/, '');
-    writeArticle(v.name, slug, innerParsed.data, innerParsed.content);
+    // Preserve the scheduled published date from the outer stub — it was set
+    // by schedule.mjs and must not be overwritten by the model's arbitrary date.
+    const fixedData = {
+      ...innerParsed.data,
+      published: parsed.data.published || innerParsed.data.published,
+      lastReviewed: parsed.data.lastReviewed || innerParsed.data.lastReviewed,
+    };
+    if (fixedData.published instanceof Date) {
+      fixedData.published = fixedData.published.toISOString().slice(0, 10);
+    }
+    writeArticle(v.name, slug, fixedData, innerParsed.content);
     repaired++;
     console.log(`[repair] ${v.name}/${file}`);
   }

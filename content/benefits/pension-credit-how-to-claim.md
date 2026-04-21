@@ -4,11 +4,7 @@ description: >-
   A plain-English walkthrough of the Pension Credit application, from checking
   your eligibility to receiving your first payment.
 slug: pension-credit-how-to-claim
-primaryKeyword: claim pension credit
-datePublished: '2025-01-30'
-dateModified: '2025-01-30'
 author: Margaret
-category: benefits
 howTo:
   totalTime: PT45M
   steps:

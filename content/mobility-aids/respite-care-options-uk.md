@@ -1,37 +1,56 @@
 ---
-title: Untitled
-slug: untitled
-published: '2026-09-15'
-lastReviewed: '2026-09-15'
----
-```yaml
----
 title: Respite care options for carers and the people they support
-description: Respite care gives carers a break while the person they support stays safe. Here's how to access it in the UK, what it costs, and who can help.
+description: >-
+  Respite care gives carers a break while the person they support stays safe.
+  Here's how to access it in the UK, what it costs, and who can help.
 vertical: mobility-aids
 contentType: spoke
 intent: informational
 regulatoryDomain: health
 slug: respite-care-options-uk
 author: priya
-published: 2025-07-14
-lastReviewed: 2025-07-14
-keywords: [respite care uk, carer's assessment, short breaks for carers, crossroads care, respite care cost uk]
+published: '2026-09-15'
+lastReviewed: '2026-09-15'
+keywords:
+  - respite care uk
+  - carer's assessment
+  - short breaks for carers
+  - crossroads care
+  - respite care cost uk
 faqs:
   - q: Is respite care free in the UK?
-    a: It depends on your financial situation and where you live. A carer's assessment or needs assessment may lead to funded respite through your local council. Many people contribute to costs on a means-tested basis. Crossroads Care and some charities also offer free or subsidised short breaks.
+    a: >-
+      It depends on your financial situation and where you live. A carer's
+      assessment or needs assessment may lead to funded respite through your
+      local council. Many people contribute to costs on a means-tested basis.
+      Crossroads Care and some charities also offer free or subsidised short
+      breaks.
   - q: How do I apply for a carer's assessment?
-    a: Contact your local adult social care team, usually through your council's website. You're entitled to a carer's assessment regardless of how many hours you care or whether you live with the person you support. It's free and there's no minimum care threshold to qualify.
+    a: >-
+      Contact your local adult social care team, usually through your council's
+      website. You're entitled to a carer's assessment regardless of how many
+      hours you care or whether you live with the person you support. It's free
+      and there's no minimum care threshold to qualify.
   - q: What is the difference between respite care and a care home?
-    a: A care home provides long-term permanent residence. Respite care is a planned short break, typically a few days to a few weeks, either in a residential setting or in the person's own home with a relief carer covering the usual carer's role.
+    a: >-
+      A care home provides long-term permanent residence. Respite care is a
+      planned short break, typically a few days to a few weeks, either in a
+      residential setting or in the person's own home with a relief carer
+      covering the usual carer's role.
   - q: Can someone with dementia go into respite care?
-    a: Yes. Many care homes offer dedicated dementia respite. It's worth visiting in advance with the person to reduce anxiety, and providing staff with a detailed personal profile covering routines, preferences and communication needs.
+    a: >-
+      Yes. Many care homes offer dedicated dementia respite. It's worth visiting
+      in advance with the person to reduce anxiety, and providing staff with a
+      detailed personal profile covering routines, preferences and communication
+      needs.
   - q: What if the person I care for refuses respite?
-    a: This is very common. A social worker can sometimes help, and a trial of home-based respite (rather than a residential placement) often feels less threatening. The person's safety and your ability to keep caring are both relevant to the conversation.
+    a: >-
+      This is very common. A social worker can sometimes help, and a trial of
+      home-based respite (rather than a residential placement) often feels less
+      threatening. The person's safety and your ability to keep caring are both
+      relevant to the conversation.
 affiliates: []
 ---
-```
-
 # Respite care options for carers and the people they support
 
 Respite care is a planned break from caring, arranged so the person you support continues to receive safe, appropriate care while you step away. That might mean a relief carer coming to the house for an afternoon, a few nights in a residential setting, or a longer stay while you go on holiday. In the UK, access usually starts with either a carer's assessment or a needs assessment for the person you support, both of which are free from your local council.

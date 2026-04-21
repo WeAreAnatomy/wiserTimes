@@ -1,16 +1,11 @@
 ---
 title: How to install grab rails safely in a bathroom
 slug: how-to-install-grab-rails
-url: /mobility-aids/how-to-install-grab-rails/
 description: >-
   A practical guide to choosing, positioning and fitting bathroom grab rails
   safely, whether you're doing it yourself or arranging for someone else to do
   it.
 author: priya
-category: mobility-aids
-primaryKeyword: install grab rails bathroom
-datePublished: 2025-01-28T00:00:00.000Z
-dateModified: 2025-01-28T00:00:00.000Z
 howTo:
   totalTime: PT3H
   steps:

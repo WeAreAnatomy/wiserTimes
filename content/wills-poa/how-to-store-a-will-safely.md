@@ -1,37 +1,59 @@
 ---
-title: Untitled
-slug: untitled
-published: '2026-11-18'
-lastReviewed: '2026-11-18'
----
-```markdown
----
 title: Where to keep your will so it can be found when needed
-description: Your will is useless if no one can find it. Here are the practical options for storing a will safely in the UK, from solicitors to the National Will Register.
+description: >-
+  Your will is useless if no one can find it. Here are the practical options for
+  storing a will safely in the UK, from solicitors to the National Will
+  Register.
 vertical: wills and lasting power of attorney
 contentType: spoke
 intent: informational
 regulatoryDomain: legal
-slug: wills-poa/how-to-store-a-will-safely
+slug: how-to-store-a-will-safely
 author: david
-published: 2025-07-10
-lastReviewed: 2025-07-10
-keywords: [where to store a will uk, how to store a will safely, national will register, solicitor will storage, keep a will safe]
+published: '2026-11-18'
+lastReviewed: '2026-11-18'
+keywords:
+  - where to store a will uk
+  - how to store a will safely
+  - national will register
+  - solicitor will storage
+  - keep a will safe
 faqs:
-  - q: Is the National Will Register the same as registering a will with the government?
-    a: No. The National Will Register (run by Certainty) is a private service. There is no official government register of wills in England and Wales. Registering with Certainty does not give a will any legal force — it simply records where the document is stored.
+  - q: >-
+      Is the National Will Register the same as registering a will with the
+      government?
+    a: >-
+      No. The National Will Register (run by Certainty) is a private service.
+      There is no official government register of wills in England and Wales.
+      Registering with Certainty does not give a will any legal force — it
+      simply records where the document is stored.
   - q: Can I store my will in a bank safe deposit box?
-    a: You can, but it creates a practical problem. Banks sometimes seal a deceased person's accounts and boxes before probate is granted, which can make accessing the very document needed to start probate difficult. A solicitor's strongroom or the Principal Probate Registry is generally a better choice.
+    a: >-
+      You can, but it creates a practical problem. Banks sometimes seal a
+      deceased person's accounts and boxes before probate is granted, which can
+      make accessing the very document needed to start probate difficult. A
+      solicitor's strongroom or the Principal Probate Registry is generally a
+      better choice.
   - q: Does a will need to be stored with the solicitor who wrote it?
-    a: No. You can store a will anywhere you like, including with a different solicitor, a will-writing company, or at home. What matters is that the executor knows where it is and can access it promptly.
+    a: >-
+      No. You can store a will anywhere you like, including with a different
+      solicitor, a will-writing company, or at home. What matters is that the
+      executor knows where it is and can access it promptly.
   - q: What happens if a will is lost or destroyed?
-    a: If the original signed will cannot be found, the estate may be treated as if the person died intestate — without a will — regardless of whether copies exist. Courts can sometimes accept a copy, but it requires an application and is not guaranteed. This is why safe, known storage matters.
+    a: >-
+      If the original signed will cannot be found, the estate may be treated as
+      if the person died intestate — without a will — regardless of whether
+      copies exist. Courts can sometimes accept a copy, but it requires an
+      application and is not guaranteed. This is why safe, known storage
+      matters.
   - q: Should I store my lasting power of attorney in the same place as my will?
-    a: The LPA and the will serve different purposes at different times. The LPA is needed while you are alive; the will after your death. Keeping them together is convenient, but make sure your attorney knows where the LPA is right now, not just your executor.
+    a: >-
+      The LPA and the will serve different purposes at different times. The LPA
+      is needed while you are alive; the will after your death. Keeping them
+      together is convenient, but make sure your attorney knows where the LPA is
+      right now, not just your executor.
 affiliates: []
 ---
-```
-
 # Where to keep your will so it can be found when needed
 
 A will only does what you intend if someone can find it, read it, and prove it is the real, signed original. A surprising number of carefully written wills never reach probate because they were tucked in a drawer, sealed in an envelope a relative was afraid to open, or stored with a solicitor's firm that closed years later. The question of where to keep your will is, in practical terms, just as important as what it says.

@@ -5,18 +5,14 @@ description: >-
   Zoom, joining a meeting, and getting your camera and microphone working — on
   any device.
 slug: how-to-use-zoom-beginners
-url: /tech-guides/how-to-use-zoom-beginners/
 publishDate: 2025-01-28T00:00:00.000Z
 updateDate: 2025-01-28T00:00:00.000Z
-author: wiser-times-editorial
-category: tech-guides
-primaryKeyword: how to use zoom uk
+author: editorial
 tags:
   - zoom
   - video calling
   - technology guides
   - beginners
-readingTime: 9
 howTo:
   totalTime: PT20M
   steps:
@@ -42,6 +38,12 @@ howTo:
       text: Tap "Leave" or "End" when the call is finished.
 published: '2026-10-06'
 lastReviewed: '2026-10-06'
+vertical: tech-guides
+contentType: how-to
+intent: informational
+regulatoryDomain: general
+keywords:
+  - how to use zoom uk
 ---
 # How to use Zoom: a step-by-step guide for beginners
 

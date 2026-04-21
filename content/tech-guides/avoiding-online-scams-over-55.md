@@ -8,9 +8,9 @@ contentType: spoke
 intent: informational
 regulatoryDomain: general
 slug: avoiding-online-scams-over-55
-author: wiser-times-editorial
-published: '2026-06-11'
-lastReviewed: '2026-06-11'
+author: editorial
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
 keywords:
   - avoiding online scams
   - online scams over 55
