@@ -10,8 +10,8 @@ intent: informational
 regulatoryDomain: general
 slug: council-tax-reduction-pensioners
 author: margaret
-published: '2025-07-14'
-lastReviewed: '2025-07-14'
+published: '2026-06-11'
+lastReviewed: '2026-06-11'
 keywords:
   - council tax reduction pensioners
   - council tax support
@@ -31,7 +31,7 @@ faqs:
       particular) makes you very likely to qualify for a full or near-full
       reduction under your local Council Tax Support scheme. You still need to
       apply to the council separately.
-  - q: "What if I have dementia: can I be exempt from council tax entirely?"
+  - q: 'What if I have dementia: can I be exempt from council tax entirely?'
     a: >-
       Possibly. People with severe mental impairment, which includes many people
       living with advanced dementia, can be disregarded for council tax

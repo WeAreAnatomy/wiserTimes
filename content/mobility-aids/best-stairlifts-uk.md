@@ -1,14 +1,17 @@
 ---
-title: "Best stairlifts in the UK for 2026"
-description: "An editorial comparison of the main UK stairlift brands in 2026, covering straight and curved models, typical prices, reconditioned options, and what to ask before you buy."
+title: Best stairlifts in the UK for 2026
+description: >-
+  An editorial comparison of the main UK stairlift brands in 2026, covering
+  straight and curved models, typical prices, reconditioned options, and what to
+  ask before you buy.
 vertical: mobility-aids
 contentType: comparison
 intent: commercial
 regulatoryDomain: health
 slug: best-stairlifts-uk
 author: priya
-published: "2026-04-05"
-lastReviewed: "2026-04-05"
+published: '2026-05-14'
+lastReviewed: '2026-05-14'
 keywords:
   - best stairlifts uk
   - stairlift comparison
@@ -21,26 +24,41 @@ tags:
   - comparison
 affiliates:
   - network: direct
-    merchant: "Stannah"
-    product: "Starla straight stairlift"
-    url: "/go/stannah-starla"
-    disclosure: "affiliate"
+    merchant: Stannah
+    product: Starla straight stairlift
+    url: /go/stannah-starla
+    disclosure: affiliate
   - network: direct
-    merchant: "Acorn"
-    product: "Acorn 130 straight stairlift"
-    url: "/go/acorn-130"
-    disclosure: "affiliate"
+    merchant: Acorn
+    product: Acorn 130 straight stairlift
+    url: /go/acorn-130
+    disclosure: affiliate
 faqs:
-  - q: "How much does a stairlift cost in the UK?"
-    a: "In 2026, a new straight stairlift typically costs between £2,000 and £4,500 fitted. A curved stairlift, which is made to measure for your staircase, usually costs between £4,000 and £9,000. Reconditioned straight stairlifts can start from around £1,200 fitted."
-  - q: "Can I get a stairlift on the NHS?"
-    a: "Stairlifts are not usually funded by the NHS. However, your local council may provide help through a Disabled Facilities Grant, which covers essential home adaptations up to £30,000 in England. Contact your council's social services team for an assessment."
-  - q: "Do stairlifts work in a power cut?"
-    a: "Yes. All modern UK stairlifts run on rechargeable batteries that are topped up from the mains when the lift is parked. Expect around 10 to 20 trips on a full battery, which is more than enough for normal use during a power outage."
-  - q: "Can a stairlift be fitted to any staircase?"
-    a: "Most staircases can take a stairlift, including narrow, curved, or spiral designs. A home survey will confirm what's possible. If a stairlift isn't suitable, a through-floor lift or a move to single-level living may be better options to discuss with an occupational therapist."
+  - q: How much does a stairlift cost in the UK?
+    a: >-
+      In 2026, a new straight stairlift typically costs between £2,000 and
+      £4,500 fitted. A curved stairlift, which is made to measure for your
+      staircase, usually costs between £4,000 and £9,000. Reconditioned straight
+      stairlifts can start from around £1,200 fitted.
+  - q: Can I get a stairlift on the NHS?
+    a: >-
+      Stairlifts are not usually funded by the NHS. However, your local council
+      may provide help through a Disabled Facilities Grant, which covers
+      essential home adaptations up to £30,000 in England. Contact your
+      council's social services team for an assessment.
+  - q: Do stairlifts work in a power cut?
+    a: >-
+      Yes. All modern UK stairlifts run on rechargeable batteries that are
+      topped up from the mains when the lift is parked. Expect around 10 to 20
+      trips on a full battery, which is more than enough for normal use during a
+      power outage.
+  - q: Can a stairlift be fitted to any staircase?
+    a: >-
+      Most staircases can take a stairlift, including narrow, curved, or spiral
+      designs. A home survey will confirm what's possible. If a stairlift isn't
+      suitable, a through-floor lift or a move to single-level living may be
+      better options to discuss with an occupational therapist.
 ---
-
 A stairlift is often the single biggest change that keeps somebody in their home rather than moving. For most UK households the choice comes down to four or five established brands, with prices ranging from about £1,200 for a reconditioned straight model to £9,000 or more for a curved one. This guide is an editorial comparison of the main options in 2026, what each does well, and what to ask before you sign.
 
 :::callout{type="note" title="Editorial note, not medical advice"}

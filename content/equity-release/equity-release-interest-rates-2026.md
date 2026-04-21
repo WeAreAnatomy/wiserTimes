@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: finance
 slug: equity-release-interest-rates-2026
 author: david
-published: '2026-01-15'
-lastReviewed: '2026-01-15'
+published: '2026-06-18'
+lastReviewed: '2026-06-18'
 keywords:
   - equity release interest rates 2026
   - lifetime mortgage rates

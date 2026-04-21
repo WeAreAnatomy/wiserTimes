@@ -39,12 +39,13 @@ howTo:
         Fasten all screws, check there is zero movement under load, and test the
         rail at body weight before relying on it.
 vertical: mobility-aids
-lastReviewed: '2026-04-20'
+lastReviewed: '2026-05-19'
 contentType: how-to
 intent: informational
 regulatoryDomain: health
 keywords:
   - install grab rails bathroom
+published: '2026-05-19'
 ---
 # How to install grab rails safely in a bathroom
 

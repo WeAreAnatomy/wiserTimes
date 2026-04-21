@@ -22,11 +22,11 @@ howTo:
       text: >-
         Request the form by phone from the Attendance Allowance helpline or
         download it from GOV.UK.
-    - name: Complete Part 1, your personal details
+    - name: 'Complete Part 1, your personal details'
       text: >-
         Fill in your name, address, National Insurance number and GP details
         accurately.
-    - name: Complete Part 2, how your condition affects you
+    - name: 'Complete Part 2, how your condition affects you'
       text: >-
         Describe your care needs on your worst days, giving specific examples of
         what you cannot do safely or at all.
@@ -44,8 +44,8 @@ howTo:
         DWP if you need to add information or if you want to challenge the
         outcome.
 vertical: benefits
-published: '2025-07-07'
-lastReviewed: '2025-07-07'
+published: '2026-06-04'
+lastReviewed: '2026-06-04'
 contentType: how-to
 intent: informational
 regulatoryDomain: general

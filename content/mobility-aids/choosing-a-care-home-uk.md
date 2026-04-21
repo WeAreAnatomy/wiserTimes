@@ -1,8 +1,8 @@
 ---
 title: Untitled
 slug: untitled
-published: '2026-04-21'
-lastReviewed: '2026-04-21'
+published: '2026-06-30'
+lastReviewed: '2026-06-30'
 ---
 ```yaml
 ---

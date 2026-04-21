@@ -37,12 +37,13 @@ howTo:
         Read the letter carefully when it arrives and contact the Pension Credit
         helpline if anything looks wrong.
 vertical: benefits
-lastReviewed: '2026-04-20'
+lastReviewed: '2026-04-26'
 contentType: how-to
 intent: informational
 regulatoryDomain: general
 keywords:
   - claim pension credit
+published: '2026-04-26'
 ---
 # How to claim Pension Credit
 

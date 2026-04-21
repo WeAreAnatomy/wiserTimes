@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: general
 slug: benefits-you-can-claim-in-retirement
 author: margaret
-published: '2025-01-28'
-lastReviewed: '2025-01-28'
+published: '2026-04-23'
+lastReviewed: '2026-04-23'
 keywords:
   - benefits in retirement uk
   - pension credit

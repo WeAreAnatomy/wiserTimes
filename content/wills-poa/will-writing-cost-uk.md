@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: legal
 slug: will-writing-cost-uk
 author: margaret
-published: '2025-07-14'
-lastReviewed: '2025-07-14'
+published: '2026-07-30'
+lastReviewed: '2026-07-30'
 keywords:
   - will writing cost uk
   - how much does a will cost

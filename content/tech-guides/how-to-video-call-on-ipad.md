@@ -1,14 +1,16 @@
 ---
-title: "How to make a video call on an iPad: step by step"
-description: "Learn how to make a FaceTime or video call on an iPad in a few straightforward steps, whether you're calling another Apple device or an Android phone."
+title: 'How to make a video call on an iPad: step by step'
+description: >-
+  Learn how to make a FaceTime or video call on an iPad in a few straightforward
+  steps, whether you're calling another Apple device or an Android phone.
 vertical: tech-guides
 contentType: how-to
 intent: informational
 regulatoryDomain: general
 slug: how-to-video-call-on-ipad
 author: editorial
-published: "2026-03-30"
-lastReviewed: "2026-03-30"
+published: '2026-05-21'
+lastReviewed: '2026-05-21'
 keywords:
   - how to video call on ipad
   - facetime ipad
@@ -19,33 +21,58 @@ tags:
   - how-to
   - ipad
 howTo:
-  totalTime: "PT5M"
+  totalTime: PT5M
   steps:
-    - name: "Open the FaceTime app"
-      text: "Tap the green FaceTime icon on the Home Screen. If you can't see it, swipe down from the middle of the screen and search for FaceTime."
-    - name: "Sign in with your Apple ID"
-      text: "If you haven't used FaceTime before, sign in with your Apple ID and password. That's the same email and password you used to set up the iPad."
-    - name: "Tap New FaceTime"
-      text: "At the top of the screen, tap the blue New FaceTime button to start a new call."
-    - name: "Type or choose a contact"
-      text: "Type the name, phone number, or email of the person you want to call. If they're in your Contacts, tap their name."
-    - name: "Tap the video icon"
-      text: "Tap the small video camera icon next to their name to start a video call. Tap the phone icon instead if you only want to talk without video."
-    - name: "Wait for them to answer"
-      text: "You'll hear a ringing tone. When they answer, their face appears on your screen and yours on theirs."
-    - name: "End the call"
-      text: "When you're done, tap the red circle with the X in the middle of the screen."
+    - name: Open the FaceTime app
+      text: >-
+        Tap the green FaceTime icon on the Home Screen. If you can't see it,
+        swipe down from the middle of the screen and search for FaceTime.
+    - name: Sign in with your Apple ID
+      text: >-
+        If you haven't used FaceTime before, sign in with your Apple ID and
+        password. That's the same email and password you used to set up the
+        iPad.
+    - name: Tap New FaceTime
+      text: >-
+        At the top of the screen, tap the blue New FaceTime button to start a
+        new call.
+    - name: Type or choose a contact
+      text: >-
+        Type the name, phone number, or email of the person you want to call. If
+        they're in your Contacts, tap their name.
+    - name: Tap the video icon
+      text: >-
+        Tap the small video camera icon next to their name to start a video
+        call. Tap the phone icon instead if you only want to talk without video.
+    - name: Wait for them to answer
+      text: >-
+        You'll hear a ringing tone. When they answer, their face appears on your
+        screen and yours on theirs.
+    - name: End the call
+      text: >-
+        When you're done, tap the red circle with the X in the middle of the
+        screen.
 faqs:
-  - q: "Does FaceTime cost money?"
-    a: "No. FaceTime calls are free, but they use internet data or Wi-Fi. If you're on a home Wi-Fi network, there is no charge. If you're using mobile data, it will count toward your monthly allowance."
-  - q: "Can I FaceTime someone who has an Android phone?"
-    a: "Yes, since iPadOS 15. You can send them a FaceTime link that opens in a web browser on their phone. In FaceTime, tap Create Link instead of New FaceTime, then share the link by text or email."
-  - q: "Why can't the other person see me?"
-    a: "Check that the camera isn't covered by a case, and that FaceTime has permission to use the camera. Go to Settings, then FaceTime, and make sure the camera is turned on."
-  - q: "What is the blue badge on the FaceTime icon?"
-    a: "That's a missed call notification. Tap the FaceTime app to see who tried to reach you, and you can call them back from there."
+  - q: Does FaceTime cost money?
+    a: >-
+      No. FaceTime calls are free, but they use internet data or Wi-Fi. If
+      you're on a home Wi-Fi network, there is no charge. If you're using mobile
+      data, it will count toward your monthly allowance.
+  - q: Can I FaceTime someone who has an Android phone?
+    a: >-
+      Yes, since iPadOS 15. You can send them a FaceTime link that opens in a
+      web browser on their phone. In FaceTime, tap Create Link instead of New
+      FaceTime, then share the link by text or email.
+  - q: Why can't the other person see me?
+    a: >-
+      Check that the camera isn't covered by a case, and that FaceTime has
+      permission to use the camera. Go to Settings, then FaceTime, and make sure
+      the camera is turned on.
+  - q: What is the blue badge on the FaceTime icon?
+    a: >-
+      That's a missed call notification. Tap the FaceTime app to see who tried
+      to reach you, and you can call them back from there.
 ---
-
 Video calling on an iPad is the easiest way to see grandchildren, speak to a GP by remote appointment, or keep in touch with family overseas. Apple's own app, FaceTime, comes installed on every iPad. It works over Wi-Fi or a mobile data connection and is free to use. This guide walks through how to make your first call and covers the common questions that come up the first few times.
 
 ## Before you start

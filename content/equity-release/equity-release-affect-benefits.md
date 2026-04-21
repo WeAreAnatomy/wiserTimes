@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: finance
 slug: equity-release-affect-benefits
 author: david
-published: '2025-07-14'
-lastReviewed: '2025-07-14'
+published: '2026-06-16'
+lastReviewed: '2026-06-16'
 keywords:
   - equity release and benefits
   - equity release pension credit

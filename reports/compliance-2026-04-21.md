@@ -1,6 +1,6 @@
 # Compliance report — 2026-04-21
 
-39 article(s) scanned. 6 clean, 7 with hard violations.
+44 article(s) scanned. 8 clean, 9 with hard violations.
 
 ## /benefits/attendance-allowance-eligibility
 
@@ -26,10 +26,6 @@
 
 - **warn** · stale: 281 days since review
 
-## /benefits/pension-credit-how-to-claim
-
-- **hard** · missing-field: published
-
 ## /benefits/pension-credit-what-you-get
 
 - **warn** · banned: crucial (line 68)
@@ -41,7 +37,7 @@
 
 ## /equity-release/complete-guide-equity-release-uk
 
-- **warn** · banned: unlock (line 2)
+- **warn** · banned: unlock (line 1)
 
 ## /equity-release/downsizing-vs-equity-release
 
@@ -76,6 +72,16 @@
 
 - **warn** · stale: 281 days since review
 
+## /mobility-aids/adapting-your-home-for-arthritis
+
+- **hard** · missing-field: description
+- **hard** · missing-field: vertical
+- **hard** · missing-field: contentType
+- **hard** · missing-field: regulatoryDomain
+- **hard** · missing-field: author
+- **warn** · banned: comprehensive (line 87)
+- **warn** · banned: unlock (line 109)
+
 ## /mobility-aids/choosing-a-care-home-uk
 
 - **hard** · missing-field: description
@@ -90,22 +96,51 @@
 - **warn** · banned: crucial (line 51)
 - **warn** · stale: 448 days since review
 
+## /mobility-aids/help-at-home-after-hospital
+
+- **hard** · missing-field: description
+- **hard** · missing-field: vertical
+- **hard** · missing-field: contentType
+- **hard** · missing-field: regulatoryDomain
+- **hard** · missing-field: author
+- **hard** · banned: em-dash (line 4)
+
 ## /mobility-aids/home-adaptations-for-older-adults
 
 - **warn** · stale: 448 days since review
 
 ## /mobility-aids/how-to-install-grab-rails
 
-- **hard** · missing-field: published
 - **warn** · banned: leverage (line 29)
+
+## /mobility-aids/how-to-use-a-walking-stick-correctly
+
+- **hard** · missing-field: vertical
+- **hard** · missing-field: contentType
+- **hard** · missing-field: regulatoryDomain
 
 ## /mobility-aids/live-in-care-vs-care-home
 
 - **hard** · banned: em-dash (line 95)
 
+## /mobility-aids/nhs-continuing-healthcare-explained
+
+- **hard** · missing-field: description
+- **hard** · missing-field: vertical
+- **hard** · missing-field: contentType
+- **hard** · missing-field: regulatoryDomain
+- **hard** · missing-field: author
+
 ## /mobility-aids/rollator-vs-walking-frame
 
 - **warn** · stale: 281 days since review
+
+## /mobility-aids/social-care-needs-assessment-uk
+
+- **hard** · missing-field: vertical
+- **hard** · missing-field: contentType
+- **hard** · missing-field: regulatoryDomain
+- **hard** · missing-field: author
 
 ## /mobility-aids/stairlift-rental-vs-buying
 
@@ -122,16 +157,11 @@
 ## /tech-guides/iphone-setup-for-over-60s
 
 - **hard** · missing-field: description
-- **hard** · missing-field: published
 - **warn** · stale: 448 days since review
 
 ## /tech-guides/simple-tech-guide-for-over-55s
 
 - **warn** · stale: 448 days since review
-
-## /wills-poa/how-to-write-a-will-uk
-
-- **hard** · missing-field: published
 
 ## /wills-poa/lasting-power-of-attorney-registration-time
 

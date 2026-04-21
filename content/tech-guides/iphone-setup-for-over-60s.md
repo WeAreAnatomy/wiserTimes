@@ -3,7 +3,7 @@ title: How to set up an iPhone if you're new to smartphones
 slug: iphone-setup-for-over-60s
 url: /tech-guides/iphone-setup-for-over-60s/
 publishDate: 2025-01-28T00:00:00.000Z
-lastReviewed: '2025-01-28'
+lastReviewed: '2026-05-24'
 author: margaret
 category: tech-guides
 primaryKeyword: iphone setup for seniors uk
@@ -51,6 +51,7 @@ regulatoryDomain: general
 description: ''
 keywords:
   - iphone setup for seniors uk
+published: '2026-05-24'
 ---
 # How to set up an iPhone if you're new to smartphones
 

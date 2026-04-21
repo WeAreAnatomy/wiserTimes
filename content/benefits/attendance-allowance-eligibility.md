@@ -10,8 +10,8 @@ intent: informational
 regulatoryDomain: general
 slug: attendance-allowance-eligibility
 author: margaret
-published: '2025-07-14'
-lastReviewed: '2025-07-14'
+published: '2026-04-21'
+lastReviewed: '2026-04-21'
 keywords:
   - attendance allowance eligibility
   - who qualifies for attendance allowance

@@ -1,14 +1,16 @@
 ---
-title: "Equity release in the UK: the complete guide"
-description: "A plain-English guide to how equity release works in 2026, the two main plan types, what they cost, and when an alternative may suit you better."
+title: 'Equity release in the UK: the complete guide'
+description: >-
+  A plain-English guide to how equity release works in 2026, the two main plan
+  types, what they cost, and when an alternative may suit you better.
 vertical: equity-release
 contentType: pillar
 intent: informational
 regulatoryDomain: finance
 slug: complete-guide-equity-release-uk
 author: david
-published: "2026-04-12"
-lastReviewed: "2026-04-12"
+published: '2026-04-30'
+lastReviewed: '2026-04-30'
 keywords:
   - equity release uk
   - lifetime mortgage
@@ -20,16 +22,28 @@ tags:
   - lifetime-mortgage
   - pillar
 faqs:
-  - q: "Is equity release a good idea?"
-    a: "It depends entirely on your circumstances. Equity release can unlock money from your home without you having to move, but it reduces the value of your estate and may affect means-tested benefits. It usually suits people who have considered the alternatives and taken regulated advice."
-  - q: "What is the minimum age for equity release?"
-    a: "For a lifetime mortgage, you typically need to be at least 55. Home reversion plans usually require you to be 60 or older. Some providers set their own higher minimums."
-  - q: "Can I lose my home with equity release?"
-    a: "Plans approved by the Equity Release Council carry a no-negative-equity guarantee and a right to remain in your home for life, provided you meet the terms of the contract. Always check the plan is Council-approved."
-  - q: "Does equity release affect inheritance?"
-    a: "Yes. Any money released, plus rolled-up interest for a lifetime mortgage, is repaid from the sale of your home after death or move into long-term care. That reduces what your beneficiaries receive."
+  - q: Is equity release a good idea?
+    a: >-
+      It depends entirely on your circumstances. Equity release can unlock money
+      from your home without you having to move, but it reduces the value of
+      your estate and may affect means-tested benefits. It usually suits people
+      who have considered the alternatives and taken regulated advice.
+  - q: What is the minimum age for equity release?
+    a: >-
+      For a lifetime mortgage, you typically need to be at least 55. Home
+      reversion plans usually require you to be 60 or older. Some providers set
+      their own higher minimums.
+  - q: Can I lose my home with equity release?
+    a: >-
+      Plans approved by the Equity Release Council carry a no-negative-equity
+      guarantee and a right to remain in your home for life, provided you meet
+      the terms of the contract. Always check the plan is Council-approved.
+  - q: Does equity release affect inheritance?
+    a: >-
+      Yes. Any money released, plus rolled-up interest for a lifetime mortgage,
+      is repaid from the sale of your home after death or move into long-term
+      care. That reduces what your beneficiaries receive.
 ---
-
 Equity release lets homeowners aged 55 and over unlock some of the value tied up in their property without selling it or moving out. In practice it means one of two things. Either you borrow against the home with the loan repaid when you die or go into long-term care, or you sell a share of the property to a provider in return for a lump sum. Both keep you in the house. Both have long-term consequences. This guide walks through how each option works, what it is likely to cost in 2026, and the questions worth asking before you commit.
 
 ## Why people consider equity release

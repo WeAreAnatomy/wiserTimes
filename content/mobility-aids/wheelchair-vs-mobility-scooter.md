@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: health
 slug: wheelchair-vs-mobility-scooter
 author: priya
-published: '2025-01-28'
-lastReviewed: '2025-01-28'
+published: '2026-07-23'
+lastReviewed: '2026-07-23'
 keywords:
   - wheelchair vs mobility scooter uk
   - mobility scooter pavement rules
