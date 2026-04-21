@@ -1,3 +1,8 @@
+// Pre-build published articles at deploy time. Articles not yet in the static
+// params (future-dated) are rendered on demand when first requested, then
+// cached and revalidated weekly. dynamicParams defaults to true in Next.js.
+export const revalidate = 86400 * 7;
+
 import { notFound } from 'next/navigation';
 import { siteConfig, verticalsList } from '@/lib/config';
 import {

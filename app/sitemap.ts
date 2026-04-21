@@ -2,6 +2,11 @@ import type { MetadataRoute } from 'next';
 import { siteConfig, verticalsList } from '@/lib/config';
 import { getAllArticles } from '@/lib/content';
 
+// Regenerate the sitemap once a day. Google doesn't crawl sitemaps more
+// frequently than this for a content site, and revalidation only triggers
+// when the sitemap is actually requested -- not on a fixed clock.
+export const revalidate = 86400;
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const base = siteConfig.url.replace(/\/$/, '');
   const now = new Date();

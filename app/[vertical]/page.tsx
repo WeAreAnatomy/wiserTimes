@@ -1,3 +1,7 @@
+// Regenerate vertical hub pages daily so newly published articles appear in
+// the article list without a manual deploy.
+export const revalidate = 86400;
+
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { BookOpen, ArrowRight, Star } from 'lucide-react';

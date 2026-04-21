@@ -14,7 +14,8 @@
     "metadata": "node scripts/metadata.mjs",
     "report": "node scripts/report.mjs",
     "refresh": "node scripts/refresh.mjs",
-    "compliance": "node scripts/compliance-check.mjs"
+    "compliance": "node scripts/compliance-check.mjs",
+    "schedule": "node scripts/schedule.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.90.0",

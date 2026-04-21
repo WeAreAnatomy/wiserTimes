@@ -18,6 +18,14 @@ function readArticleFile(filePath: string): Article {
   };
 }
 
+// Returns true only if the article's published date is today or in the past.
+// Future-dated articles are staged but not yet live — they are excluded from
+// all listings, generateStaticParams, and the sitemap until their date arrives.
+function isPublished(article: Article): boolean {
+  if (!article.frontmatter.published) return false;
+  return new Date(article.frontmatter.published).getTime() <= Date.now();
+}
+
 export function getAllArticles(): Article[] {
   if (!fs.existsSync(CONTENT_ROOT)) return [];
   const articles: Article[] = [];
@@ -30,11 +38,13 @@ export function getAllArticles(): Article[] {
       articles.push(readArticleFile(path.join(dir, file)));
     }
   }
-  return articles.sort(
-    (a, b) =>
-      new Date(b.frontmatter.published).getTime() -
-      new Date(a.frontmatter.published).getTime(),
-  );
+  return articles
+    .filter(isPublished)
+    .sort(
+      (a, b) =>
+        new Date(b.frontmatter.published).getTime() -
+        new Date(a.frontmatter.published).getTime(),
+    );
 }
 
 export function getArticlesByVertical(vertical: Vertical): Article[] {
@@ -44,7 +54,9 @@ export function getArticlesByVertical(vertical: Vertical): Article[] {
 export function getArticleBySlug(vertical: Vertical, slug: string): Article | null {
   const filePath = path.join(CONTENT_ROOT, vertical, `${slug}.md`);
   if (!fs.existsSync(filePath)) return null;
-  return readArticleFile(filePath);
+  const article = readArticleFile(filePath);
+  // Return null for future-dated articles so the page correctly 404s.
+  return isPublished(article) ? article : null;
 }
 
 export function getPillarForVertical(vertical: Vertical): Article | null {

@@ -1,3 +1,7 @@
+// Regenerate the homepage daily so newly published articles surface in the
+// "Latest articles" section without a manual deploy.
+export const revalidate = 86400;
+
 import Link from 'next/link';
 import {
   CheckCircle2,

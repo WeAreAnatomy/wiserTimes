@@ -95,6 +95,10 @@ async function main() {
       .map((b) => b.text)
       .join('\n');
     const { frontmatter, body } = splitFrontmatter(text);
+    // Stamp a far-future sentinel so this article stays hidden until
+    // scripts/schedule.mjs assigns it a real publish date.
+    frontmatter.published = '2099-01-01';
+    frontmatter.lastReviewed = new Date().toISOString().slice(0, 10);
     const violations = scan(body, { regulatoryDomain: frontmatter.regulatoryDomain });
     if (violations.some((v) => v.severity === 'hard')) {
       console.warn(
