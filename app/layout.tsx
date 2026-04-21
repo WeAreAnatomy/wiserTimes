@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   twitter: { card: 'summary_large_image' },
   robots: { index: true, follow: true },
   other: {
-    'google-adsense-account': 'ca-pub-2141931804727693',
+    'google-adsense-account': siteConfig.adsense.publisherId,
   },
 };
 
@@ -43,7 +43,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         <Script
           id="adsbygoogle-init"
           async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2141931804727693"
+          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${siteConfig.adsense.publisherId}`}
           crossOrigin="anonymous"
           strategy="beforeInteractive"
         />

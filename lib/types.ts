@@ -85,6 +85,9 @@ export interface SiteConfig {
     address: string;
     contactEmail: string;
   };
+  adsense: {
+    publisherId: string;
+  };
   verticals: Record<Vertical, VerticalConfig>;
 }
 

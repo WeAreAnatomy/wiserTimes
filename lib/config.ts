@@ -11,6 +11,9 @@ export const siteConfig: SiteConfig = {
     address: '',
     contactEmail: 'hello@wisertimes.com',
   },
+  adsense: {
+    publisherId: 'ca-pub-2141931804727693',
+  },
   verticals: {
     'equity-release': {
       slug: 'equity-release',

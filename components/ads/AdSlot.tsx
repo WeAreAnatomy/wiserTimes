@@ -1,6 +1,7 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
+import { siteConfig } from '@/lib/config';
 
 export type AdPosition =
   | 'header'
@@ -15,10 +16,26 @@ export type AdPosition =
 
 export interface AdSlotProps {
   position: AdPosition;
-  /** AdSense slot ID. Omitted slots render a placeholder during development. */
+  /** AdSense ad-unit slot ID. Without it, the slot renders a placeholder. */
   slotId?: string;
   /** Suggested CSS shape; ad scripts ignore this. */
   height?: number;
+  /**
+   * Ad format passed through to AdSense. Defaults to 'auto' which is
+   * responsive. Use 'fluid' for in-article native ads.
+   */
+  format?: 'auto' | 'fluid' | 'rectangle' | 'horizontal' | 'vertical';
+  /** Required when format='fluid'. */
+  layout?: string;
+  /** Required when format='fluid'. */
+  layoutKey?: string;
+}
+
+declare global {
+  interface Window {
+    adsbygoogle?: unknown[];
+    __wlConsent?: string;
+  }
 }
 
 /**
@@ -27,20 +44,64 @@ export interface AdSlotProps {
  * component pick it up.
  *
  * Respects consent: does not request ads until window.__wlConsent === 'accepted'.
+ *
+ * Auto ads (enabled in the AdSense console) will also fill empty space
+ * on the page automatically; this component is for *manual* ad units
+ * where you want a guaranteed placement.
  */
-export default function AdSlot({ position, slotId, height = 280 }: AdSlotProps) {
+export default function AdSlot({
+  position,
+  slotId,
+  height = 280,
+  format = 'auto',
+  layout,
+  layoutKey,
+}: AdSlotProps) {
   const [consent, setConsent] = useState<string | null>(null);
+  const insRef = useRef<HTMLModElement | null>(null);
+  const pushed = useRef(false);
 
   useEffect(() => {
-    const read = () =>
-      (window as unknown as { __wlConsent?: string }).__wlConsent ?? null;
+    const read = () => window.__wlConsent ?? null;
     setConsent(read());
     const handler = () => setConsent(read());
     window.addEventListener('wl-consent', handler);
     return () => window.removeEventListener('wl-consent', handler);
   }, []);
 
-  const hasAds = consent === 'accepted' && slotId;
+  const hasAds = consent === 'accepted' && Boolean(slotId);
+
+  useEffect(() => {
+    if (!hasAds || pushed.current || !insRef.current) return;
+    try {
+      (window.adsbygoogle = window.adsbygoogle || []).push({});
+      pushed.current = true;
+    } catch {
+      // adsbygoogle.js not yet loaded; it will pick up the <ins> on next push.
+    }
+  }, [hasAds]);
+
+  if (hasAds) {
+    return (
+      <aside
+        aria-label="Advertisement"
+        className="my-6"
+        data-ad-position={position}
+      >
+        <ins
+          ref={insRef}
+          className="adsbygoogle"
+          style={{ display: 'block', minHeight: height }}
+          data-ad-client={siteConfig.adsense.publisherId}
+          data-ad-slot={slotId}
+          data-ad-format={format}
+          data-full-width-responsive="true"
+          {...(layout ? { 'data-ad-layout': layout } : {})}
+          {...(layoutKey ? { 'data-ad-layout-key': layoutKey } : {})}
+        />
+      </aside>
+    );
+  }
 
   return (
     <aside
@@ -50,11 +111,7 @@ export default function AdSlot({ position, slotId, height = 280 }: AdSlotProps) 
       data-ad-position={position}
       data-ad-slot={slotId}
     >
-      {hasAds ? (
-        <span>Ad placement ({position})</span>
-      ) : (
-        <span>Advertisement space</span>
-      )}
+      <span>Advertisement space</span>
     </aside>
   );
 }
