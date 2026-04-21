@@ -1,5 +1,7 @@
 import type { Metadata } from 'next';
 import type { ReactNode } from 'react';
+import { Analytics } from '@vercel/analytics/next';
+import { SpeedInsights } from '@vercel/speed-insights/next';
 import { siteConfig } from '@/lib/config';
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
@@ -42,6 +44,8 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         <Footer />
         <CookieConsent />
         <OrganizationSchema />
+        <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );

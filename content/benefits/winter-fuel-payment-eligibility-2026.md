@@ -25,7 +25,7 @@ faqs:
     a: >-
       Only if you're receiving Pension Credit or another qualifying benefit. If
       you think you should qualify but haven't claimed Pension Credit yet, apply
-      as soon as possible — a successful claim can be backdated up to three
+      as soon as possible, a successful claim can be backdated up to three
       months, which may bring you into eligibility for the payment period.
   - q: My partner gets Pension Credit but I don't. Do we both get the payment?
     a: >-
@@ -154,7 +154,7 @@ The system is imperfect and the change in 2024 was poorly communicated to many p
 
 :::faq
 - q: I didn't get a Winter Fuel Payment in 2024 or 2025. Will I get one in 2026?
-  a: Only if you're receiving Pension Credit or another qualifying benefit. If you think you should qualify but haven't claimed Pension Credit yet, apply as soon as possible — a successful claim can be backdated up to three months, which may bring you into eligibility for the payment period.
+  a: Only if you're receiving Pension Credit or another qualifying benefit. If you think you should qualify but haven't claimed Pension Credit yet, apply as soon as possible, a successful claim can be backdated up to three months, which may bring you into eligibility for the payment period.
 - q: My partner gets Pension Credit but I don't. Do we both get the payment?
   a: The payment goes to the household, not the individual. If one person in a couple receives Pension Credit, the household receives one payment at the couple rate. You don't each receive a separate amount.
 - q: Does savings income affect Pension Credit eligibility?

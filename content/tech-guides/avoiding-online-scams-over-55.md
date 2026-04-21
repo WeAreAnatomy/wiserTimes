@@ -21,7 +21,7 @@ faqs:
   - q: What should I do if I think I've been scammed?
     a: >-
       Stop all contact with the scammer immediately. If money has left your
-      account, call your bank's fraud line straight away — most have a 24-hour
+      account, call your bank's fraud line straight away, most have a 24-hour
       number on the back of your card. Then report the incident to Action Fraud
       on 0300 123 2040 or at actionfraud.police.uk. Keep any emails, texts or
       screenshots as evidence.
@@ -29,7 +29,7 @@ faqs:
     a: >-
       Possibly. Since October 2024, UK banks are required to reimburse most
       victims of authorised push payment (APP) fraud up to £85,000, under rules
-      set by the Payment Systems Regulator. Report to your bank immediately —
+      set by the Payment Systems Regulator. Report to your bank immediately ,
       the sooner you do, the better your chances.
   - q: Are older people really targeted more than younger people?
     a: >-
@@ -155,9 +155,9 @@ For more on how to make technology simpler and safer for people over 55, see our
 
 :::faq
 - q: What should I do if I think I've been scammed?
-  a: Stop all contact with the scammer immediately. If money has left your account, call your bank's fraud line straight away — most have a 24-hour number on the back of your card. Then report the incident to Action Fraud on 0300 123 2040 or at actionfraud.police.uk. Keep any emails, texts or screenshots as evidence.
+  a: Stop all contact with the scammer immediately. If money has left your account, call your bank's fraud line straight away, most have a 24-hour number on the back of your card. Then report the incident to Action Fraud on 0300 123 2040 or at actionfraud.police.uk. Keep any emails, texts or screenshots as evidence.
 - q: Can I get my money back if I was tricked into a bank transfer?
-  a: Possibly. Since October 2024, UK banks are required to reimburse most victims of authorised push payment (APP) fraud up to £85,000, under rules set by the Payment Systems Regulator. Report to your bank immediately — the sooner you do, the better your chances.
+  a: Possibly. Since October 2024, UK banks are required to reimburse most victims of authorised push payment (APP) fraud up to £85,000, under rules set by the Payment Systems Regulator. Report to your bank immediately, the sooner you do, the better your chances.
 - q: Are older people really targeted more than younger people?
   a: Scammers target everyone, but Age UK and Citizens Advice both note that people aged 55 and over are disproportionately represented in reported fraud losses, partly because they tend to hold more savings and may be less familiar with the warning signs specific to digital communication.
 - q: Is it safe to use public Wi-Fi for online banking?

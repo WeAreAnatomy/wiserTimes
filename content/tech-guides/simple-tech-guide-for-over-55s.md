@@ -1,7 +1,7 @@
 ---
 title: A simple technology guide for people over 55
 description: >-
-  Video calling, smartphones, online banking and staying safe online — a
+  Video calling, smartphones, online banking and staying safe online, a
   plain-English guide to everyday tech for over-55s in the UK.
 vertical: tech-guides
 contentType: pillar
@@ -63,7 +63,7 @@ faqs:
 ---
 # A simple technology guide for people over 55
 
-Modern technology doesn't have to be baffling. Video calling, smartphones, online banking and staying safe from scams are all genuinely manageable skills — and once you've got the basics, they open up a lot. This guide covers the four areas that come up most often: choosing and using a smartphone, video calling family and friends, doing your banking online, and protecting yourself from the people who'd rather you didn't know how any of it works.
+Modern technology doesn't have to be baffling. Video calling, smartphones, online banking and staying safe from scams are all genuinely manageable skills, and once you've got the basics, they open up a lot. This guide covers the four areas that come up most often: choosing and using a smartphone, video calling family and friends, doing your banking online, and protecting yourself from the people who'd rather you didn't know how any of it works.
 
 No jargon. No assumption that you're already an expert. Let's get into it.
 
@@ -71,7 +71,7 @@ No jargon. No assumption that you're already an expert. Let's get into it.
 
 ## Do I actually need a smartphone, or will any phone do?
 
-You don't *need* one. A simple mobile — often called a feature phone or a "brick" — will make and receive calls and texts perfectly well, and for some people that's everything they want.
+You don't *need* one. A simple mobile, often called a feature phone or a "brick", will make and receive calls and texts perfectly well, and for some people that's everything they want.
 
 That said, a smartphone opens up video calling, apps for your bank, WhatsApp, and the ability to look things up wherever you are. If you're mainly buying a phone so that family can reach you, a basic handset is fine. If you want to video call your grandchildren or manage your bank account from the sofa, you'll want a smartphone.
 
@@ -101,7 +101,7 @@ If budget is a concern, a second-hand iPhone or Samsung from a reputable seller 
 
 Slowly, and not all at once. That's my genuine advice.
 
-When a new phone arrives, the setup process asks you to sign in to (or create) an account — an Apple ID for iPhones, a Google account for Android. This account is what lets you download apps and, importantly, backs up your contacts and photos so they're not lost if the phone breaks. Write down the email address and password you use and keep them somewhere safe. Not on the phone itself.
+When a new phone arrives, the setup process asks you to sign in to (or create) an account, an Apple ID for iPhones, a Google account for Android. This account is what lets you download apps and, importantly, backs up your contacts and photos so they're not lost if the phone breaks. Write down the email address and password you use and keep them somewhere safe. Not on the phone itself.
 
 Once the basics are set up, focus on just two or four things in the first week: making calls, sending texts, and perhaps getting your email working. Everything else can wait. People who try to learn everything at once tend to feel more confused after a week than they did on day one.
 
@@ -119,7 +119,7 @@ Video calling lets you see and hear the person you're talking to, in real time, 
 
 The main apps used for video calling in the UK are:
 
-- **WhatsApp** (owned by Meta, free, works on both iPhones and Android phones — by far the most widely used)
+- **WhatsApp** (owned by Meta, free, works on both iPhones and Android phones, by far the most widely used)
 - **FaceTime** (built into iPhones and iPads, excellent quality, but only works between Apple devices)
 - **Zoom** (popular for group calls and used heavily during the pandemic; some GP surgeries and NHS services use it for consultations)
 
@@ -131,7 +131,7 @@ Open WhatsApp. Find the contact you want to call in your list of chats, or searc
 
 The first time feels awkward. Almost everyone says the same thing. After a few calls it becomes completely natural.
 
-If you're calling an older relative who finds technology difficult, it's worth knowing that WhatsApp lets you set up a call so that it connects automatically without the other person needing to tap "Answer" — this is called a linked device or an auto-answer setting, though it requires a little setup on their device. Your local library or Age UK digital helper can set that up for you.
+If you're calling an older relative who finds technology difficult, it's worth knowing that WhatsApp lets you set up a call so that it connects automatically without the other person needing to tap "Answer", this is called a linked device or an auto-answer setting, though it requires a little setup on their device. Your local library or Age UK digital helper can set that up for you.
 
 ---
 
@@ -161,7 +161,7 @@ Online safety comes down to a fairly short list of habits, and most of them are 
 
 Use a different password for each important account. I know that sounds onerous, but the reason matters: if one website is hacked and your password leaks, criminals will immediately try that same password on your email and your bank. A password manager app (1Password and Bitwarden are both reputable) stores all your passwords securely so you only need to remember one master password. Alternatively, write passwords in a small notebook kept at home, away from your computer. This is not ideal from a security standpoint, but it's considerably better than using the same weak password everywhere.
 
-For important accounts, a strong password is typically a combination of four or more random words (the National Cyber Security Centre calls this a "passphrase") — something like "correct-horse-battery-staple" is harder to crack than "P@ssword1" despite looking simpler.
+For important accounts, a strong password is typically a combination of four or more random words (the National Cyber Security Centre calls this a "passphrase"), something like "correct-horse-battery-staple" is harder to crack than "P@ssword1" despite looking simpler.
 
 ### Recognising scam messages
 
@@ -197,7 +197,7 @@ The same principle applies as for any video call: good lighting (sitting facing 
 
 ## Is it safe to shop online?
 
-For the most part, yes — with some straightforward precautions.
+For the most part, yes, with some straightforward precautions.
 
 Stick to well-known retailers: Amazon, Marks & Spencer, John Lewis, Boots, Argos. These sites use encrypted connections (you'll see "https://" and a padlock symbol in the browser address bar) and have established fraud teams. Buying from an unknown website advertising suspiciously cheap goods carries much higher risk.
 
@@ -211,14 +211,14 @@ If a deal looks too good to be true online, it almost always is.
 
 Several organisations specifically support older people with technology, and most of their help is free.
 
-**Age UK** ([ageuk.org.uk](https://www.ageuk.org.uk)) runs digital inclusion programmes and can point you to local support. **The Good Things Foundation** ([goodthingsfoundation.org](https://www.goodthingsfoundation.org)) has a network of community learning centres across the UK. **AbilityNet** ([abilitynet.org.uk](https://www.abilitynet.org.uk)) offers free home visits from volunteers who help older and disabled people use technology more confidently — a service that is, in my experience, enormously underused given how useful it is.
+**Age UK** ([ageuk.org.uk](https://www.ageuk.org.uk)) runs digital inclusion programmes and can point you to local support. **The Good Things Foundation** ([goodthingsfoundation.org](https://www.goodthingsfoundation.org)) has a network of community learning centres across the UK. **AbilityNet** ([abilitynet.org.uk](https://www.abilitynet.org.uk)) offers free home visits from volunteers who help older and disabled people use technology more confidently, a service that is, in my experience, enormously underused given how useful it is.
 
 If you'd rather learn at your own pace, the BBC's **Own It** digital skills pages and the **Learn My Way** platform (run by the Good Things Foundation) both have free, plain-English online courses covering exactly the areas in this guide.
 
 You don't need to figure this out alone. There are a lot of people whose job it is to help, and most of them are very good at it.
 
 :::quote
-"The biggest barrier isn't ability — it's confidence. Most people in their 60s and 70s who say they 'can't do technology' are perfectly capable of it. What they haven't had is someone patient enough to show them without making them feel foolish." — Wiser Times editorial
+"The biggest barrier isn't ability, it's confidence. Most people in their 60s and 70s who say they 'can't do technology' are perfectly capable of it. What they haven't had is someone patient enough to show them without making them feel foolish.", Wiser Times editorial
 :::
 
 ---

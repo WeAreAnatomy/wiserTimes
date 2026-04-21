@@ -50,7 +50,7 @@ Video calling on an iPad is the easiest way to see grandchildren, speak to a GP 
 
 ## Before you start
 
-Two things need to be true before you can make a FaceTime call. Your iPad has to be connected to the internet, either on Wi-Fi at home or on a mobile data plan. And you need to be signed in with an Apple ID — that is the email and password you set up when you first got the iPad. If the iPad asks for your password along the way, that is the one it wants.
+Two things need to be true before you can make a FaceTime call. Your iPad has to be connected to the internet, either on Wi-Fi at home or on a mobile data plan. And you need to be signed in with an Apple ID, that is the email and password you set up when you first got the iPad. If the iPad asks for your password along the way, that is the one it wants.
 
 If the person you are calling has an iPhone or iPad, they will receive a FaceTime call directly. If they have an Android phone or a Windows computer, you can still FaceTime them, but you do it slightly differently by sending them a link.
 
@@ -62,39 +62,39 @@ It is far quicker to call someone if their name is in the Contacts app. Open Con
 
 The numbered steps below match the ones in the yellow box at the top of the page. Follow them in order and you will be on a video call in under five minutes.
 
-### Step 1 — Open the FaceTime app
+### Step 1: Open the FaceTime app
 
 Look on your Home Screen for a green icon with a white video camera on it. That is FaceTime. Tap it once.
 
 If you cannot find the green icon, do not worry. Put one finger in the middle of the screen and drag it downward. A search box appears at the top. Type "FaceTime" and the app will show up in the results. Tap it.
 
-### Step 2 — Sign in with your Apple ID
+### Step 2: Sign in with your Apple ID
 
 The first time you open FaceTime, it asks for your Apple ID. That is the email address you used to set up the iPad, together with its password. Type both in and tap Sign In.
 
 You only need to do this once. Next time, FaceTime will remember you.
 
-### Step 3 — Tap New FaceTime
+### Step 3: Tap New FaceTime
 
 At the top of the screen, you will see a blue button with the words "New FaceTime". Tap it. A new window slides up.
 
-### Step 4 — Type or choose a contact
+### Step 4: Type or choose a contact
 
 In the To field at the top of that new window, start typing the name of the person you want to call. If they are in your Contacts, their name will appear below. Tap it to add them.
 
 If they are not in your Contacts, you can still call them. Type their mobile phone number or the email address they use for Apple, then tap the return key on the keyboard.
 
-### Step 5 — Tap the video icon
+### Step 5: Tap the video icon
 
-Look at the right-hand side of the screen. You will see two icons — a small video camera and a telephone handset. Tap the video camera to start a video call. If you only want a voice call without video, tap the handset instead.
+Look at the right-hand side of the screen. You will see two icons, a small video camera and a telephone handset. Tap the video camera to start a video call. If you only want a voice call without video, tap the handset instead.
 
-### Step 6 — Wait for them to answer
+### Step 6: Wait for them to answer
 
 Your iPad will make a soft ringing sound. The other person's name sits at the top of the screen while you wait. When they answer, their face appears on your screen. They can see you too, so a little wave is a good idea.
 
 The first time you use FaceTime, the iPad may ask for permission to use the camera and the microphone. Tap OK to both. Without those permissions, the other person will not be able to see or hear you.
 
-### Step 7 — End the call
+### Step 7: End the call
 
 When the conversation is over, tap anywhere on the screen to make the controls appear. Tap the red circle with a white X through it. That hangs up the call.
 
@@ -113,14 +113,14 @@ cons:
 - It can feel a little fiddly the first time you do it
 :::
 
-To send a link, open FaceTime, tap Create Link at the top of the screen, then choose how to share it — Messages, Mail, or WhatsApp are the usual options. The other person taps the link on their phone, their browser opens, they type a name, and the call begins.
+To send a link, open FaceTime, tap Create Link at the top of the screen, then choose how to share it, Messages, Mail, or WhatsApp are the usual options. The other person taps the link on their phone, their browser opens, they type a name, and the call begins.
 
 ## If something goes wrong
 
 A few things can stop a FaceTime call from working. The most common fixes are these.
 
 :::callout{type="warning" title="Most calls that fail are fixed by one of these"}
-Check your Wi-Fi is on and connected. Check FaceTime itself is turned on in Settings (Settings, then FaceTime, then the switch at the top). If the other person cannot see you, check that FaceTime has permission to use the camera in Settings, then FaceTime, then Camera. Restart the iPad by holding the top button until Slide to Power Off appears — a restart fixes more problems than anything else.
+Check your Wi-Fi is on and connected. Check FaceTime itself is turned on in Settings (Settings, then FaceTime, then the switch at the top). If the other person cannot see you, check that FaceTime has permission to use the camera in Settings, then FaceTime, then Camera. Restart the iPad by holding the top button until Slide to Power Off appears, a restart fixes more problems than anything else.
 :::
 
 If none of those help, the problem is usually with the other person's device rather than yours. Ask them to try restarting theirs, or send them a FaceTime link as described above to sidestep any settings issue on their end.

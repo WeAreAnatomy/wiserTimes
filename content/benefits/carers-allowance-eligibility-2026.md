@@ -54,7 +54,7 @@ faqs:
 
 Carer's Allowance is the main benefit for people who provide substantial unpaid care. In 2026 it pays **£83.30 a week** (the April 2025 rate, uprated by September 2024 CPI under the triple-lock equivalent for benefits). To qualify, you must spend at least 35 hours a week caring for someone who receives a qualifying disability benefit, earn no more than £151 a week net after certain deductions, and not be in full-time education. Those are the headline tests. The details, as ever, are where things get complicated.
 
-I spent thirty years as a social worker in Greater Manchester, and Carer's Allowance is one of the benefits I've seen cause the most confusion — not because the rules are especially obscure, but because two or three of them interact in ways the DWP literature doesn't spell out clearly. Let me try to do that here.
+I spent thirty years as a social worker in Greater Manchester, and Carer's Allowance is one of the benefits I've seen cause the most confusion, not because the rules are especially obscure, but because two or three of them interact in ways the DWP literature doesn't spell out clearly. Let me try to do that here.
 
 ---
 

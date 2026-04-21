@@ -46,9 +46,9 @@ keywords:
 ---
 # How to claim Pension Credit
 
-This guide is for anyone living in the UK who has reached State Pension age and thinks they might qualify for Pension Credit — and for adult children or carers who are helping an older relative apply. By the end, you'll know exactly what to do, in what order, and what to watch out for. The whole application takes most people between thirty and sixty minutes, though gathering your paperwork can add time if you're not prepared.
+This guide is for anyone living in the UK who has reached State Pension age and thinks they might qualify for Pension Credit, and for adult children or carers who are helping an older relative apply. By the end, you'll know exactly what to do, in what order, and what to watch out for. The whole application takes most people between thirty and sixty minutes, though gathering your paperwork can add time if you're not prepared.
 
-Around 880,000 eligible households are not claiming Pension Credit, according to Department for Work and Pensions estimates. That's not a small number. For many of those people, the barrier isn't eligibility — it's not knowing how straightforward the process actually is.
+Around 880,000 eligible households are not claiming Pension Credit, according to Department for Work and Pensions estimates. That's not a small number. For many of those people, the barrier isn't eligibility, it's not knowing how straightforward the process actually is.
 
 ---
 
@@ -61,7 +61,7 @@ Savings count too, but not in a way that automatically disqualifies you. The DWP
 Go to **gov.uk/pension-credit-calculator** and spend five minutes working through it. It is not the full application; it just gives you a figure so you're not applying blind.
 
 :::callout{type="warning"}
-The calculator often underestimates the final award. It doesn't pick up every additional element — the Savings Credit (available to people who reached State Pension age before 6 April 2016), the Severe Disability Addition, or the Carer Addition. Even if the calculator shows a low figure, it's worth applying. A real assessment by the Pension Service will find every element you're entitled to.
+The calculator often underestimates the final award. It doesn't pick up every additional element, the Savings Credit (available to people who reached State Pension age before 6 April 2016), the Severe Disability Addition, or the Carer Addition. Even if the calculator shows a low figure, it's worth applying. A real assessment by the Pension Service will find every element you're entitled to.
 :::
 
 ---
@@ -91,7 +91,7 @@ There are four ways to apply. Most people aged 75 and over find the phone route 
 
 **By phone:** Call the Pension Credit claim line on **0800 99 1234** (free from mobiles and landlines, Monday to Friday, 8am to 6pm). An adviser will go through the form with you and fill it in on your behalf. In my experience, this is genuinely the most straightforward option if you have any anxiety about forms or technology.
 
-**Online:** Go to **gov.uk/pension-credit/how-to-claim** and select "Apply online." You'll need a Government Gateway account (your email address and a password). If you don't have one, you'll be prompted to create one during the process — it takes about three minutes.
+**Online:** Go to **gov.uk/pension-credit/how-to-claim** and select "Apply online." You'll need a Government Gateway account (your email address and a password). If you don't have one, you'll be prompted to create one during the process, it takes about three minutes.
 
 **By post:** Download and print the application form (PC1) from GOV.UK, fill it in, and return it to the Pension Service, Freepost RTEH-XLTL-HJYL, Post Handling Site B, Wolverhampton, WV98 1LR. No stamp needed.
 

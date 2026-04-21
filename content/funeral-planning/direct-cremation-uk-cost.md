@@ -29,7 +29,7 @@ faqs:
     a: >-
       Yes, direct cremation is fully legal across England, Wales, Scotland and
       Northern Ireland. The cremation process follows the same legal
-      requirements as any other cremation — the difference is that no funeral
+      requirements as any other cremation, the difference is that no funeral
       service takes place beforehand.
   - q: Can family members attend a direct cremation?
     a: >-
@@ -138,7 +138,7 @@ faqs:
   - q: What is the average cost of direct cremation in the UK?
     a: "Most direct cremation providers charge between £700 and £1,800. The price varies depending on location, whether ashes are collected in person, and whether any additional services are included. London and the south-east tend to cost more than other regions."
   - q: Is direct cremation legal in the UK?
-    a: "Yes, direct cremation is fully legal across England, Wales, Scotland and Northern Ireland. The cremation process follows the same legal requirements as any other cremation — the difference is that no funeral service takes place beforehand."
+    a: "Yes, direct cremation is fully legal across England, Wales, Scotland and Northern Ireland. The cremation process follows the same legal requirements as any other cremation, the difference is that no funeral service takes place beforehand."
   - q: Can family members attend a direct cremation?
     a: "Usually not, though some providers offer an optional witnessed cremation for an additional fee. The whole point of a direct cremation is that it is unattended, which is why the cost is lower. If attendance matters, it's worth checking individual providers before booking."
   - q: How long does direct cremation take?

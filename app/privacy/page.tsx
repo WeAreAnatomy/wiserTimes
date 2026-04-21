@@ -30,6 +30,11 @@ export default function PrivacyPage() {
             Google Analytics if you accept analytics cookies.
           </li>
           <li>
+            <strong>Aggregate traffic and performance measurement:</strong> we use Vercel Analytics and Vercel Speed
+            Insights to count page views and measure page-load performance. These are cookieless and do not track you
+            across sites or build a profile of you; data is aggregated and anonymised by Vercel as our processor.
+          </li>
+          <li>
             <strong>Advertising cookies:</strong> set by Google AdSense (and, where applicable, partner ad networks)
             if you accept advertising cookies.
           </li>
@@ -54,6 +59,7 @@ export default function PrivacyPage() {
         <h2>Who we share data with</h2>
         <ul>
           <li>Google (Analytics, AdSense) — in their role as processors and, for advertising, independent controllers.</li>
+          <li>Vercel — our hosting and analytics processor (aggregate, cookieless traffic and performance metrics).</li>
           <li>Affiliate networks such as Awin and Amazon Associates — for attribution of clicks and sales.</li>
           <li>Lead generation partners — only with your explicit consent on the relevant form.</li>
         </ul>

@@ -60,7 +60,7 @@ Equity release lets homeowners aged 55 and over borrow against the value of thei
 
 ## How does equity release actually work?
 
-The most common product is a lifetime mortgage. You borrow a lump sum (or draw down amounts over time) against your property, and interest rolls up until the plan ends — usually when you die or move permanently into care, at which point the property is sold and the loan repaid from the proceeds.
+The most common product is a lifetime mortgage. You borrow a lump sum (or draw down amounts over time) against your property, and interest rolls up until the plan ends, usually when you die or move permanently into care, at which point the property is sold and the loan repaid from the proceeds.
 
 The other type, a home reversion plan, involves selling a share of your property to a provider in exchange for a lump sum or regular payments. You retain the right to live there rent-free, but the provider owns a percentage of the eventual sale proceeds. Home reversions are relatively rare now; lifetime mortgages make up the overwhelming majority of the market.
 
@@ -78,7 +78,7 @@ Beyond the financial basics, there are practical safeguards worth knowing:
 
 **The right to remain.** Council-approved plans guarantee you the right to remain in your property for life, or until you choose to move into care. You cannot be evicted because the loan balance has grown.
 
-**Portability.** Most modern lifetime mortgages are portable, meaning you can move to another property and transfer the plan across, subject to the new property meeting the lender's criteria. Downsizing protection clauses — increasingly standard — allow early repayment without penalty if you move to a property that doesn't meet those criteria.
+**Portability.** Most modern lifetime mortgages are portable, meaning you can move to another property and transfer the plan across, subject to the new property meeting the lender's criteria. Downsizing protection clauses, increasingly standard, allow early repayment without penalty if you move to a property that doesn't meet those criteria.
 
 **Flexibility.** Some products now allow voluntary partial repayments, which reduces the compound interest effect meaningfully over time. Aviva, Legal & General and Pure Retirement all offer variants with annual repayment allowances. That's a significant improvement on the rigid roll-up-only products of a decade ago.
 

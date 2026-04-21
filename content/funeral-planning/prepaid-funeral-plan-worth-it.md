@@ -28,7 +28,7 @@ faqs:
     a: >-
       Providers are required to hold your payments in either a trust fund or a
       whole-of-life insurance policy. The FCA rules mean your money must be
-      ringfenced — the provider cannot use it to run their business. This
+      ringfenced, the provider cannot use it to run their business. This
       replaced the looser arrangements that existed before 2022.
   - q: Can I cancel a prepaid funeral plan if I change my mind?
     a: >-
@@ -38,8 +38,8 @@ faqs:
   - q: Does a prepaid funeral plan cover all funeral costs?
     a: >-
       It covers the funeral director's fees specified in your plan, but
-      third-party costs — such as the burial plot, crematorium fee or minister's
-      fee — may only be covered up to an estimated amount. Ask the provider
+      third-party costs, such as the burial plot, crematorium fee or minister's
+      fee, may only be covered up to an estimated amount. Ask the provider
       exactly which disbursements are included and which carry a top-up risk.
   - q: What if the funeral director I've chosen goes out of business?
     a: >-
@@ -75,7 +75,7 @@ Before July 2022, the funeral plan industry was largely self-regulated through t
 
 The FCA's takeover changed all of that. Providers now must be authorised, your money must sit in a ringfenced trust or a whole-of-life insurance policy (not in the company's general accounts), and you have a statutory 30-day cooling-off period with a full refund. If a provider fails, the ringfencing means your money is protected, not swallowed by creditors.
 
-Several smaller providers left the market rather than seek authorisation. That's not a bad thing. The ones who remained, including Dignity, Co-op Funeralcare, Funeral Partners, Golden Charter and Pure Cremation, have all passed FCA scrutiny. You can verify any provider on the FCA register at register.fca.org.uk — a thirty-second check that's worth doing.
+Several smaller providers left the market rather than seek authorisation. That's not a bad thing. The ones who remained, including Dignity, Co-op Funeralcare, Funeral Partners, Golden Charter and Pure Cremation, have all passed FCA scrutiny. You can verify any provider on the FCA register at register.fca.org.uk, a thirty-second check that's worth doing.
 
 The FCA has also banned certain selling practices that drove complaints in the earlier era, including cold calling and pressure selling at the point of need. If someone rings you unsolicited to sell a funeral plan, that is now illegal.
 
@@ -152,11 +152,11 @@ faqs:
   - q: Are prepaid funeral plans regulated in the UK?
     a: Yes. Since 29 July 2022, all funeral plan providers must be authorised by the Financial Conduct Authority. Providers who didn't gain authorisation were legally required to return customers' money. Check any plan you're considering on the FCA register at register.fca.org.uk.
   - q: What happens to my money while it's in a prepaid funeral plan?
-    a: Providers are required to hold your payments in either a trust fund or a whole-of-life insurance policy. The FCA rules mean your money must be ringfenced — the provider cannot use it to run their business. This replaced the looser arrangements that existed before 2022.
+    a: Providers are required to hold your payments in either a trust fund or a whole-of-life insurance policy. The FCA rules mean your money must be ringfenced, the provider cannot use it to run their business. This replaced the looser arrangements that existed before 2022.
   - q: Can I cancel a prepaid funeral plan if I change my mind?
     a: FCA rules give you a 30-day cancellation period with a full refund. After that, cancellation terms vary by provider, and some will deduct an administration fee. Always read the cancellation clause before signing.
   - q: Does a prepaid funeral plan cover all funeral costs?
-    a: It covers the funeral director's fees specified in your plan, but third-party costs — such as the burial plot, crematorium fee or minister's fee — may only be covered up to an estimated amount. Ask the provider exactly which disbursements are included and which carry a top-up risk.
+    a: It covers the funeral director's fees specified in your plan, but third-party costs, such as the burial plot, crematorium fee or minister's fee, may only be covered up to an estimated amount. Ask the provider exactly which disbursements are included and which carry a top-up risk.
   - q: What if the funeral director I've chosen goes out of business?
     a: If your provider is FCA-authorised, your money is protected in trust or insurance. The Money Helper guidance at moneyhelper.org.uk recommends checking whether your plan nominates a backup provider in case your chosen funeral director is no longer trading when the plan is used.
 :::

@@ -22,7 +22,7 @@ faqs:
   - q: Can I get council tax reduced if I live alone?
     a: >-
       Yes. Anyone living alone qualifies for a 25% single-occupancy discount,
-      regardless of age or income. Contact your council to apply — it is not
+      regardless of age or income. Contact your council to apply, it is not
       applied automatically in most areas, though some councils cross-reference
       electoral roll data.
   - q: Does Pension Credit automatically entitle me to a council tax reduction?
@@ -31,7 +31,7 @@ faqs:
       particular) makes you very likely to qualify for a full or near-full
       reduction under your local Council Tax Support scheme. You still need to
       apply to the council separately.
-  - q: What if I have dementia — can I be exempt from council tax entirely?
+  - q: What if I have dementia: can I be exempt from council tax entirely?
     a: >-
       Possibly. People with severe mental impairment, which includes many people
       living with advanced dementia, can be disregarded for council tax
@@ -42,7 +42,7 @@ faqs:
     a: >-
       Probably some help, yes. Most councils taper support rather than cutting
       it off sharply at the Pension Credit threshold. The exact amount depends
-      on where you live, as each council sets its own working-age scheme —
+      on where you live, as each council sets its own working-age scheme ,
       though pensioners are protected by national rules under the Pension Age
       Council Tax Support scheme.
   - q: How far back can I claim a council tax discount or reduction?
@@ -136,13 +136,13 @@ For a broader look at the benefits available to people in later life, our [guide
 
 :::faq
 - q: Can I get council tax reduced if I live alone?
-  a: Yes. Anyone living alone qualifies for a 25% single-occupancy discount, regardless of age or income. Contact your council to apply — it is not applied automatically in most areas, though some councils cross-reference electoral roll data.
+  a: Yes. Anyone living alone qualifies for a 25% single-occupancy discount, regardless of age or income. Contact your council to apply, it is not applied automatically in most areas, though some councils cross-reference electoral roll data.
 - q: Does Pension Credit automatically entitle me to a council tax reduction?
   a: Not automatically, but receiving Pension Credit (Guarantee Credit in particular) makes you very likely to qualify for a full or near-full reduction under your local Council Tax Support scheme. You still need to apply to the council separately.
-- q: What if I have dementia — can I be exempt from council tax entirely?
+- q: What if I have dementia: can I be exempt from council tax entirely?
   a: Possibly. People with severe mental impairment, which includes many people living with advanced dementia, can be disregarded for council tax purposes. If they live alone, the property becomes exempt. A GP certification is usually required. Ask your council for the severe mental impairment disregard form.
 - q: My income is just above the Pension Credit threshold. Will I get any help?
-  a: Probably some help, yes. Most councils taper support rather than cutting it off sharply at the Pension Credit threshold. The exact amount depends on where you live, as each council sets its own working-age scheme — though pensioners are protected by national rules under the Pension Age Council Tax Support scheme.
+  a: Probably some help, yes. Most councils taper support rather than cutting it off sharply at the Pension Credit threshold. The exact amount depends on where you live, as each council sets its own working-age scheme, though pensioners are protected by national rules under the Pension Age Council Tax Support scheme.
 - q: How far back can I claim a council tax discount or reduction?
   a: Single-occupancy discount can usually be backdated to when your circumstances changed, subject to the council's discretion. Council Tax Support is harder to backdate and most councils limit backdating to a matter of weeks unless you can show good reason for the delay. Apply as soon as possible.
 :::

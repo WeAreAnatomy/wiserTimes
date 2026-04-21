@@ -73,7 +73,7 @@ In England, here's what typically eats into the proceeds:
 
 **Removals:** A local move with a reputable firm runs £1,000 to £2,000. Move further, or have a full house to shift, and £3,000 is not unusual.
 
-**Miscellaneous:** Survey fees, mortgage arrangement fees if you're taking a small mortgage on the new property, and the often-forgotten costs of adapting a new home to your needs — new carpets, a stairlift if required, redecorating.
+**Miscellaneous:** Survey fees, mortgage arrangement fees if you're taking a small mortgage on the new property, and the often-forgotten costs of adapting a new home to your needs, new carpets, a stairlift if required, redecorating.
 
 On a combined sale of £450,000 and purchase of £280,000, realistic total costs land somewhere between £15,000 and £22,000. That is not a trivial haircut on the £170,000 you thought you were releasing.
 

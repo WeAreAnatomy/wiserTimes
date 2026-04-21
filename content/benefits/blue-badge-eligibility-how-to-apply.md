@@ -30,7 +30,7 @@ faqs:
       Most Blue Badges are issued for three years, after which you need to
       reapply. Some badges linked to a temporary condition are issued for a
       shorter period. Your council will contact you before your badge expires,
-      but don't rely on that reminder — diarise it yourself.
+      but don't rely on that reminder, diarise it yourself.
   - q: Can I use a Blue Badge anywhere in the UK?
     a: >-
       Yes, a Blue Badge issued by any council in England, Scotland or Wales is
@@ -164,7 +164,7 @@ faqs:
   - q: Can I get a Blue Badge if I have a hidden disability?
     a: Yes. Since 2019 the scheme has included people with non-visible conditions such as severe anxiety, autism or dementia, if those conditions cause considerable difficulty walking or mean someone cannot safely manage a journey independently. You'll need supporting evidence from a GP, specialist or social worker.
   - q: How long does a Blue Badge last?
-    a: Most Blue Badges are issued for three years, after which you need to reapply. Some badges linked to a temporary condition are issued for a shorter period. Your council will contact you before your badge expires, but don't rely on that reminder — diarise it yourself.
+    a: Most Blue Badges are issued for three years, after which you need to reapply. Some badges linked to a temporary condition are issued for a shorter period. Your council will contact you before your badge expires, but don't rely on that reminder, diarise it yourself.
   - q: Can I use a Blue Badge anywhere in the UK?
     a: Yes, a Blue Badge issued by any council in England, Scotland or Wales is valid across the whole of Great Britain. Different rules apply in Northern Ireland, where a separate scheme operates.
   - q: What happens if my Blue Badge application is refused?

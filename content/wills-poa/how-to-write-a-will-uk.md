@@ -25,7 +25,7 @@ howTo:
     - name: Write the will
       text: >-
         Use a solicitor, a Will Aid charity scheme, an online service, or a
-        template — depending on how straightforward your estate is.
+        template, depending on how straightforward your estate is.
     - name: Sign it correctly in front of two witnesses
       text: >-
         Sign the will in the presence of two independent adult witnesses, who
@@ -49,7 +49,7 @@ keywords:
 ---
 # How to write a will in the UK
 
-This guide is for anyone in England or Wales who wants to understand the process of making a will, whether you're doing it for the first time or updating one you wrote years ago. By the end, you'll know exactly what a valid will must contain, how to sign it correctly, and when to involve a solicitor rather than go it alone. (If you're in Scotland or Northern Ireland, the rules differ in important ways — I'd point you to the Law Society of Scotland or the Law Society of Northern Ireland respectively.)
+This guide is for anyone in England or Wales who wants to understand the process of making a will, whether you're doing it for the first time or updating one you wrote years ago. By the end, you'll know exactly what a valid will must contain, how to sign it correctly, and when to involve a solicitor rather than go it alone. (If you're in Scotland or Northern Ireland, the rules differ in important ways, I'd point you to the Law Society of Scotland or the Law Society of Northern Ireland respectively.)
 
 Scotland and Northern Ireland are not covered here. The rules below apply to England and Wales only.
 
@@ -57,7 +57,7 @@ Scotland and Northern Ireland are not covered here. The rules below apply to Eng
 
 ## Step 1: Decide what you own and who should have it
 
-Start with a straightforward stocktake. Write down your main assets — property, savings, investments, pension death benefits, vehicles, jewellery, anything of significant value — and any debts. You don't need exact figures at this stage; the point is to get a clear picture before you start making decisions.
+Start with a straightforward stocktake. Write down your main assets, property, savings, investments, pension death benefits, vehicles, jewellery, anything of significant value, and any debts. You don't need exact figures at this stage; the point is to get a clear picture before you start making decisions.
 
 A few things that often catch people out:
 
@@ -77,7 +77,7 @@ If you're married or in a civil partnership and you die without a will, intestac
 
 Your executor is the person (or people) responsible for carrying out the will: applying for probate, paying any debts and tax, and distributing what remains. You can appoint up to four, though one or two is generally more practical.
 
-Most people appoint a spouse or adult child, sometimes alongside a solicitor if the estate is large or likely to be complicated. Your executor can also be a beneficiary — that's perfectly fine and very common. The key qualities are trustworthiness and organisational ability, not legal training.
+Most people appoint a spouse or adult child, sometimes alongside a solicitor if the estate is large or likely to be complicated. Your executor can also be a beneficiary, that's perfectly fine and very common. The key qualities are trustworthiness and organisational ability, not legal training.
 
 Tell your chosen executors now, while you can. It's a significant responsibility and they should know they've been named.
 
@@ -97,13 +97,13 @@ This is where your options differ quite a bit depending on how simple or complex
 
 **Solicitor.** The safest route if you own property, have a blended family, are separated but not divorced, have a disabled beneficiary, run a business, or live abroad part of the year. Expect to pay roughly £150 to £350 for a straightforward will, more for anything complex. The Law Society's "find a solicitor" tool at solicitors.lawsociety.org.uk lets you filter by specialism.
 
-**Will Aid.** Every November, solicitors across England and Wales write basic wills in exchange for a suggested charity donation (£100 for a single will, £180 for a mirror will — figures for 2024). The donation goes to nine UK charities including Age UK and NSPCC. It's a genuine service from real solicitors, not a cut-price shortcut. Find participating firms at willaid.org.uk.
+**Will Aid.** Every November, solicitors across England and Wales write basic wills in exchange for a suggested charity donation (£100 for a single will, £180 for a mirror will, figures for 2024). The donation goes to nine UK charities including Age UK and NSPCC. It's a genuine service from real solicitors, not a cut-price shortcut. Find participating firms at willaid.org.uk.
 
 **Free wills from charities.** The Free Wills Month scheme (March and October) offers free mirror or single wills to people aged 55 and over through a network of local solicitors. You're asked but not obliged to consider leaving a gift to a participating charity. Details at freewillsmonth.org.uk. Age UK also periodically runs similar schemes.
 
 **Online will-writing services.** Farewill is the best-known in the UK, starting at around £90 for a single will with solicitor review available. Suitable for uncomplicated estates. The will is drafted online, you print and sign it yourself, and they store a digital copy.
 
-**DIY will kits.** Technically legal if completed and witnessed correctly. In practice, they go wrong more often than people expect — a missed signature, an incorrectly worded gift, a witness who's also a beneficiary. I'd only suggest this route as a last resort.
+**DIY will kits.** Technically legal if completed and witnessed correctly. In practice, they go wrong more often than people expect, a missed signature, an incorrectly worded gift, a witness who's also a beneficiary. I'd only suggest this route as a last resort.
 
 ---
 
@@ -134,7 +134,7 @@ Video witnessing was temporarily permitted during the Covid pandemic but that pr
 
 ## Step 6: Store the will safely
 
-The original signed will (not a copy) is what matters. Keep it somewhere fireproof and dry — a home safe, a solicitor's deed store, or the Probate Service's will storage scheme (currently £20 for lifetime storage, via GOV.UK).
+The original signed will (not a copy) is what matters. Keep it somewhere fireproof and dry, a home safe, a solicitor's deed store, or the Probate Service's will storage scheme (currently £20 for lifetime storage, via GOV.UK).
 
 Tell your executors where it is. It sounds obvious, but Age UK estimates that thousands of valid wills are never found because the deceased told no one where they'd put them. A will no one can locate is as useful as no will at all.
 

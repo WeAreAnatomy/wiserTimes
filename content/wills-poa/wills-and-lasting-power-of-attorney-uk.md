@@ -29,7 +29,7 @@ faqs:
       well spent.
   - q: What happens if I die without a will in England and Wales?
     a: >-
-      The intestacy rules apply. These follow a strict order — spouse or civil
+      The intestacy rules apply. These follow a strict order, spouse or civil
       partner first, then children, then wider relatives. An unmarried partner
       receives nothing under intestacy, regardless of how long you lived
       together.
@@ -60,7 +60,7 @@ faqs:
   - q: Can an attorney make gifts on my behalf?
     a: >-
       Under a property and financial affairs LPA, attorneys can make modest
-      gifts on occasions such as birthdays or charitable donations — but only
+      gifts on occasions such as birthdays or charitable donations, but only
       within reasonable limits. Larger gifts require permission from the Court
       of Protection. The rules exist specifically to protect donors from
       financial abuse.
@@ -81,7 +81,7 @@ This guide covers what each document does, how they differ, what it costs to set
 
 ## What is a will, and what does it actually do?
 
-A will is a legal document that sets out your wishes for your estate — the assets and possessions you leave behind. It names the people you want to benefit (your beneficiaries), appoints an executor to carry out those wishes, and can include instructions on guardianship of children, funeral preferences and charitable gifts.
+A will is a legal document that sets out your wishes for your estate, the assets and possessions you leave behind. It names the people you want to benefit (your beneficiaries), appoints an executor to carry out those wishes, and can include instructions on guardianship of children, funeral preferences and charitable gifts.
 
 Without a valid will, your estate is distributed under the intestacy rules. In England and Wales, those rules favour a spouse or civil partner, then children, then wider family. An unmarried partner receives nothing, regardless of how long you lived together. Stepchildren have no automatic entitlement either. If the intestacy rules don't match your circumstances or your wishes, the only way to override them is with a properly executed will.
 
@@ -135,7 +135,7 @@ Neither witness can be a beneficiary under the will, and neither can be the spou
 
 Scotland has different rules. A will requires one witness rather than two, and the witness can be a beneficiary (though this is inadvisable in practice). Northern Ireland broadly follows the England and Wales model but has its own legislation.
 
-You can write a will yourself, use an online service such as Farewill or Kwil, or instruct a solicitor. For a straightforward estate with no business interests, foreign property or complex family situation, a well-reviewed online service is a reasonable option. For anything with complications — a blended family, a disabled beneficiary who receives means-tested benefits, significant property or business assets — a solicitor's input is genuinely worth the cost. The Society of Will Writers and the Society of Trust and Estate Practitioners (STEP) both maintain directories of qualified practitioners.
+You can write a will yourself, use an online service such as Farewill or Kwil, or instruct a solicitor. For a straightforward estate with no business interests, foreign property or complex family situation, a well-reviewed online service is a reasonable option. For anything with complications, a blended family, a disabled beneficiary who receives means-tested benefits, significant property or business assets, a solicitor's input is genuinely worth the cost. The Society of Will Writers and the Society of Trust and Estate Practitioners (STEP) both maintain directories of qualified practitioners.
 
 ---
 
@@ -181,12 +181,12 @@ This is where many people underestimate the work involved.
 
 An executor administers your estate after your death: applying for probate, collecting assets, settling debts, and distributing what remains. It is often a spouse, adult child or close friend. A professional executor (a solicitor or bank) can be appointed instead, but they charge for the work, sometimes significantly.
 
-An attorney under an LPA takes on considerably more responsibility — particularly one acting under a health and welfare LPA, who may need to make decisions about care homes, medical treatment, and daily life. The Mental Capacity Act 2005 requires attorneys to act in your best interests, consider your past wishes, and consult family members where appropriate. It is not a role for someone you simply trust with money; it requires someone with patience, good judgement and the willingness to advocate on your behalf, sometimes against professionals who don't agree.
+An attorney under an LPA takes on considerably more responsibility, particularly one acting under a health and welfare LPA, who may need to make decisions about care homes, medical treatment, and daily life. The Mental Capacity Act 2005 requires attorneys to act in your best interests, consider your past wishes, and consult family members where appropriate. It is not a role for someone you simply trust with money; it requires someone with patience, good judgement and the willingness to advocate on your behalf, sometimes against professionals who don't agree.
 
 You can appoint multiple attorneys. They can be required to act "jointly" (unanimous decisions on everything), "jointly and severally" (each can act independently), or jointly for major decisions and severally for routine ones. Jointly and severally is the most practical arrangement in most cases, since a jointly-only arrangement can grind to a halt if one attorney becomes unavailable.
 
 :::quote
-In my experience, the question of who to appoint as attorney causes more hesitation than any other part of this process. People worry about burdening family members, or about choosing between siblings. But the practical alternative — no LPA at all — means that if capacity is lost, the family would need to apply to the Court of Protection for deputyship, which is slower, more expensive, and more stressful than any conversation about choosing an attorney.
+In my experience, the question of who to appoint as attorney causes more hesitation than any other part of this process. People worry about burdening family members, or about choosing between siblings. But the practical alternative, no LPA at all, means that if capacity is lost, the family would need to apply to the Court of Protection for deputyship, which is slower, more expensive, and more stressful than any conversation about choosing an attorney.
 :::
 
 ---
@@ -205,7 +205,7 @@ There is no age at which either document suddenly becomes urgent, but the risks 
 
 Both wills and LPAs can be revoked or changed at any time while you have mental capacity.
 
-For a will, you revoke it by making a new one (which should state that it revokes all previous wills) or by physically destroying it. Marriage automatically revokes a will in England and Wales. Divorce does not revoke a will, but it does revoke any gift to the ex-spouse and their appointment as executor — the rest of the will stands.
+For a will, you revoke it by making a new one (which should state that it revokes all previous wills) or by physically destroying it. Marriage automatically revokes a will in England and Wales. Divorce does not revoke a will, but it does revoke any gift to the ex-spouse and their appointment as executor, the rest of the will stands.
 
 For an LPA, you revoke it by notifying the OPG and your attorney in writing. If the LPA has already been registered, the revocation must also be registered.
 
@@ -229,7 +229,7 @@ The Law Society maintains a [find a solicitor tool](https://www.lawsociety.org.u
 
 Age UK and Citizens Advice offer free guidance and can often signpost to lower-cost legal help for those on limited incomes. The OPG's own guidance at [gov.uk/power-of-attorney](https://www.gov.uk/power-of-attorney) is clear and up to date.
 
-For anyone considering an online will-writing service, check whether the provider is a member of the Institute of Professional Willwriters or the Society of Will Writers — both have codes of practice and complaints procedures. Farewill, Kwil and Bequest are among the more established online providers in the UK market, though none should be used without thinking carefully about whether your situation is genuinely straightforward.
+For anyone considering an online will-writing service, check whether the provider is a member of the Institute of Professional Willwriters or the Society of Will Writers, both have codes of practice and complaints procedures. Farewill, Kwil and Bequest are among the more established online providers in the UK market, though none should be used without thinking carefully about whether your situation is genuinely straightforward.
 
 The key point is this: both a will and an LPA are relatively inexpensive to set up, especially compared to the cost and distress of not having them. Sorting both in your 60s, when there is no pressure, is almost always easier than doing it in a hurry.
 
@@ -238,7 +238,7 @@ faqs:
   - q: Can I make a will without a solicitor in the UK?
     a: Yes. A handwritten or typed will is valid if signed in front of two independent witnesses who also sign. That said, even a small drafting error can invalidate it or create disputes. For anything beyond a very simple estate, a solicitor or specialist will-writing service is money well spent.
   - q: What happens if I die without a will in England and Wales?
-    a: The intestacy rules apply. These follow a strict order — spouse or civil partner first, then children, then wider relatives. An unmarried partner receives nothing under intestacy, regardless of how long you lived together.
+    a: The intestacy rules apply. These follow a strict order, spouse or civil partner first, then children, then wider relatives. An unmarried partner receives nothing under intestacy, regardless of how long you lived together.
   - q: How long does it take to register an LPA with the OPG?
     a: The Office of the Public Guardian currently quotes around 20 weeks from receipt of a correctly completed application. You can track progress online. The LPA cannot be used until it is registered, so apply well before you might need it.
   - q: Do I need both types of LPA?
@@ -248,7 +248,7 @@ faqs:
   - q: How much does it cost to register an LPA?
     a: The OPG registration fee is £82 per LPA in England and Wales. Registering both types costs £164. If your income is below £12,000, you may qualify for a 50% reduction, and those on certain means-tested benefits may pay nothing at all.
   - q: Can an attorney make gifts on my behalf?
-    a: Under a property and financial affairs LPA, attorneys can make modest gifts on occasions such as birthdays or charitable donations — but only within reasonable limits. Larger gifts require permission from the Court of Protection. The rules exist specifically to protect donors from financial abuse.
+    a: Under a property and financial affairs LPA, attorneys can make modest gifts on occasions such as birthdays or charitable donations, but only within reasonable limits. Larger gifts require permission from the Court of Protection. The rules exist specifically to protect donors from financial abuse.
   - q: Does a will cover assets held jointly?
     a: No. Jointly owned property passes automatically to the surviving owner under the right of survivorship, bypassing the will entirely. The same applies to pension death benefits and some life insurance policies that have a nominated beneficiary.
 :::

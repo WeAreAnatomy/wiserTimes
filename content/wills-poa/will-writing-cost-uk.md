@@ -57,7 +57,7 @@ That said, "simple" is doing a lot of work in that last sentence. More on that s
 
 ## What does a solicitor charge for a basic will?
 
-For a single, straightforward will — one beneficiary structure, no trusts, no foreign assets — most high street solicitors charge between £150 and £300 including VAT. The Law Society doesn't set a fixed fee, so prices vary by region and firm. In Greater Manchester, where I spent my working life, you'll generally pay less than you would at a London firm handling the same work.
+For a single, straightforward will, one beneficiary structure, no trusts, no foreign assets, most high street solicitors charge between £150 and £300 including VAT. The Law Society doesn't set a fixed fee, so prices vary by region and firm. In Greater Manchester, where I spent my working life, you'll generally pay less than you would at a London firm handling the same work.
 
 Mirror wills for a couple, which leave everything to each other and then to the same beneficiaries on the second death, are usually priced as a pair. Expect £200 to £500 for both. It's rarely double the single price.
 

@@ -74,16 +74,16 @@ A stairlift is a physical product that has to fit both a building and a person. 
 
 :::proscons{title="Features worth paying for vs features you can skip"}
 pros:
-- Powered swivel seat — lets you dismount onto the landing without twisting
-- Folding rail (at the bottom) — keeps a hallway usable by other people
+- Powered swivel seat: lets you dismount onto the landing without twisting
+- Folding rail (at the bottom): keeps a hallway usable by other people
 - Weight capacity that genuinely matches the user, with headroom
 - Retractable seat belt or harness, comfortable enough to use every time
 - Battery-powered operation, so it works in a power cut
 - A remote control for each end of the stairs
 cons:
-- Leather upholstery upgrades — rarely worth the markup
-- Voice control — niche, easily replaced by a sensible remote
-- Extra-long warranty bundles — compare the cost against a standard service plan
+- Leather upholstery upgrades: rarely worth the markup
+- Voice control: niche, easily replaced by a sensible remote
+- Extra-long warranty bundles: compare the cost against a standard service plan
 - Swivel seat lockouts that fiddly to release one-handed
 :::
 
@@ -101,11 +101,11 @@ Stairlift prices are negotiable. Have two suppliers visit your home, and make su
 Reconditioned straight stairlifts from the big brands are often the single best-value purchase in the category, provided the model year is recent.
 :::
 
-## Reconditioned stairlifts — when they make sense
+## Reconditioned stairlifts: when they make sense
 
 All of the major UK brands now run a reconditioned programme. A reconditioned lift is usually a straight model that has been removed from another home, stripped, inspected, any worn parts replaced, and fitted with a new rail sized for your staircase. Prices start around £1,200 fitted.
 
-For a straight staircase, a reconditioned lift from Stannah or Acorn is a sensible starting point unless you specifically want new. Curved reconditioned lifts are rarer because the rail is bespoke — buying someone else's curved rail almost never works for your staircase, so in practice only the carriage is reused and the rail is still made to measure. That narrows the saving.
+For a straight staircase, a reconditioned lift from Stannah or Acorn is a sensible starting point unless you specifically want new. Curved reconditioned lifts are rarer because the rail is bespoke, buying someone else's curved rail almost never works for your staircase, so in practice only the carriage is reused and the rail is still made to measure. That narrows the saving.
 
 ## When a stairlift is not the right answer
 

@@ -8,7 +8,7 @@ author: margaret
 category: tech-guides
 primaryKeyword: iphone setup for seniors uk
 metaDescription: >-
-  A plain-English guide to setting up an iPhone for the first time — covering
+  A plain-English guide to setting up an iPhone for the first time, covering
   accessibility settings, Apple ID, iCloud backup and installing apps.
 howTo:
   totalTime: PT60M
@@ -23,7 +23,7 @@ howTo:
         protected.
     - name: Create or sign in to an Apple ID
       text: >-
-        An Apple ID is the account that ties your iPhone to Apple's services —
+        An Apple ID is the account that ties your iPhone to Apple's services ,
         you'll need one to use the phone properly.
     - name: Turn on iCloud backup
       text: >-
@@ -35,7 +35,7 @@ howTo:
         button, and how to go back.
     - name: Install your first app
       text: >-
-        Use the App Store to find and install an app — starting with something
+        Use the App Store to find and install an app, starting with something
         familiar like BBC iPlayer or WhatsApp.
 tags:
   - iphone
@@ -67,7 +67,7 @@ Go to **Settings** (the grey icon with cog-wheels on the home screen), then tap 
 For the text size specifically, go back to **Settings**, tap **Accessibility**, then **Display & Text Size**, then **Larger Text**. Drag the slider to the right until the sample text at the top looks comfortable. You can always adjust this later.
 
 :::callout{type="warning"}
-**Don't skip this step.** Many people get frustrated with their first iPhone because they spend weeks squinting at tiny text when a thirty-second change would have fixed it. Accessibility settings are not a concession — they're the sensible starting point.
+**Don't skip this step.** Many people get frustrated with their first iPhone because they spend weeks squinting at tiny text when a thirty-second change would have fixed it. Accessibility settings are not a concession, they're the sensible starting point.
 :::
 
 While you're in **Accessibility**, it's worth turning on **Bold Text** too. The toggle is just above the text size slider. Bold text makes a surprisingly big difference to readability, particularly on news apps and websites.
@@ -78,7 +78,7 @@ While you're in **Accessibility**, it's worth turning on **Bold Text** too. The 
 
 Your iPhone will ask you to set up a passcode early in the initial setup process. If it hasn't asked you yet, go to **Settings**, then **Face ID & Passcode**.
 
-Face ID lets the phone recognise your face to open it, which is convenient — no typing needed each time. To set it up, tap **Set Up Face ID**, hold the phone at arm's length, and slowly move your head in a circle as prompted. It's less fiddly than it sounds. Do it twice (the phone will ask for a second scan), and you're done.
+Face ID lets the phone recognise your face to open it, which is convenient, no typing needed each time. To set it up, tap **Set Up Face ID**, hold the phone at arm's length, and slowly move your head in a circle as prompted. It's less fiddly than it sounds. Do it twice (the phone will ask for a second scan), and you're done.
 
 If Face ID doesn't suit you, a six-digit passcode is perfectly fine. Write it down somewhere safe at home. Not on a sticky note attached to the phone, obviously, but in a notebook kept in a drawer.
 
@@ -122,7 +122,7 @@ On most modern iPhones (anything from the iPhone X onwards, so from 2017), there
 
 If your iPhone does have a round home button at the bottom (the older SE models, for instance), press it once to return to the home screen.
 
-I'd suggest spending five or ten minutes just tapping around. Open the **Clock** app, then swipe up to close it. Open **Photos** (it may be empty for now). The goal isn't to learn everything at once, just to get a feel for how things respond to your touch. The screen is quite sensitive — you don't need to press hard, a light tap is enough.
+I'd suggest spending five or ten minutes just tapping around. Open the **Clock** app, then swipe up to close it. Open **Photos** (it may be empty for now). The goal isn't to learn everything at once, just to get a feel for how things respond to your touch. The screen is quite sensitive, you don't need to press hard, a light tap is enough.
 
 ---
 
@@ -137,7 +137,7 @@ Tap the app when it appears in the results. Tap the blue **Get** button (or a pr
 That's genuinely all there is to it.
 
 :::callout{type="warning"}
-**Watch out for apps that look similar to what you want but aren't.** When you search for BBC iPlayer, several apps may appear, including ones from other developers that aren't the real BBC. Look for the official publisher name just below the app's title — it should say **BBC** for iPlayer, **WhatsApp LLC** for WhatsApp. If the publisher name looks unfamiliar or the app has very few ratings, scroll down to find the correct one.
+**Watch out for apps that look similar to what you want but aren't.** When you search for BBC iPlayer, several apps may appear, including ones from other developers that aren't the real BBC. Look for the official publisher name just below the app's title, it should say **BBC** for iPlayer, **WhatsApp LLC** for WhatsApp. If the publisher name looks unfamiliar or the app has very few ratings, scroll down to find the correct one.
 :::
 
 ---

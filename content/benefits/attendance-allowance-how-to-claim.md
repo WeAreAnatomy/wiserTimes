@@ -22,11 +22,11 @@ howTo:
       text: >-
         Request the form by phone from the Attendance Allowance helpline or
         download it from GOV.UK.
-    - name: Complete Part 1 — your personal details
+    - name: Complete Part 1, your personal details
       text: >-
         Fill in your name, address, National Insurance number and GP details
         accurately.
-    - name: Complete Part 2 — how your condition affects you
+    - name: Complete Part 2, how your condition affects you
       text: >-
         Describe your care needs on your worst days, giving specific examples of
         what you cannot do safely or at all.
@@ -72,7 +72,7 @@ One thing worth knowing: there's no means test. Your income, savings and whether
 
 The quickest way to start your claim is to phone the Attendance Allowance helpline on **0800 731 0122** (textphone 0800 731 0317, Monday to Friday, 8am to 6pm). The DWP will post you the form, which arrives in about a week.
 
-You can also download the AA1 form from GOV.UK and print it yourself. Bear in mind it runs to around 40 pages — it looks daunting, but most of those pages are guidance notes or sections that won't apply to you.
+You can also download the AA1 form from GOV.UK and print it yourself. Bear in mind it runs to around 40 pages, it looks daunting, but most of those pages are guidance notes or sections that won't apply to you.
 
 :::callout{type="warning"}
 **The posting date is your claim start date.** The DWP backdates your award to the date they receive your form, not the date you phoned to request it. If you request the form by phone, you get a four-week window to return it and keep that original call date. If you download and print it yourself, you lose that protection. Phone the helpline.
@@ -80,7 +80,7 @@ You can also download the AA1 form from GOV.UK and print it yourself. Bear in mi
 
 ---
 
-## Step 3: Complete Part 1 — your personal details
+## Step 3: Complete Part 1: your personal details
 
 Part 1 is the straightforward section: your name, address, date of birth, National Insurance number, and your GP's details. Fill this in carefully and check it against your NHS letter or prescription so the details match what the DWP holds.
 
@@ -88,7 +88,7 @@ If your GP surgery has changed recently, use the current one. If you have a spec
 
 ---
 
-## Step 4: Complete Part 2 — how your condition affects you
+## Step 4: Complete Part 2: how your condition affects you
 
 This is the section that decides your award, and it's where most people undersell themselves.
 
@@ -161,7 +161,7 @@ Not at the moment. As of mid-2025, Attendance Allowance must be claimed using th
 **What if my condition has got worse since I was last assessed?**
 If your needs have changed significantly, you can request a supersession (a formal review) by calling the Attendance Allowance helpline. Don't assume your current award reflects your current situation.
 
-**My condition isn't physical — can I still claim?**
+**My condition isn't physical, can I still claim?**
 Yes. Dementia, depression, anxiety and other mental health conditions can all qualify, provided they mean you need supervision or care to keep you safe. The form asks about both physical and mental health.
 
 **Will claiming Attendance Allowance affect my other benefits?**

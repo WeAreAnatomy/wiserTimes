@@ -38,8 +38,8 @@ faqs:
       lose entitlement to most means-tested benefits entirely.
   - q: Can I protect my benefits by spending the equity release money quickly?
     a: >-
-      In principle, yes. Capital you spend on a genuine need — home adaptations,
-      clearing debts, a holiday you actually take — is no longer counted. But
+      In principle, yes. Capital you spend on a genuine need, home adaptations,
+      clearing debts, a holiday you actually take, is no longer counted. But
       deliberately giving money away to stay below the threshold can be treated
       as "deprivation of assets" by the DWP, which can recalculate your
       entitlement as if you still had it.
@@ -167,7 +167,7 @@ For more on how lifetime mortgages work in general, see our [guide to equity rel
 - q: What is the capital threshold for means-tested benefits?
   a: For most means-tested benefits, savings or capital below £10,000 are ignored. Between £10,000 and £16,000, a notional income is assumed (£1 per week for every £500, or part thereof, over £10,000). Above £16,000, you lose entitlement to most means-tested benefits entirely.
 - q: Can I protect my benefits by spending the equity release money quickly?
-  a: In principle, yes. Capital you spend on a genuine need — home adaptations, clearing debts, a holiday you actually take — is no longer counted. But deliberately giving money away to stay below the threshold can be treated as "deprivation of assets" by the DWP, which can recalculate your entitlement as if you still had it.
+  a: In principle, yes. Capital you spend on a genuine need, home adaptations, clearing debts, a holiday you actually take, is no longer counted. But deliberately giving money away to stay below the threshold can be treated as "deprivation of assets" by the DWP, which can recalculate your entitlement as if you still had it.
 - q: Should I tell the DWP if I take out equity release?
   a: Yes, you must. Failing to report a change in your financial circumstances when claiming means-tested benefits is a legal obligation. Payments made in error have to be repaid, sometimes with a penalty on top.
 :::
