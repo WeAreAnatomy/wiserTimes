@@ -10,8 +10,8 @@ intent: informational
 regulatoryDomain: general
 slug: council-tax-reduction-pensioners
 author: margaret
-published: '2026-06-11'
-lastReviewed: '2026-06-11'
+published: '2026-04-28'
+lastReviewed: '2026-04-28'
 keywords:
   - council tax reduction pensioners
   - council tax support

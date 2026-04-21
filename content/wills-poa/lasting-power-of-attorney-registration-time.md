@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: legal
 slug: lasting-power-of-attorney-registration-time
 author: margaret
-published: '2026-07-28'
-lastReviewed: '2026-07-28'
+published: '2026-06-14'
+lastReviewed: '2026-06-14'
 keywords:
   - how long does lpa take to register
   - lpa registration time

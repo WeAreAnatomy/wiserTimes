@@ -10,8 +10,8 @@ intent: informational
 regulatoryDomain: general
 slug: internet-safety-guide-beginners
 author: wiser-times-tech
-published: '2099-01-01'
-lastReviewed: '2026-04-21'
+published: '2026-10-11'
+lastReviewed: '2026-10-11'
 keywords:
   - internet safety beginners uk
   - online safety tips

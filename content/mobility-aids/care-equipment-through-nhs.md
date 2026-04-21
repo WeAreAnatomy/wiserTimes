@@ -48,8 +48,8 @@ howTo:
       text: >-
         Contact your local community equipment service directly; they will
         collect and refurbish items for someone else.
-published: '2099-01-01'
-lastReviewed: '2026-04-21'
+published: '2026-09-08'
+lastReviewed: '2026-09-08'
 ---
 # How to get care equipment through the NHS
 

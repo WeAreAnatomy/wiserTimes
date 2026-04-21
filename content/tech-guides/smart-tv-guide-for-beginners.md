@@ -40,8 +40,8 @@ howTo:
       text: >-
         Go to Accessibility in Settings to increase on-screen text size and
         adjust contrast.
-published: '2099-01-01'
-lastReviewed: '2026-04-21'
+published: '2026-10-26'
+lastReviewed: '2026-10-26'
 ---
 # How to get the most out of a smart TV
 

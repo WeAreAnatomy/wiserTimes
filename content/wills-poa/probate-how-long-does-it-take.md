@@ -10,8 +10,8 @@ intent: informational
 regulatoryDomain: legal
 slug: wills-poa/probate-how-long-does-it-take
 author: david
-published: '2099-01-01'
-lastReviewed: '2026-04-21'
+published: '2026-11-23'
+lastReviewed: '2026-11-23'
 keywords:
   - how long does probate take
   - probate timeline

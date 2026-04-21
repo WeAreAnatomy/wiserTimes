@@ -40,8 +40,8 @@ howTo:
         others can hear you.
     - name: Leave the meeting politely
       text: Tap "Leave" or "End" when the call is finished.
-published: '2099-01-01'
-lastReviewed: '2026-04-21'
+published: '2026-10-06'
+lastReviewed: '2026-10-06'
 ---
 # How to use Zoom: a step-by-step guide for beginners
 

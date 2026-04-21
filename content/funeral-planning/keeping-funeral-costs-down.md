@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: general
 slug: keeping-funeral-costs-down
 author: david
-published: '2099-01-01'
-lastReviewed: '2026-04-21'
+published: '2026-08-25'
+lastReviewed: '2026-08-25'
 keywords:
   - how to reduce funeral costs uk
   - cheap funeral uk

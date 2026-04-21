@@ -32,8 +32,8 @@ howTo:
       text: >-
         Tap your profile picture, select Offline maps, then Download your own
         map and draw a box around the area you want.
-published: '2099-01-01'
-lastReviewed: '2026-04-21'
+published: '2026-11-02'
+lastReviewed: '2026-11-02'
 ---
 # How to use Google Maps on your smartphone
 

@@ -47,8 +47,8 @@ howTo:
         Use the on-screen breakdown to see which years have gaps, then decide
         whether to pay voluntary Class 3 National Insurance contributions to
         fill them.
-published: '2099-01-01'
-lastReviewed: '2026-04-21'
+published: '2026-07-09'
+lastReviewed: '2026-07-09'
 ---
 # How to check your State Pension forecast on gov.uk
 

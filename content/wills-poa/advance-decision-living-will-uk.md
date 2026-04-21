@@ -10,8 +10,8 @@ intent: informational
 regulatoryDomain: legal
 slug: advance-decision-living-will-uk
 author: david
-published: '2099-01-01'
-lastReviewed: '2026-04-21'
+published: '2026-11-06'
+lastReviewed: '2026-11-06'
 keywords:
   - advance decision living will uk
   - advance decision to refuse treatment

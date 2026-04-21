@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: health
 slug: rollator-vs-walking-frame
 author: priya
-published: '2026-07-14'
-lastReviewed: '2026-07-14'
+published: '2026-05-31'
+lastReviewed: '2026-05-31'
 keywords:
   - rollator vs walking frame
   - rollator

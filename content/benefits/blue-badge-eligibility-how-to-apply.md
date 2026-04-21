@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: general
 slug: blue-badge-eligibility-how-to-apply
 author: margaret
-published: '2026-06-07'
-lastReviewed: '2026-06-07'
+published: '2026-04-23'
+lastReviewed: '2026-04-23'
 keywords:
   - blue badge eligibility uk
   - how to apply for a blue badge

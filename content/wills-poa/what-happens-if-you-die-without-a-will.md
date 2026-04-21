@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: legal
 slug: wills-poa/what-happens-if-you-die-without-a-will
 author: david
-published: '2099-01-01'
-lastReviewed: '2026-04-21'
+published: '2026-11-25'
+lastReviewed: '2026-11-25'
 keywords:
   - dying without a will uk
   - intestacy rules uk

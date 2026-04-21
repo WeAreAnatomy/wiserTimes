@@ -10,8 +10,8 @@ intent: informational
 regulatoryDomain: finance
 slug: how-equity-release-regulation-changed
 author: david
-published: '2099-01-01'
-lastReviewed: '2026-04-21'
+published: '2026-07-30'
+lastReviewed: '2026-07-30'
 keywords:
   - equity release regulation history
   - equity release council

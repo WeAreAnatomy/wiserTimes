@@ -39,8 +39,8 @@ howTo:
       text: >-
         Match the stick to your grip, weight-bearing needs and the surfaces you
         walk on most.
-published: '2026-07-07'
-lastReviewed: '2026-07-07'
+published: '2026-05-24'
+lastReviewed: '2026-05-24'
 ---
 ```
 

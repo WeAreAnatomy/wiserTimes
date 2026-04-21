@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: legal
 slug: wills-poa/when-to-update-your-will
 author: david
-published: '2099-01-01'
-lastReviewed: '2026-04-21'
+published: '2026-11-27'
+lastReviewed: '2026-11-27'
 keywords:
   - when to update your will
   - updating a will

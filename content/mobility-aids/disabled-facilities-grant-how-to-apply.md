@@ -50,8 +50,8 @@ howTo:
         The council inspects the finished adaptation and releases the grant
         payment, usually direct to the contractor.
 vertical: mobility-aids
-published: '2026-07-02'
-lastReviewed: '2026-07-02'
+published: '2026-05-19'
+lastReviewed: '2026-05-19'
 contentType: how-to
 intent: informational
 regulatoryDomain: health

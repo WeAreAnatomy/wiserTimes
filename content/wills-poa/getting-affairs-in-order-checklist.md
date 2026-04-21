@@ -10,8 +10,8 @@ intent: informational
 regulatoryDomain: legal
 slug: getting-affairs-in-order-checklist
 author: david
-published: '2099-01-01'
-lastReviewed: '2026-04-21'
+published: '2026-11-11'
+lastReviewed: '2026-11-11'
 keywords:
   - getting affairs in order uk
   - affairs in order checklist

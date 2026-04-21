@@ -46,8 +46,8 @@ howTo:
       text: >-
         Inform solicitors, employers, clubs and landlords or the mortgage
         lender.
-published: '2099-01-01'
-lastReviewed: '2026-04-21'
+published: '2026-09-01'
+lastReviewed: '2026-09-01'
 ---
 # Who to notify when someone dies: a complete checklist
 

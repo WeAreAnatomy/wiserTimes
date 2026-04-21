@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: finance
 slug: how-much-equity-can-i-release
 author: david
-published: '2026-06-21'
-lastReviewed: '2026-06-21'
+published: '2026-05-07'
+lastReviewed: '2026-05-07'
 keywords:
   - how much equity can I release
   - equity release calculator

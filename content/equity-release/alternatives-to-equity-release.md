@@ -10,8 +10,8 @@ intent: informational
 regulatoryDomain: finance
 slug: alternatives-to-equity-release
 author: david
-published: '2099-01-01'
-lastReviewed: '2026-04-21'
+published: '2026-07-16'
+lastReviewed: '2026-07-16'
 keywords:
   - alternatives to equity release
   - equity release alternatives

@@ -10,8 +10,8 @@ intent: informational
 regulatoryDomain: health
 slug: live-in-care-vs-care-home
 author: priya
-published: '2026-07-09'
-lastReviewed: '2026-07-09'
+published: '2026-05-26'
+lastReviewed: '2026-05-26'
 keywords:
   - live in care vs care home
   - live in carer

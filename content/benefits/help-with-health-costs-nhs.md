@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: general
 slug: help-with-health-costs-nhs
 author: margaret
-published: '2099-01-01'
-lastReviewed: '2026-04-21'
+published: '2026-06-30'
+lastReviewed: '2026-06-30'
 keywords:
   - help with nhs health costs
   - hc1 form

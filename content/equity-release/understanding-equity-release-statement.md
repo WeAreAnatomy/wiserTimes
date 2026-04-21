@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: finance
 slug: understanding-equity-release-statement
 author: david
-published: '2099-01-01'
-lastReviewed: '2026-04-21'
+published: '2026-08-09'
+lastReviewed: '2026-08-09'
 keywords:
   - equity release annual statement
   - lifetime mortgage statement

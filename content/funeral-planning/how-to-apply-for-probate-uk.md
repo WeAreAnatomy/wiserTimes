@@ -46,8 +46,8 @@ howTo:
       text: >-
         Once your grant of probate arrives, use it to access bank accounts, sell
         property, and distribute the estate to beneficiaries.
-published: '2099-01-01'
-lastReviewed: '2026-04-21'
+published: '2026-08-18'
+lastReviewed: '2026-08-18'
 ---
 ```
 

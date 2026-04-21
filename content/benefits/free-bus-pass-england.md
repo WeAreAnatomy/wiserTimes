@@ -36,8 +36,8 @@ howTo:
       text: >-
         Tap or show your pass on any eligible bus service in England from 9:30am
         on weekdays and all day at weekends and bank holidays.
-published: '2099-01-01'
-lastReviewed: '2026-04-21'
+published: '2026-06-21'
+lastReviewed: '2026-06-21'
 ---
 ```
 

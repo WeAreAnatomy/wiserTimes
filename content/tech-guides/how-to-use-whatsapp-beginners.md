@@ -49,8 +49,8 @@ howTo:
       text: >-
         Tap the new chat icon, select New Group, add contacts, give the group a
         name, and tap the green tick to create it.
-published: '2099-01-01'
-lastReviewed: '2026-04-21'
+published: '2026-10-04'
+lastReviewed: '2026-10-04'
 ---
 # How to use WhatsApp: a step-by-step guide for beginners
 

@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: general
 slug: pension-credit-what-you-get
 author: margaret
-published: '2026-06-14'
-lastReviewed: '2026-06-14'
+published: '2026-04-30'
+lastReviewed: '2026-04-30'
 keywords:
   - pension credit amount 2026
   - how much is pension credit

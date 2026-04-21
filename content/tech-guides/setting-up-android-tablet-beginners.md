@@ -39,8 +39,8 @@ howTo:
       text: >-
         Open the Play Store app, search for something you want such as BBC
         iPlayer or WhatsApp, then tap Install.
-published: '2099-01-01'
-lastReviewed: '2026-04-21'
+published: '2026-10-20'
+lastReviewed: '2026-10-20'
 ---
 # How to set up an Android tablet if you are new to technology
 

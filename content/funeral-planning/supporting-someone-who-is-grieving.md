@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: general
 slug: supporting-someone-who-is-grieving
 author: david
-published: '2099-01-01'
-lastReviewed: '2026-04-21'
+published: '2026-08-30'
+lastReviewed: '2026-08-30'
 keywords:
   - how to support grieving person uk
   - supporting someone who is grieving

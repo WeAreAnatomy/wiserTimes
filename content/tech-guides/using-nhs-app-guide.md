@@ -45,8 +45,8 @@ tags:
   - gp appointments
   - repeat prescriptions
   - health record
-published: '2099-01-01'
-lastReviewed: '2026-04-21'
+published: '2026-11-04'
+lastReviewed: '2026-11-04'
 ---
 # How to use the NHS App to manage your health
 

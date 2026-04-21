@@ -35,8 +35,8 @@ howTo:
       text: >-
         Read the outcome letter, ask questions, and request a review if your
         situation changes.
-published: '2026-07-16'
-lastReviewed: '2026-07-16'
+published: '2026-06-02'
+lastReviewed: '2026-06-02'
 ---
 # How to get a social care needs assessment in England
 

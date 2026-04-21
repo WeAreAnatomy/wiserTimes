@@ -46,8 +46,8 @@ howTo:
       text: >-
         Use voice commands to make hands-free calls, listen to Audible
         audiobooks, or stream BBC Radio 4.
-published: '2099-01-01'
-lastReviewed: '2026-04-21'
+published: '2026-09-27'
+lastReviewed: '2026-09-27'
 ---
 # How to set up an Amazon Echo (Alexa) in your home
 

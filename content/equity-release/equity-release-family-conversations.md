@@ -10,8 +10,8 @@ intent: informational
 regulatoryDomain: finance
 slug: equity-release-family-conversations
 author: david
-published: '2099-01-01'
-lastReviewed: '2026-04-21'
+published: '2026-07-26'
+lastReviewed: '2026-07-26'
 keywords:
   - equity release family discussion
   - talking to family about equity release

@@ -38,8 +38,8 @@ howTo:
       text: >-
         Open your backup app or service and confirm the date of the last
         successful backup.
-published: '2099-01-01'
-lastReviewed: '2026-04-21'
+published: '2026-09-24'
+lastReviewed: '2026-09-24'
 ---
 This guide is for anyone who has ever worried about what would happen if their phone was lost, stolen or simply stopped working. By the time you finish reading, you'll know how to make sure your photos and contacts are saved somewhere safe, automatically, without having to think about it again. It covers iPhones and Android phones, and you don't need to be especially confident with technology to follow the steps.
 

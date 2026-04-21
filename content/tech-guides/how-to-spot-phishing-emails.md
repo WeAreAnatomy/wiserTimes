@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: general
 slug: how-to-spot-phishing-emails
 author: wiser-times-editorial
-published: '2099-01-01'
-lastReviewed: '2026-04-21'
+published: '2026-10-01'
+lastReviewed: '2026-10-01'
 keywords:
   - phishing emails uk
   - scam emails
