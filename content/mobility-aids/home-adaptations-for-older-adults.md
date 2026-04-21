@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: health
 slug: home-adaptations-for-older-adults
 author: priya
-published: '2026-05-17'
-lastReviewed: '2026-05-17'
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
 keywords:
   - home adaptations for elderly uk
   - disabled facilities grant

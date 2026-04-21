@@ -10,8 +10,8 @@ intent: commercial
 regulatoryDomain: general
 slug: direct-cremation-uk-cost
 author: david
-published: '2026-05-10'
-lastReviewed: '2026-05-10'
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
 keywords:
   - direct cremation uk cost
   - direct cremation price

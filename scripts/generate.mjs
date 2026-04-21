@@ -90,24 +90,27 @@ async function main() {
       continue;
     }
     const [vertical, slug] = r.custom_id.split('__');
-    const text = r.result.message.content
-      .filter((b) => b.type === 'text')
-      .map((b) => b.text)
-      .join('\n');
-    const { frontmatter, body } = splitFrontmatter(text);
-    // Stamp a far-future sentinel so this article stays hidden until
-    // scripts/schedule.mjs assigns it a real publish date.
-    frontmatter.published = '2099-01-01';
-    frontmatter.lastReviewed = new Date().toISOString().slice(0, 10);
-    const violations = scan(body, { regulatoryDomain: frontmatter.regulatoryDomain });
-    if (violations.some((v) => v.severity === 'hard')) {
-      console.warn(
-        `[hard violation] ${r.custom_id}: ${violations.map((v) => v.term).join(', ')} — queueing for humanisation.`,
-      );
-      // In production: send this draft to the humanise batch.
+    try {
+      const text = r.result.message.content
+        .filter((b) => b.type === 'text')
+        .map((b) => b.text)
+        .join('\n');
+      const { frontmatter, body } = splitFrontmatter(text);
+      // Stamp a far-future sentinel so this article stays hidden until
+      // scripts/schedule.mjs assigns it a real publish date.
+      frontmatter.published = '2099-01-01';
+      frontmatter.lastReviewed = new Date().toISOString().slice(0, 10);
+      const violations = scan(body, { regulatoryDomain: frontmatter.regulatoryDomain });
+      if (violations.some((v) => v.severity === 'hard')) {
+        console.warn(
+          `[hard violation] ${r.custom_id}: ${violations.map((v) => v.term).join(', ')} — queueing for humanisation.`,
+        );
+      }
+      writeArticle(vertical, slug, frontmatter, body);
+      console.log(`[write] content/${vertical}/${slug}.md`);
+    } catch (err) {
+      console.warn(`[error] ${r.custom_id}: ${err.message} — skipping, will retry on next run.`);
     }
-    writeArticle(vertical, slug, frontmatter, body);
-    console.log(`[write] content/${vertical}/${slug}.md`);
   }
 }
 
@@ -135,8 +138,21 @@ function splitFrontmatter(text) {
   if (!cleaned.startsWith('---')) {
     return { frontmatter: { title: 'Untitled', slug: 'untitled' }, body: cleaned };
   }
-  const { data, content } = matter(cleaned);
-  return { frontmatter: data, body: content };
+  // First attempt: parse as-is.
+  try {
+    const { data, content } = matter(cleaned);
+    return { frontmatter: data, body: content };
+  } catch {
+    // YAML colons in unquoted scalar values (e.g. "title: Foo: bar") cause
+    // parse failures. Quote any frontmatter line whose value contains a bare
+    // colon and retry before giving up.
+    const fixed = cleaned.replace(
+      /^([ \t]*\w[\w-]*):\s*([^'"\n\[{][^\n]*:[^\n]*)$/gm,
+      (_, key, val) => `${key}: '${val.replace(/'/g, "''")}'`,
+    );
+    const { data, content } = matter(fixed);
+    return { frontmatter: data, body: content };
+  }
 }
 
 main().catch((err) => {

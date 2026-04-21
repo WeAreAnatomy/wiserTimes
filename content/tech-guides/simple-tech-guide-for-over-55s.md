@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: general
 slug: simple-tech-guide-for-over-55s
 author: margaret
-published: '2026-05-26'
-lastReviewed: '2026-05-26'
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
 keywords:
   - tech guide for seniors uk
   - technology for over 55s

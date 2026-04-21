@@ -10,8 +10,8 @@ intent: informational
 regulatoryDomain: general
 slug: winter-fuel-payment-eligibility-2026
 author: margaret
-published: '2026-04-28'
-lastReviewed: '2026-04-28'
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
 keywords:
   - winter fuel payment eligibility 2026
   - winter fuel payment means test

@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: general
 slug: funeral-planning-uk-complete-guide
 author: editorial
-published: '2026-05-12'
-lastReviewed: '2026-05-12'
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
 keywords:
   - funeral planning uk
   - prepaid funeral plan

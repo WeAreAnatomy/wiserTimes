@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: finance
 slug: downsizing-vs-equity-release
 author: david
-published: '2026-05-03'
-lastReviewed: '2026-05-03'
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
 keywords:
   - downsizing vs equity release
   - equity release or downsize

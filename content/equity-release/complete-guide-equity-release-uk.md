@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: finance
 slug: complete-guide-equity-release-uk
 author: david
-published: '2026-04-30'
-lastReviewed: '2026-04-30'
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
 keywords:
   - equity release uk
   - lifetime mortgage

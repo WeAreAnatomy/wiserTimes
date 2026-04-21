@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: general
 slug: average-funeral-cost-uk-2026
 author: margaret
-published: '2026-05-07'
-lastReviewed: '2026-05-07'
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
 keywords:
   - average funeral cost uk 2026
   - how much does a funeral cost

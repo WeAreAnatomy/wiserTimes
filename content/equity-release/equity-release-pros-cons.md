@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: finance
 slug: equity-release-pros-cons
 author: david
-published: '2026-05-05'
-lastReviewed: '2026-05-05'
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
 keywords:
   - equity release pros cons
   - lifetime mortgage advantages disadvantages

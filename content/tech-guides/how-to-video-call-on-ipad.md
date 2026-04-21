@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: general
 slug: how-to-video-call-on-ipad
 author: editorial
-published: '2026-05-21'
-lastReviewed: '2026-05-21'
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
 keywords:
   - how to video call on ipad
   - facetime ipad

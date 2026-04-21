@@ -40,13 +40,13 @@ tags:
   - legal
   - probate
 vertical: wills-poa
-lastReviewed: '2026-05-28'
+lastReviewed: '2026-04-20'
 contentType: how-to
 intent: informational
 regulatoryDomain: legal
 keywords:
   - how to write a will uk
-published: '2026-05-28'
+published: '2026-04-20'
 ---
 # How to write a will in the UK
 

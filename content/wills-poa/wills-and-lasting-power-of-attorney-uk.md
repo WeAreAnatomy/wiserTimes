@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: legal
 slug: wills-and-lasting-power-of-attorney-uk
 author: editorial
-published: '2026-06-02'
-lastReviewed: '2026-06-02'
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
 keywords:
   - wills and lpa uk
   - lasting power of attorney

@@ -10,8 +10,8 @@ intent: commercial
 regulatoryDomain: health
 slug: best-stairlifts-uk
 author: priya
-published: '2026-05-14'
-lastReviewed: '2026-05-14'
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
 keywords:
   - best stairlifts uk
   - stairlift comparison

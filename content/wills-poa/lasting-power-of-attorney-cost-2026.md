@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: legal
 slug: lasting-power-of-attorney-cost-2026
 author: david
-published: '2026-05-31'
-lastReviewed: '2026-05-31'
+published: '2026-04-20'
+lastReviewed: '2026-04-20'
 keywords:
   - lasting power of attorney cost
   - LPA cost 2026
