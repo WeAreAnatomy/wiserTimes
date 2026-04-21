@@ -15,7 +15,6 @@ import {
   ArrowRight,
   ShieldCheck,
   RefreshCw,
-  Mail,
 } from 'lucide-react';
 import type { LucideIcon } from 'lucide-react';
 import { verticalsList, siteConfig } from '@/lib/config';
@@ -214,43 +213,6 @@ export default function HomePage() {
           </ul>
         </Container>
       )}
-
-      {/* ── Newsletter / engagement CTA ── */}
-      <section className="bg-brand-ink">
-        <Container width="wide" className="py-12 sm:py-14 text-center">
-          <span aria-hidden="true" className="mx-auto mb-4 flex h-14 w-14 items-center justify-center rounded-full bg-white/10">
-            <Mail size={28} className="text-white" />
-          </span>
-          <h2 className="font-serif text-3xl font-semibold text-white">
-            One useful guide, once a week
-          </h2>
-          <p className="mx-auto mt-3 max-w-xl text-lg text-brand-cream/80">
-            Join our free weekly digest. We pick one guide that matters
-            and send it straight to your inbox. No spam, unsubscribe any time.
-          </p>
-          <form
-            action="#"
-            method="POST"
-            className="mx-auto mt-6 flex max-w-md flex-col gap-3 sm:flex-row"
-          >
-            <label htmlFor="home-email" className="sr-only">
-              Email address
-            </label>
-            <input
-              id="home-email"
-              name="email"
-              type="email"
-              required
-              autoComplete="email"
-              placeholder="you@example.co.uk"
-              className="min-h-tap flex-1 rounded-md border border-brand-cream/30 bg-white/10 px-4 py-2.5 text-lg text-white placeholder:text-brand-cream/50 focus:border-brand-teal focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-teal"
-            />
-            <CTAButton submit size="lg">
-              Subscribe
-            </CTAButton>
-          </form>
-        </Container>
-      </section>
 
       {/* ── Ad slot: lower page ── */}
       <Container width="wide" className="pt-8 pb-4">
