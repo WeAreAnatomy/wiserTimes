@@ -31,13 +31,15 @@ export const metadata: Metadata = {
   },
   twitter: { card: 'summary_large_image' },
   robots: { index: true, follow: true },
+  other: {
+    'google-adsense-account': 'ca-pub-2141931804727693',
+  },
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="en-GB">
       <head>
-        <meta name="google-adsense-account" content="ca-pub-2141931804727693" />
         <Script
           id="adsbygoogle-init"
           async
