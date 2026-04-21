@@ -36,6 +36,16 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="en-GB">
+      <head>
+        <meta name="google-adsense-account" content="ca-pub-2141931804727693" />
+        <Script
+          id="adsbygoogle-init"
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2141931804727693"
+          crossOrigin="anonymous"
+          strategy="beforeInteractive"
+        />
+      </head>
       <body>
         <SkipLink />
         <Header />
@@ -45,12 +55,6 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         <Footer />
         <CookieConsent />
         <OrganizationSchema />
-        <Script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2141931804727693"
-          crossOrigin="anonymous"
-          strategy="afterInteractive"
-        />
         <Analytics />
         <SpeedInsights />
       </body>
