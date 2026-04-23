@@ -58,10 +58,10 @@ export default function PrivacyPage() {
 
         <h2>Who we share data with</h2>
         <ul>
-          <li>Google (Analytics, AdSense) — in their role as processors and, for advertising, independent controllers.</li>
-          <li>Vercel — our hosting and analytics processor (aggregate, cookieless traffic and performance metrics).</li>
-          <li>Affiliate networks such as Awin and Amazon Associates — for attribution of clicks and sales.</li>
-          <li>Lead generation partners — only with your explicit consent on the relevant form.</li>
+          <li>Google (Analytics, AdSense) - in their role as processors and, for advertising, independent controllers.</li>
+          <li>Vercel - our hosting and analytics processor (aggregate, cookieless traffic and performance metrics).</li>
+          <li>Affiliate networks such as Awin and Amazon Associates - for attribution of clicks and sales.</li>
+          <li>Lead generation partners - only with your explicit consent on the relevant form.</li>
         </ul>
 
         <h2>Retention</h2>

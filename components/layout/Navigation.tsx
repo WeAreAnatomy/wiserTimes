@@ -18,7 +18,7 @@ const verticalIcons: Record<string, LucideIcon> = {
 
 /**
  * Site navigation. Brief requires: no hamburger menus, large tap targets,
- * accessible focus. Same nav renders in both header and footer — the variant
+ * accessible focus. Same nav renders in both header and footer - the variant
  * prop only changes styling, not content.
  */
 export default function Navigation({ variant = 'header' }: NavigationProps) {

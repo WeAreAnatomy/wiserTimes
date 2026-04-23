@@ -28,7 +28,7 @@ const defaultFields: LeadFormField[] = [
 /**
  * Accessible lead-gen form used in high-value verticals (equity release,
  * stairlifts, funeral plans). Includes mandatory consent checkbox per
- * §10.4 of the brief. Actual submission handling is out of scope here —
+ * §10.4 of the brief. Actual submission handling is out of scope here -
  * the form POSTs to the provided action URL.
  */
 export default function LeadForm({

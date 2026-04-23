@@ -42,7 +42,7 @@ function parseAttrs(raw: string | undefined): Record<string, string> {
  * - Closes any remaining unbalanced fences so a single mistake never
  *   swallows the entire article into a <pre>.
  *
- * Keep this idempotent and conservative — it must not touch fences inside
+ * Keep this idempotent and conservative - it must not touch fences inside
  * legitimate code blocks.
  */
 export function sanitiseBody(md: string): string {

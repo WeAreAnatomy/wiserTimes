@@ -44,7 +44,7 @@ function walk() {
 }
 
 // Detect ANY of the four formats the runtime parser accepts. Keep this in
-// sync with parseFAQBody() in components/content/MarkdownRenderer.tsx —
+// sync with parseFAQBody() in components/content/MarkdownRenderer.tsx -
 // if you add a format there, mirror it here so validation reflects reality.
 function looksLikeFAQ(body) {
   for (const raw of body.split('\n')) {
@@ -82,7 +82,7 @@ function check({ vertical, slug, file }) {
     issues.push({
       severity: 'hard',
       kind: 'stray-leading-fence',
-      detail: 'body starts with a ``` fence — wraps whole article in <pre>',
+      detail: 'body starts with a ``` fence - wraps whole article in <pre>',
     });
   }
 
@@ -139,7 +139,7 @@ function check({ vertical, slug, file }) {
     issues.push({
       severity: 'warn',
       kind: 'duplicate-date-field',
-      detail: 'frontmatter has both `date` and `published` — drop `date`',
+      detail: 'frontmatter has both `date` and `published` - drop `date`',
     });
   }
 

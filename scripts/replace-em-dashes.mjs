@@ -2,12 +2,12 @@
 // or other punctuation per the rule in prompts/banned-words.md.
 //
 // Heuristic:
-//   - Heading lines (start with #): replace " — " with ": ".
+//   - Heading lines (start with #): replace " - " with ": ".
 //   - List item lines (start with -, *, or "  - q:" style) where the text
 //     before the first em dash on that line contains no sentence punctuation
-//     (.,:;!?) after the bullet: replace first " — " with ": ", remaining
+//     (.,:;!?) after the bullet: replace first " - " with ": ", remaining
 //     occurrences with ", ".
-//   - All other lines: replace " — " with ", ".
+//   - All other lines: replace " - " with ", ".
 //
 // Idempotent: re-running on a file with no em dashes leaves it untouched.
 

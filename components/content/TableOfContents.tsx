@@ -8,7 +8,7 @@ export interface TableOfContentsProps {
 
 /**
  * Builds a TOC from H2 headings in the markdown body. Parses at render
- * time — the body prop comes straight from the article content.
+ * time - the body prop comes straight from the article content.
  */
 export default function TableOfContents({ body, minHeadings = 3 }: TableOfContentsProps) {
   const headings = extractHeadings(body);

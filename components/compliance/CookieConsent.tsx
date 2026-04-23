@@ -26,7 +26,7 @@ function writeConsent(val: 'accepted' | 'rejected') {
  * Consent-before-tracking banner per §10.4. Stores choice in a first-party
  * cookie. Analytics/ad scripts must check `window.__wlConsent` before firing.
  *
- * Offers genuine choice (Accept/Reject) — no pre-ticked boxes.
+ * Offers genuine choice (Accept/Reject) - no pre-ticked boxes.
  */
 export default function CookieConsent() {
   const [consent, setConsent] = useState<ConsentState>(null);

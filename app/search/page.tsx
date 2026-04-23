@@ -44,7 +44,7 @@ export default function SearchPage({ searchParams }: SearchPageProps) {
       <section aria-live="polite" aria-atomic="false" className="mt-10">
         {!hasQuery && (
           <p className="text-lg text-brand-muted">
-            Enter a topic above — for example <em>stairlifts</em>, <em>pension credit</em>, or{' '}
+            Enter a topic above - for example <em>stairlifts</em>, <em>pension credit</em>, or{' '}
             <em>lasting power of attorney</em>.
           </p>
         )}

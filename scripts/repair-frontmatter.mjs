@@ -2,8 +2,8 @@
 /**
  * One-off repair for articles where generate.mjs's old splitFrontmatter
  * produced a stub frontmatter (title: Untitled, slug: untitled) and stuffed
- * the model's real markdown — including its real frontmatter wrapped in a
- * code fence — into the body.
+ * the model's real markdown - including its real frontmatter wrapped in a
+ * code fence - into the body.
  *
  * Detects that pattern, extracts the inner frontmatter, and rewrites the
  * file in place using the standard markdown helper.
@@ -87,7 +87,7 @@ for (const v of fs.readdirSync(CONTENT_ROOT, { withFileTypes: true })) {
     }
 
     const slug = file.replace(/\.md$/, '');
-    // Preserve the scheduled published date from the outer stub — it was set
+    // Preserve the scheduled published date from the outer stub - it was set
     // by schedule.mjs and must not be overwritten by the model's arbitrary date.
     const fixedData = {
       ...innerParsed.data,

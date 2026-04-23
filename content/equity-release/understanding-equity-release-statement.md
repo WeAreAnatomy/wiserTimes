@@ -29,7 +29,7 @@ faqs:
       Lifetime mortgages use compound interest, which means interest is charged
       on the interest already added. On a £100,000 loan at 6% fixed, you'd owe
       roughly £106,000 after year one, £112,360 after year two, and the gap
-      widens each year. This is normal — it is how the product works by design.
+      widens each year. This is normal - it is how the product works by design.
   - q: Can I reduce my outstanding balance?
     a: >-
       Many modern plans allow voluntary partial repayments, usually up to 10% of
@@ -50,7 +50,7 @@ faqs:
 ---
 # How to read your equity release annual statement
 
-Once a year, usually around the anniversary of when your plan started, your provider will send you a statement. It is one of the most important documents you will receive — and, in my experience, one of the most misread. Most people glance at the balance, feel a flash of anxiety, and file it away. That is understandable, but it is worth ten minutes of your attention.
+Once a year, usually around the anniversary of when your plan started, your provider will send you a statement. It is one of the most important documents you will receive - and, in my experience, one of the most misread. Most people glance at the balance, feel a flash of anxiety, and file it away. That is understandable, but it is worth ten minutes of your attention.
 
 This guide walks through what the statement contains, how to check whether the figures are correct, and what to do if something does not look right.
 
@@ -140,7 +140,7 @@ That said, the annual statement is still the definitive record. If there is ever
 - q: How often will I receive an equity release statement?
   a: Most providers send a statement once a year, typically on the anniversary of your plan start date. Some providers, including Aviva and Legal & General, also give you online account access where you can check your balance at any time.
 - q: Why has my outstanding balance gone up so much in one year?
-  a: Lifetime mortgages use compound interest, which means interest is charged on the interest already added. On a £100,000 loan at 6% fixed, you'd owe roughly £106,000 after year one, £112,360 after year two, and the gap widens each year. This is normal — it is how the product works by design.
+  a: Lifetime mortgages use compound interest, which means interest is charged on the interest already added. On a £100,000 loan at 6% fixed, you'd owe roughly £106,000 after year one, £112,360 after year two, and the gap widens each year. This is normal - it is how the product works by design.
 - q: Can I reduce my outstanding balance?
   a: Many modern plans allow voluntary partial repayments, usually up to 10% of the original loan per year without an early repayment charge. Check your plan terms or contact your provider directly. Not all older plans include this feature.
 - q: What should I do if my statement looks wrong?

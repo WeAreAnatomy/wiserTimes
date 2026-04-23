@@ -37,12 +37,12 @@ faqs:
       It's worth asking your adviser whether a family member can sit in, or
       whether a separate session can be arranged. Not all advisers offer this as
       standard, but many will accommodate it. The formal advice appointment is
-      yours alone — a family session is usually informal and explanatory.
+      yours alone - a family session is usually informal and explanatory.
   - q: What if my family disagrees with my decision?
     a: >-
       Their concerns deserve a fair hearing, but the final decision is yours. If
-      they raise specific financial worries — about the interest compounding,
-      the impact on means-tested benefits, or the suitability of alternatives —
+      they raise specific financial worries - about the interest compounding,
+      the impact on means-tested benefits, or the suitability of alternatives -
       those are worth putting to your adviser directly before you proceed.
   - q: Does equity release affect my children's inheritance tax position?
     a: >-
@@ -55,13 +55,13 @@ affiliates: []
 ---
 # How to talk to your family about equity release
 
-The conversation itself is often harder than the product. Most people considering a lifetime mortgage spend weeks researching interest rates and loan-to-value ratios, then put off telling their children for months. That's understandable, but it tends to go badly. Family members who find out after the fact — or worse, after completion — frequently feel blindsided, and the resulting friction can outlast the financial transaction by years.
+The conversation itself is often harder than the product. Most people considering a lifetime mortgage spend weeks researching interest rates and loan-to-value ratios, then put off telling their children for months. That's understandable, but it tends to go badly. Family members who find out after the fact - or worse, after completion - frequently feel blindsided, and the resulting friction can outlast the financial transaction by years.
 
 Transparency isn't just good manners here. It's practical. Your family may have information you don't: knowledge of your property's future potential, concerns about your care needs, or awareness of alternatives you haven't considered. Getting them involved early costs nothing and occasionally changes the outcome for the better.
 
 ## Why does this conversation feel so difficult?
 
-Partly because money and inheritance are awkward subjects in most British families. Partly because raising equity release feels, to some people, like admitting a financial shortfall — something to be embarrassed about rather than a legitimate planning tool used by around 45,000 households a year (Equity Release Council, 2023 figures).
+Partly because money and inheritance are awkward subjects in most British families. Partly because raising equity release feels, to some people, like admitting a financial shortfall - something to be embarrassed about rather than a legitimate planning tool used by around 45,000 households a year (Equity Release Council, 2023 figures).
 
 There's also the inheritance dimension. If you're releasing equity from a property worth £400,000, your children may have spent years quietly factoring that asset into their own financial futures. That's not greed; it's human. Acknowledging it openly tends to defuse it.
 
@@ -71,7 +71,7 @@ I'd suggest framing the conversation not as an announcement but as a discussion.
 
 The concerns adult children raise tend to cluster around a handful of themes, and most of them are entirely legitimate.
 
-**Compound interest.** This is the one that surprises people most. A £100,000 lifetime mortgage at 6% interest, with no monthly repayments, rolls up to roughly £320,000 over 20 years. Your children may not have seen that calculation before. Showing them the numbers — using the free calculator on the Money Helper website, or figures your adviser has modelled — turns an abstract worry into a specific one that can be discussed and planned around.
+**Compound interest.** This is the one that surprises people most. A £100,000 lifetime mortgage at 6% interest, with no monthly repayments, rolls up to roughly £320,000 over 20 years. Your children may not have seen that calculation before. Showing them the numbers - using the free calculator on the Money Helper website, or figures your adviser has modelled - turns an abstract worry into a specific one that can be discussed and planned around.
 
 **What happens to the house if you need care.** If you move into a care home, the lifetime mortgage becomes repayable, usually within 12 months of you leaving the property permanently. The house would typically be sold. That concerns children who may have assumed you'd eventually live with them, or who are hoping to keep the family home in some form. It's worth explaining the no-negative-equity guarantee (a standard Equity Release Council requirement), which at least means the debt can never exceed the sale proceeds.
 
@@ -90,7 +90,7 @@ Bring something concrete. A one-page summary of the product you're considering, 
 Expect pushback. It doesn't mean they're wrong. If a child raises a concern you can't immediately answer, write it down and take it to your adviser. A good adviser will welcome the question.
 
 :::callout
-**A note on timing:** Most solicitors acting on equity release transactions will ask whether you've discussed the decision with family. Some lenders, including Aviva and Legal & General, actively encourage family involvement as part of their process. If you complete without telling anyone, that's your legal right — but the post-completion conversation tends to be harder.
+**A note on timing:** Most solicitors acting on equity release transactions will ask whether you've discussed the decision with family. Some lenders, including Aviva and Legal & General, actively encourage family involvement as part of their process. If you complete without telling anyone, that's your legal right - but the post-completion conversation tends to be harder.
 :::
 
 ## Should family members come to the advice appointment?
@@ -127,9 +127,9 @@ Our full guide to [equity release and lifetime mortgages](/equity-release/) cove
 - q: Can my children stop me from taking out equity release?
   a: No. Provided you are over 55 and own a qualifying property, equity release is your decision. Adult children have no legal power to veto it. What they can do is raise concerns, ask questions, and provide information you may not have considered.
 - q: Should my children be at the equity release advice appointment?
-  a: It's worth asking your adviser whether a family member can sit in, or whether a separate session can be arranged. Not all advisers offer this as standard, but many will accommodate it. The formal advice appointment is yours alone — a family session is usually informal and explanatory.
+  a: It's worth asking your adviser whether a family member can sit in, or whether a separate session can be arranged. Not all advisers offer this as standard, but many will accommodate it. The formal advice appointment is yours alone - a family session is usually informal and explanatory.
 - q: What if my family disagrees with my decision?
-  a: Their concerns deserve a fair hearing, but the final decision is yours. If they raise specific financial worries — about the interest compounding, the impact on means-tested benefits, or the suitability of alternatives — those are worth putting to your adviser directly before you proceed.
+  a: Their concerns deserve a fair hearing, but the final decision is yours. If they raise specific financial worries - about the interest compounding, the impact on means-tested benefits, or the suitability of alternatives - those are worth putting to your adviser directly before you proceed.
 - q: Does equity release affect my children's inheritance tax position?
   a: Reducing your estate through equity release may reduce the inheritance tax liability on your estate, because the loan and rolled-up interest are deducted before IHT is calculated. Whether that matters in practice depends on your total estate value. A tax specialist or estate planner can model this for your specific situation.
 :::

@@ -16,7 +16,7 @@ const toneStyles: Record<DisclaimerTone, string> = {
 };
 
 /**
- * Primitive disclaimer box. Never render this directly from a page —
+ * Primitive disclaimer box. Never render this directly from a page -
  * always go through FCADisclaimer, MedicalDisclaimer, LegalDisclaimer,
  * or AffiliateDisclosure so the copy stays in lib/compliance.ts.
  */

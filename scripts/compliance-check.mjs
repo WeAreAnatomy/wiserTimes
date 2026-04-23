@@ -69,7 +69,7 @@ function check({ vertical, slug, file }) {
 
 function render(results) {
   const date = new Date().toISOString().slice(0, 10);
-  let md = `# Compliance report — ${date}\n\n`;
+  let md = `# Compliance report - ${date}\n\n`;
   const total = results.length;
   const clean = results.filter((r) => r.issues.length === 0).length;
   const hard = results.filter((r) => r.issues.some((i) => i.severity === 'hard')).length;

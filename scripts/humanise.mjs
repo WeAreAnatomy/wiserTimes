@@ -6,7 +6,7 @@
  *   node scripts/humanise.mjs --flagged    # rerun everything with violations
  *
  * Takes a drafted article, sends it through a second Claude call with the
- * humanise template, and rewrites the file in place. Always batched —
+ * humanise template, and rewrites the file in place. Always batched -
  * humanisation is never the bottleneck.
  */
 

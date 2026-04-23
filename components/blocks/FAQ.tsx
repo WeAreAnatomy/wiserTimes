@@ -8,7 +8,7 @@ export interface FAQProps {
 
 /**
  * Visible FAQ block. The paired <FAQSchema /> in components/seo emits the
- * JSON-LD — keep the two in sync via the same `items` prop at the page level.
+ * JSON-LD - keep the two in sync via the same `items` prop at the page level.
  */
 export default function FAQ({ items, title = 'Frequently asked questions' }: FAQProps) {
   if (!items || items.length === 0) return null;

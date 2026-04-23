@@ -1,7 +1,7 @@
 import { Search } from 'lucide-react';
 
 export interface SearchBarProps {
-  /** Pre-fills the input — used on the search results page. */
+  /** Pre-fills the input - used on the search results page. */
   defaultValue?: string;
   /** `compact` is the header treatment; `page` is the larger search-page hero. */
   variant?: 'compact' | 'page';
@@ -12,7 +12,7 @@ export interface SearchBarProps {
 
 /**
  * Site-wide search input. Submits a plain GET to `/search/?q=…` so it works
- * without JavaScript — the search page is server-rendered. Used in the header
+ * without JavaScript - the search page is server-rendered. Used in the header
  * and on the search page itself; do not duplicate this markup elsewhere.
  */
 export default function SearchBar({

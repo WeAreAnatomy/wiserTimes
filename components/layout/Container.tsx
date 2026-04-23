@@ -17,7 +17,7 @@ const widthClass: Record<ContainerWidth, string> = {
 
 /**
  * The ONLY horizontal-layout wrapper in the site. Every page body goes
- * through Container — do not write `<div className="max-w-... mx-auto px-...">`
+ * through Container - do not write `<div className="max-w-... mx-auto px-...">`
  * inline anywhere.
  */
 export default function Container({

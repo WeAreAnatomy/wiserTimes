@@ -67,7 +67,7 @@ Some lenders, including Aviva and Legal & General, offer plans with an **interes
 
 ## What is a home reversion plan?
 
-A home reversion plan works quite differently. You sell a percentage of your property — say, 40% — to a provider in exchange for a cash lump sum or regular payments. You retain the right to live in the property rent-free until you die or enter care. When the property is eventually sold, the provider takes their agreed percentage of whatever the sale price is.
+A home reversion plan works quite differently. You sell a percentage of your property - say, 40% - to a provider in exchange for a cash lump sum or regular payments. You retain the right to live in the property rent-free until you die or enter care. When the property is eventually sold, the provider takes their agreed percentage of whatever the sale price is.
 
 Because you are selling at a significant discount (providers typically pay 20-60% of the market value of the share they buy), home reversion is less popular than lifetime mortgages and less commonly offered. Providers such as Bridgewater Equity Release still offer them, but you will find the range is far narrower.
 
@@ -110,7 +110,7 @@ You have the right, under FCA rules, to receive a Key Facts Illustration (KFI) b
 
 With a standard residential mortgage, you make monthly capital and interest repayments until the debt is cleared. With a remortgage, you replace one mortgage deal with another, again with monthly repayments, and lenders assess affordability based on your income.
 
-Equity release lenders do not assess affordability in the same way. Because no monthly repayments are typically required, they assess the value of the property and your age, rather than your income. That is why it is accessible to people whose income alone wouldn't satisfy a high-street lender — but it also means the usual safeguards of income assessment don't apply.
+Equity release lenders do not assess affordability in the same way. Because no monthly repayments are typically required, they assess the value of the property and your age, rather than your income. That is why it is accessible to people whose income alone wouldn't satisfy a high-street lender - but it also means the usual safeguards of income assessment don't apply.
 
 A retirement interest-only mortgage (RIO) sits somewhere between the two. With a RIO, you pay monthly interest on the loan and the capital is repaid when the property is eventually sold. RIO products from providers like Nationwide or Hodge Bank require you to demonstrate you can afford the monthly interest payments. They are worth considering if you have a reliable income and want to prevent the balance from growing.
 

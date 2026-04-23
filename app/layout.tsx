@@ -12,7 +12,7 @@ import OrganizationSchema from '@/components/seo/OrganizationSchema';
 import './globals.css';
 
 // Explicit viewport so older mobile browsers never default to desktop width.
-// `maximumScale=5` lets users zoom — never lock this down (WCAG SC 1.4.4).
+// `maximumScale=5` lets users zoom - never lock this down (WCAG SC 1.4.4).
 export const viewport: Viewport = {
   width: 'device-width',
   initialScale: 1,
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     shortcut: '/favicon.svg',
   },
   title: {
-    default: `${siteConfig.name} — ${siteConfig.tagline}`,
+    default: `${siteConfig.name} - ${siteConfig.tagline}`,
     template: `%s | ${siteConfig.name}`,
   },
   description: siteConfig.description,

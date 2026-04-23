@@ -26,7 +26,7 @@ This list is enforced by `scripts/compliance-check.mjs` and by the in-line banne
 - now that we've covered
 
 ## Hard-banned characters
-- U+2014 em dash (—) — use comma, full stop, colon, semicolon, or parenthesis instead.
+- U+2014 em dash (-) - use comma, full stop, colon, semicolon, or parenthesis instead.
 
 ## Context-sensitive bans (financial content only)
 - we recommend

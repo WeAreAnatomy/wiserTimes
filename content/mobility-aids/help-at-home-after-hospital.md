@@ -2,7 +2,7 @@
 title: How to get help at home after leaving hospital
 description: >-
   A step-by-step guide to discharge planning, reablement services and your
-  rights around timing — so you or a family member can return home safely.
+  rights around timing - so you or a family member can return home safely.
 slug: help-at-home-after-hospital
 publishDate: 2025-07-10T00:00:00.000Z
 author: priya

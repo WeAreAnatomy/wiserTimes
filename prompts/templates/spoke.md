@@ -3,7 +3,7 @@
 Produce a focused spoke article of approximately 1,500-2,200 words.
 
 ## Structure guidance
-- Open with a direct answer in the first 100 words. The reader came from a specific search query — give them the answer, then expand.
+- Open with a direct answer in the first 100 words. The reader came from a specific search query - give them the answer, then expand.
 - 4-7 H2 sections. Use question-based headings where the reader's query is a question.
 - Use structured blocks when they add genuine value: `:::callout` for a practical tip or warning, `:::compare` if you're comparing products or options factually, `:::faq` for 3-6 follow-up questions at the end.
 - Link internally to the pillar page for this vertical at least once.

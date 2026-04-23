@@ -148,7 +148,7 @@ A word of caution: if an email arrives from someone you don't recognise, and it 
 
 ## Step 7: Keep your inbox tidy
 
-After a few weeks, inboxes can fill up fast. Newsletters, receipts, messages from family, appointment reminders — it all arrives in one place unless you do something about it.
+After a few weeks, inboxes can fill up fast. Newsletters, receipts, messages from family, appointment reminders - it all arrives in one place unless you do something about it.
 
 The simplest approach is to delete anything you no longer need. In Gmail, select a message by ticking the box beside it (or pressing and holding on a phone), then press the bin icon. In Outlook it's the same process.
 

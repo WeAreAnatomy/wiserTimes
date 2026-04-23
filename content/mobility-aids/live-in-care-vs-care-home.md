@@ -30,8 +30,8 @@ faqs:
     a: >-
       Yes, for many people. Staying in familiar surroundings can reduce
       disorientation, and one-to-one care allows a consistent routine. That
-      said, some dementia presentations — particularly those involving
-      significant night-time disturbance or high physical dependency — may
+      said, some dementia presentations - particularly those involving
+      significant night-time disturbance or high physical dependency - may
       eventually require the staffing levels a care home can provide.
   - q: Who arranges a care needs assessment?
     a: >-
@@ -46,7 +46,7 @@ faqs:
   - q: Does the Disabled Facilities Grant cover care home fees?
     a: >-
       No. The Disabled Facilities Grant funds physical adaptations to your home
-      — ramps, grab rails, wet rooms and similar. It is separate from care
+      - ramps, grab rails, wet rooms and similar. It is separate from care
       funding. Care home funding is assessed by the local authority through a
       financial means test.
 affiliates: []
@@ -145,11 +145,11 @@ There is no formula that produces the right answer. I'd suggest speaking to a so
 - q: Is live-in care cheaper than a care home?
   a: "It depends on your care needs and where you live. Live-in care typically costs £900 to £1,800 per week. Residential care home fees average around £800 to £1,000 per week, though nursing homes run higher. For couples, live-in care is often significantly cheaper because one carer can support two people."
 - q: Can live-in care work if someone has dementia?
-  a: "Yes, for many people. Staying in familiar surroundings can reduce disorientation, and one-to-one care allows a consistent routine. That said, some dementia presentations — particularly those involving significant night-time disturbance or high physical dependency — may eventually require the staffing levels a care home can provide."
+  a: "Yes, for many people. Staying in familiar surroundings can reduce disorientation, and one-to-one care allows a consistent routine. That said, some dementia presentations - particularly those involving significant night-time disturbance or high physical dependency - may eventually require the staffing levels a care home can provide."
 - q: Who arranges a care needs assessment?
   a: "Your local authority social services team. The assessment is free and is the right first step before committing to either option. You can request one by contacting your council directly or through the NHS website."
 - q: What happens if a live-in carer is ill or needs a break?
   a: "Reputable agencies maintain cover arrangements, sending a relief carer so there is no gap in support. It's worth asking any agency exactly how they handle this before signing a contract."
 - q: Does the Disabled Facilities Grant cover care home fees?
-  a: "No. The Disabled Facilities Grant funds physical adaptations to your home — ramps, grab rails, wet rooms and similar. It is separate from care funding. Care home funding is assessed by the local authority through a financial means test."
+  a: "No. The Disabled Facilities Grant funds physical adaptations to your home - ramps, grab rails, wet rooms and similar. It is separate from care funding. Care home funding is assessed by the local authority through a financial means test."
 :::

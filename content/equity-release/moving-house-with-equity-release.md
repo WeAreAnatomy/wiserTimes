@@ -1,7 +1,7 @@
 ---
 title: Can you move house if you have an equity release plan?
 description: >-
-  Yes, most lifetime mortgages can move with you — but the new property must
+  Yes, most lifetime mortgages can move with you - but the new property must
   meet your lender's criteria. Here's what to check before you agree a sale.
 vertical: equity release and later-life finance
 contentType: spoke
@@ -29,7 +29,7 @@ faqs:
       If the new property doesn't meet your lender's criteria, you'll need to
       repay the loan in full on completion. That usually triggers early
       repayment charges, though some lenders waive them in certain circumstances
-      — check your plan documents carefully.
+      - check your plan documents carefully.
   - q: Do I need a new equity release application if I move?
     a: >-
       Not usually a full new application, but your lender will reassess the new
@@ -99,7 +99,7 @@ There are broadly two types:
 
 **Gilt-based (or market value adjustment) ERCs** are harder to predict because they move with interest rates. If gilt yields have fallen since you took out your plan, the ERC can be significant. If they've risen, the charge may be minimal or even zero. More2Life and some older plans from other providers have used this structure. The problem is that you cannot know in advance what you'll owe.
 
-Equity Release Council standards do require that no ERC is charged in the event of death or entry into long-term care. Moving house, however, is a different matter — unless the new property simply cannot be accepted for reasons outside your control, in which case some lenders may waive the charge at their discretion. "May" is doing a lot of work in that sentence. Don't bank on it.
+Equity Release Council standards do require that no ERC is charged in the event of death or entry into long-term care. Moving house, however, is a different matter - unless the new property simply cannot be accepted for reasons outside your control, in which case some lenders may waive the charge at their discretion. "May" is doing a lot of work in that sentence. Don't bank on it.
 
 Always request a redemption statement in writing before exchanging contracts on your current home. That gives you the precise figure you'd owe, and it's valid for a specific period (usually 28 days). Your solicitor needs this figure.
 
@@ -109,7 +109,7 @@ Downsizing is one of the most common reasons people with lifetime mortgages want
 
 If the outstanding loan is higher than the value of the new property, portability isn't possible in full. Some lenders will allow a partial port, where you transfer what the new property can support and repay the remainder. Others require full repayment. Key Later Life Finance, which acts as a broker and adviser rather than a direct lender, has written a fair amount on this scenario, and it's worth speaking to an adviser who handles these cases regularly.
 
-A few lenders have introduced downsizing protection features. Under these, if you want to move to a property that doesn't meet the lending criteria, the ERC is waived, provided the plan has been in force for a minimum number of years (often five or more). Aviva's product range includes a version of this. It's worth checking whether your plan has this feature — it may not be the headline selling point, but it can save a meaningful sum.
+A few lenders have introduced downsizing protection features. Under these, if you want to move to a property that doesn't meet the lending criteria, the ERC is waived, provided the plan has been in force for a minimum number of years (often five or more). Aviva's product range includes a version of this. It's worth checking whether your plan has this feature - it may not be the headline selling point, but it can save a meaningful sum.
 
 ## What's the process when you move with a lifetime mortgage?
 
@@ -141,7 +141,7 @@ Moving house is stressful enough without a financial complication sitting undern
 - q: Can I move house if I have a lifetime mortgage?
   a: Most lifetime mortgages include a portability feature, meaning the loan can transfer to a new property if it meets the lender's criteria on value, construction type and condition. Your lender must agree to the transfer before you complete the purchase.
 - q: What happens if my new home doesn't qualify for equity release?
-  a: If the new property doesn't meet your lender's criteria, you'll need to repay the loan in full on completion. That usually triggers early repayment charges, though some lenders waive them in certain circumstances — check your plan documents carefully.
+  a: If the new property doesn't meet your lender's criteria, you'll need to repay the loan in full on completion. That usually triggers early repayment charges, though some lenders waive them in certain circumstances - check your plan documents carefully.
 - q: Do I need a new equity release application if I move?
   a: Not usually a full new application, but your lender will reassess the new property. They'll instruct their own valuation and review the construction type, tenure and condition. Expect the process to take several weeks.
 - q: Can I borrow more when I port my lifetime mortgage?

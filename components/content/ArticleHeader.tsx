@@ -13,7 +13,7 @@ export interface ArticleHeaderProps {
  *
  * Renders the inline (byline) AuthorCard. The FULL AuthorCard renders
  * once at the bottom of the page (E-E-A-T tail). Do NOT add a second
- * full card here — they are intentionally different widgets that share
+ * full card here - they are intentionally different widgets that share
  * one component via the `variant` prop.
  */
 export default function ArticleHeader({ article }: ArticleHeaderProps) {

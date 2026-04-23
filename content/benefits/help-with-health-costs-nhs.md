@@ -30,7 +30,7 @@ faqs:
     a: >-
       No. It only covers NHS dental charges. If your dentist has gone fully
       private, the HC2 certificate will not help you. You'd need to find an NHS
-      dentist — the NHS website has a 'find a dentist' tool that filters by
+      dentist - the NHS website has a 'find a dentist' tool that filters by
       those accepting NHS patients.
   - q: Can I get help with hospital travel if I drive myself?
     a: >-
@@ -155,7 +155,7 @@ For a broader view of benefits you might be entitled to, the [benefits section o
   a: You fill in an HC1 form, either on paper or online at nhsbsa.nhs.uk. The NHS Business Services Authority assesses your income and savings, then posts you an HC2 certificate if you qualify. The whole process usually takes around ten days.
 
 - q: Does the HC2 certificate cover private dental treatment?
-  a: No. It only covers NHS dental charges. If your dentist has gone fully private, the HC2 certificate will not help you. You'd need to find an NHS dentist — the NHS website has a 'find a dentist' tool that filters by those accepting NHS patients.
+  a: No. It only covers NHS dental charges. If your dentist has gone fully private, the HC2 certificate will not help you. You'd need to find an NHS dentist - the NHS website has a 'find a dentist' tool that filters by those accepting NHS patients.
 
 - q: Can I get help with hospital travel if I drive myself?
   a: Yes. The Hospital Travel Costs Scheme pays the cheapest reasonable fare for your journey, and if you drive, that generally means a mileage rate. Keep your appointment letters and petrol receipts, then claim at the hospital cashier's office on the day.

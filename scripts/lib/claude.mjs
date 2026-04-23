@@ -40,7 +40,7 @@ export function cachedSystem(systemText) {
 /**
  * Submit an array of prompts as a batch. Returns the batch id.
  * Each request in `requests` is { custom_id, model, system, user, max_tokens }.
- * Batch pricing is 50% of standard, which stacks with prompt caching — brief §5.3.
+ * Batch pricing is 50% of standard, which stacks with prompt caching - brief §5.3.
  */
 export async function submitBatch(requests) {
   const batch = await client.messages.batches.create({
@@ -77,7 +77,7 @@ export async function fetchBatchResults(batchId) {
 }
 
 /**
- * Convenience: for iterative / debugging use only. Not cheap — always use
+ * Convenience: for iterative / debugging use only. Not cheap - always use
  * submitBatch + pollBatch for production pipelines.
  */
 export async function oneShot({ model, system, user, max_tokens = 3000 }) {

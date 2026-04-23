@@ -1,5 +1,5 @@
 // Composes the cached system prompt from the prompt library.
-// Order matters — the stable portion must come first so the cache hits.
+// Order matters - the stable portion must come first so the cache hits.
 
 import fs from 'node:fs';
 import path from 'node:path';

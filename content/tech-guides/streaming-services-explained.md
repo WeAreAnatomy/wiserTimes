@@ -59,7 +59,7 @@ There are now well over a dozen streaming services available in the UK. Some are
 
 ## What do I actually need to start streaming?
 
-You need four things: a screen (a TV, tablet, laptop or smartphone), an internet connection, an account with the service you want to use, and — for paid services — a debit or credit card.
+You need four things: a screen (a TV, tablet, laptop or smartphone), an internet connection, an account with the service you want to use, and - for paid services - a debit or credit card.
 
 A broadband speed of at least 10 Mbps is enough for most streaming in standard quality. If you're watching in HD or have several people using the internet simultaneously, 25 Mbps or faster is more comfortable. You can check your current speed for free at speedtest.net.
 
@@ -67,7 +67,7 @@ A tablet such as an Amazon Fire HD (from around £74.99) is often the easiest st
 
 ## BBC iPlayer: the free one you almost certainly already know
 
-BBC iPlayer is the BBC's own streaming service and it costs nothing beyond your TV licence. You can watch almost everything the BBC has broadcast over the past year, including EastEnders, Countryfile, Antiques Roadshow and all the major BBC dramas. There's also a growing collection of boxsets — full series of older programmes such as Peaky Blinders and Fleabag — available to watch at any time.
+BBC iPlayer is the BBC's own streaming service and it costs nothing beyond your TV licence. You can watch almost everything the BBC has broadcast over the past year, including EastEnders, Countryfile, Antiques Roadshow and all the major BBC dramas. There's also a growing collection of boxsets - full series of older programmes such as Peaky Blinders and Fleabag - available to watch at any time.
 
 To use it, you create a free BBC account at bbc.co.uk/iplayer using your email address. The whole process takes about three minutes. You confirm that you hold a valid TV licence and that's essentially it.
 
@@ -79,7 +79,7 @@ Worth knowing: the BBC has gradually made iPlayer more than just catch-up. It no
 
 ## ITVX and Channel 4: free catch-up with a lot more besides
 
-ITVX (the rebrand of ITV Hub, in case the name sounds unfamiliar) and Channel 4's streaming service are both free to use, funded by adverts. Both carry recent episodes of their broadcast programmes — so Coronation Street, Emmerdale, Gogglebox, The Great British Bake Off — plus substantial back-catalogues.
+ITVX (the rebrand of ITV Hub, in case the name sounds unfamiliar) and Channel 4's streaming service are both free to use, funded by adverts. Both carry recent episodes of their broadcast programmes - so Coronation Street, Emmerdale, Gogglebox, The Great British Bake Off - plus substantial back-catalogues.
 
 ITVX has a paid tier called ITVX Premium at £3.99 per month, which removes adverts and adds a selection of extra content. Channel 4 dropped its paid tier in 2024 and is now fully free. Neither service requires a TV licence to use, which matters to anyone who has decided not to renew theirs.
 
@@ -87,7 +87,7 @@ Signing up to either follows the same basic pattern: go to the website or open t
 
 ## Netflix: the big paid service, and what it actually contains
 
-Netflix is the service people tend to mean when they say "streaming" in a general sense. It's a subscription service with no free tier — prices start at £4.99 per month for its Standard with Ads plan, which includes adverts during programmes. The ad-free Standard plan is £7.99 per month; the Premium plan, which allows four streams at once and includes downloads for offline viewing, is £17.99 per month.
+Netflix is the service people tend to mean when they say "streaming" in a general sense. It's a subscription service with no free tier - prices start at £4.99 per month for its Standard with Ads plan, which includes adverts during programmes. The ad-free Standard plan is £7.99 per month; the Premium plan, which allows four streams at once and includes downloads for offline viewing, is £17.99 per month.
 
 For that, you get access to Netflix's entire library: a mix of American, British and international drama and comedy, documentaries, films and some excellent nature programming. Original productions such as The Crown (filmed largely in the UK), Squid Game and various David Attenborough-narrated nature series have attracted large audiences. Netflix also holds licences for some classic BBC and ITV series.
 
@@ -97,7 +97,7 @@ One practical note: Netflix has tightened its rules on password sharing. Since 2
 
 ## Amazon Prime Video: worth checking if you already have Prime
 
-If you pay for Amazon Prime (currently £8.99 per month or £95 per year), Prime Video is included at no extra cost. It carries a solid selection of original series — The Grand Tour, Reacher, Mr and Mrs Smith — alongside a wide range of films and some classic British television.
+If you pay for Amazon Prime (currently £8.99 per month or £95 per year), Prime Video is included at no extra cost. It carries a solid selection of original series - The Grand Tour, Reacher, Mr and Mrs Smith - alongside a wide range of films and some classic British television.
 
 What catches some people out is that not everything on Prime Video is included in the subscription. Newer cinema releases and some specialist channels are available as add-ons at an extra monthly cost. These are clearly labelled, but it's worth checking before you expect something to be free.
 
@@ -122,14 +122,14 @@ Pluto TV is genuinely free and requires no account. You open it, pick a channel,
 Freely is a newer platform, launched by the BBC, ITV, Channel 4 and Channel 5 jointly, designed for people who want to receive UK broadcast television over the internet rather than via an aerial. It's available on a growing range of smart TVs. If your aerial signal is poor or you're in a flat where an aerial isn't practical, it's worth looking into at freely.tv.
 
 :::callout
-**Thinking about the broader picture?** This article covers the basics of individual services. Our full [technology guides for over-55s](/tech-guides/) cover smart TVs, tablets, video calling and more — all written in the same plain English.
+**Thinking about the broader picture?** This article covers the basics of individual services. Our full [technology guides for over-55s](/tech-guides/) cover smart TVs, tablets, video calling and more - all written in the same plain English.
 :::
 
 ## How do I actually sign up to a streaming service?
 
 The process is essentially the same across all paid and free services:
 
-1. Go to the service's website on a computer, tablet or phone — or find and open its app on a smart TV or tablet.
+1. Go to the service's website on a computer, tablet or phone - or find and open its app on a smart TV or tablet.
 2. Select "Sign up" or "Create account."
 3. Enter your email address and choose a password. Write them down somewhere safe.
 4. For paid services, enter your debit or credit card details and choose a subscription tier.

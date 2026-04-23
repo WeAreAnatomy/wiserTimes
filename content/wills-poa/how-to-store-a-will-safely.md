@@ -25,7 +25,7 @@ faqs:
     a: >-
       No. The National Will Register (run by Certainty) is a private service.
       There is no official government register of wills in England and Wales.
-      Registering with Certainty does not give a will any legal force — it
+      Registering with Certainty does not give a will any legal force - it
       simply records where the document is stored.
   - q: Can I store my will in a bank safe deposit box?
     a: >-
@@ -42,7 +42,7 @@ faqs:
   - q: What happens if a will is lost or destroyed?
     a: >-
       If the original signed will cannot be found, the estate may be treated as
-      if the person died intestate — without a will — regardless of whether
+      if the person died intestate - without a will - regardless of whether
       copies exist. Courts can sometimes accept a copy, but it requires an
       application and is not guaranteed. This is why safe, known storage
       matters.

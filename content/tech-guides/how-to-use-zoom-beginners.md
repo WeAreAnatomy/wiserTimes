@@ -2,7 +2,7 @@
 title: 'How to use Zoom: a step-by-step guide for beginners'
 description: >-
   New to video calling? This plain-English guide walks you through downloading
-  Zoom, joining a meeting, and getting your camera and microphone working — on
+  Zoom, joining a meeting, and getting your camera and microphone working - on
   any device.
 slug: how-to-use-zoom-beginners
 publishDate: 2025-01-28T00:00:00.000Z
@@ -91,7 +91,7 @@ The numbers in the middle are the Meeting ID.
 
 **On a phone or tablet:** simply tap the link in the text message or email. Your device will ask whether to open it in Zoom or in your browser. Choose Zoom.
 
-**On a computer:** click the link in your email. Your browser will open briefly, then a small window will appear asking "Open Zoom Meetings?" — click that. If nothing happens after a few seconds, there's usually a small link on the page that says "download & run Zoom"; click that instead.
+**On a computer:** click the link in your email. Your browser will open briefly, then a small window will appear asking "Open Zoom Meetings?" - click that. If nothing happens after a few seconds, there's usually a small link on the page that says "download & run Zoom"; click that instead.
 
 You may be asked to enter a Meeting ID and passcode manually if the link doesn't work. Both are included in the invitation message.
 

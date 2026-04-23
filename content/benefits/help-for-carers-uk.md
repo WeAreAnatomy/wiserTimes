@@ -42,7 +42,7 @@ faqs:
       support?
     a: >-
       Yes. Distance doesn't disqualify you. If you're providing regular,
-      substantial care — broadly understood as 35 or more hours a week — you
+      substantial care - broadly understood as 35 or more hours a week - you
       have the same entitlements to a Carer's Assessment and Carer's Allowance
       as someone caring in the same household.
   - q: Where can I find a local carer support group?
@@ -50,7 +50,7 @@ faqs:
       Carers UK runs a directory at carersuk.org, and most councils fund a local
       carers centre or voluntary organisation. Age UK also connects carers to
       local services. A quick call to your GP surgery is often the fastest route
-      — many practices have a social prescriber who knows exactly what's
+      - many practices have a social prescriber who knows exactly what's
       available nearby.
 affiliates: []
 ---
@@ -166,7 +166,7 @@ faqs:
   - q: What counts as respite care?
     a: Respite is any arrangement that gives you a break from caring. That might be a few hours a week with a paid carer at home, a short stay in a care home for the person you support, or a sitting service. Councils and charities both provide it, sometimes free of charge.
   - q: I'm caring for someone but I don't live with them. Am I still entitled to support?
-    a: Yes. Distance doesn't disqualify you. If you're providing regular, substantial care — broadly understood as 35 or more hours a week — you have the same entitlements to a Carer's Assessment and Carer's Allowance as someone caring in the same household.
+    a: Yes. Distance doesn't disqualify you. If you're providing regular, substantial care - broadly understood as 35 or more hours a week - you have the same entitlements to a Carer's Assessment and Carer's Allowance as someone caring in the same household.
   - q: Where can I find a local carer support group?
-    a: Carers UK runs a directory at carersuk.org, and most councils fund a local carers centre or voluntary organisation. Age UK also connects carers to local services. A quick call to your GP surgery is often the fastest route — many practices have a social prescriber who knows exactly what's available nearby.
+    a: Carers UK runs a directory at carersuk.org, and most councils fund a local carers centre or voluntary organisation. Age UK also connects carers to local services. A quick call to your GP surgery is often the fastest route - many practices have a social prescriber who knows exactly what's available nearby.
 :::

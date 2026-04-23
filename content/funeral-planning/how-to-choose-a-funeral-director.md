@@ -59,13 +59,13 @@ affiliates: []
 
 You don't need to accept the first funeral director you find. You have the right to shop around, ask questions, and walk away if something doesn't feel right. This guide covers what to check before you instruct anyone, what a legitimate price list should contain, and what membership of NAFD or SAIF actually means in practice.
 
-Most people choose in a hurry, under stress, and with no prior experience. That's entirely understandable. But a little preparation — even a single conversation before a death occurs — can make an enormous difference to both the outcome and the cost.
+Most people choose in a hurry, under stress, and with no prior experience. That's entirely understandable. But a little preparation - even a single conversation before a death occurs - can make an enormous difference to both the outcome and the cost.
 
 ## Why the lack of regulation matters
 
 Funeral directing is, somewhat remarkably, an unregulated profession in the UK. There is no licence required. No mandatory training. No government body checking that premises or practices meet minimum standards. The Scottish Government has moved to change this, with licensing expected to come into force in Scotland in the next few years, but in England and Wales the sector remains largely self-regulated.
 
-What this means practically is that the signals you'd normally take for granted — that a business is regulated and inspected — don't automatically apply here. A firm that joined NAFD last month is in better shape than one with no trade body at all, but it's still worth doing your own checks.
+What this means practically is that the signals you'd normally take for granted - that a business is regulated and inspected - don't automatically apply here. A firm that joined NAFD last month is in better shape than one with no trade body at all, but it's still worth doing your own checks.
 
 Don't let this alarm you. The vast majority of UK funeral directors operate professionally and with genuine care. The point is simply that you can't assume quality; you have to look for it.
 
@@ -83,7 +83,7 @@ One practical check: both NAFD and SAIF let you search for members on their webs
 
 ## The standardised price list: your baseline
 
-Since 16 September 2021, the Competition and Markets Authority has required funeral directors in Great Britain to publish a standardised price list — in their premises and on their website if they have one. This came out of the CMA's market study into funerals, which found that many bereaved people were paying more than necessary because pricing was opaque.
+Since 16 September 2021, the Competition and Markets Authority has required funeral directors in Great Britain to publish a standardised price list - in their premises and on their website if they have one. This came out of the CMA's market study into funerals, which found that many bereaved people were paying more than necessary because pricing was opaque.
 
 The standardised price list must include a defined "attended funeral" (with a hearse, a coffin and a simple service), a "direct cremation" option, and a full breakdown of individual items and disbursements. Disbursements are the third-party costs passed on to you: crematorium fees, the doctor's fee for a medical certificate, the minister's fee if applicable.
 
@@ -139,7 +139,7 @@ Pre-arranged funerals, sometimes called pre-paid funeral plans, are a different 
 
 If you're considering a pre-paid plan rather than simply making informal wishes known, our [funeral planning pillar guide](/funeral-planning/) covers the regulated plan market in more detail, including what happens if a provider goes out of business.
 
-For advance arrangement without a financial product involved — writing down your wishes, discussing them with family, keeping relevant documents in one place — Age UK has useful free guidance on this at ageuk.org.uk.
+For advance arrangement without a financial product involved - writing down your wishes, discussing them with family, keeping relevant documents in one place - Age UK has useful free guidance on this at ageuk.org.uk.
 
 ## A note on what "simple" funerals include
 

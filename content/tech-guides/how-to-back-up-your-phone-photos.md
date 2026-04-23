@@ -1,8 +1,8 @@
 ---
 title: How to back up photos and contacts on your phone
 description: >-
-  A plain-English guide to making sure your photos and contacts are safe —
-  whether you use an iPhone or an Android phone — so a lost or broken phone
+  A plain-English guide to making sure your photos and contacts are safe -
+  whether you use an iPhone or an Android phone - so a lost or broken phone
   doesn't mean losing everything.
 slug: how-to-back-up-your-phone-photos
 publishDate: 2025-01-30T00:00:00.000Z

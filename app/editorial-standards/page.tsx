@@ -49,7 +49,7 @@ export default function EditorialPage() {
           <li>We do not give financial advice. Our finance guides are information only.</li>
           <li>We do not give medical advice. Our mobility guides are for general guidance.</li>
           <li>We do not give legal advice. Our wills and LPA guides point to the official processes.</li>
-          <li>We do not rank products by &ldquo;suitability&rdquo; — the right choice depends on your circumstances.</li>
+          <li>We do not rank products by &ldquo;suitability&rdquo; - the right choice depends on your circumstances.</li>
         </ul>
 
         <h2>Editorial team</h2>

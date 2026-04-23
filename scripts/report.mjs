@@ -5,7 +5,7 @@
  *
  *   node scripts/report.mjs
  *
- * Designed to be run by cron or a GitHub Action. No dashboard — just this
+ * Designed to be run by cron or a GitHub Action. No dashboard - just this
  * script and /reports/weekly-YYYY-MM-DD.md committed to the repo.
  *
  * API clients are intentionally left as stubs; fill them in once the
@@ -51,7 +51,7 @@ async function main() {
 
   const date = new Date().toISOString().slice(0, 10);
   const md = [
-    `# Weekly report — ${date}`,
+    `# Weekly report - ${date}`,
     '',
     '## Traffic',
     `- Sessions: ${ga.sessions.toLocaleString()}`,
@@ -71,7 +71,7 @@ async function main() {
     '',
     '## Flags',
     sc.lowCtrPages.length
-      ? `- ${sc.lowCtrPages.length} pages with high impressions and low CTR — added to optimisation queue.`
+      ? `- ${sc.lowCtrPages.length} pages with high impressions and low CTR - added to optimisation queue.`
       : '- No low-CTR flags this week.',
     '',
   ].join('\n');

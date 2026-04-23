@@ -13,7 +13,7 @@ export interface TopicIllustrationProps {
 
 /**
  * Editorial SVG illustrations used as topic imagery across the site.
- * One component, many topics — add a new SVG here rather than creating
+ * One component, many topics - add a new SVG here rather than creating
  * a sibling component (see CLAUDE.md "compose, don't create").
  *
  * Visual language: warm, geometric, dignified. Each topic uses the

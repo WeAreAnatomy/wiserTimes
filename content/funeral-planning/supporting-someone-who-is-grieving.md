@@ -2,7 +2,7 @@
 title: How to support someone who is grieving
 description: >-
   Practical guidance on what to say, what to do and how to keep showing up for
-  someone who is grieving — including when to signpost professional support.
+  someone who is grieving - including when to signpost professional support.
 vertical: funeral-planning
 contentType: spoke
 intent: informational
@@ -20,8 +20,8 @@ keywords:
 faqs:
   - q: What should I say to someone who has just been bereaved?
     a: >-
-      There is no perfect thing to say. Something simple and honest — "I'm so
-      sorry, I'm thinking of you" — is far better than silence. Avoid phrases
+      There is no perfect thing to say. Something simple and honest - "I'm so
+      sorry, I'm thinking of you" - is far better than silence. Avoid phrases
       like "everything happens for a reason" or "they're in a better place",
       which can feel dismissive. Acknowledging the loss directly is almost
       always the right instinct.
@@ -38,7 +38,7 @@ faqs:
       from others, or expressing hopeless thoughts several months after a
       bereavement, it is worth gently mentioning Cruse Bereavement Support (0808
       808 1677) or suggesting they speak to their GP. You are not diagnosing
-      anything — you are opening a door.
+      anything - you are opening a door.
   - q: Is it normal to feel unsure what to do when someone is bereaved?
     a: >-
       Completely normal, and most people feel exactly this way. The fear of
@@ -54,7 +54,7 @@ faqs:
 ---
 # How to support someone who is grieving
 
-Most of us, at some point, find ourselves on the phone to a friend who has just lost someone, or standing on a doorstep not quite knowing what to say. The impulse to help is strong. The fear of getting it wrong is stronger. The result, too often, is distance — texts that go unsent, visits that get postponed — just when the bereaved person most needs to know they haven't been forgotten.
+Most of us, at some point, find ourselves on the phone to a friend who has just lost someone, or standing on a doorstep not quite knowing what to say. The impulse to help is strong. The fear of getting it wrong is stronger. The result, too often, is distance - texts that go unsent, visits that get postponed - just when the bereaved person most needs to know they haven't been forgotten.
 
 This guide is practical. It covers what to say, what to avoid, what kind of help actually lands, and how to keep showing up in the weeks and months after a death, when the rest of the world has moved on.
 
@@ -95,9 +95,9 @@ If the bereaved person is handling the funeral arrangements, our [funeral planni
 
 Here is where most of us slip up.
 
-In the first week after a death, attention floods in. By week four, the casseroles have stopped, the condolence cards have been put away, and friends have returned to their own lives. But grief does not follow that schedule. For many people, the weeks after the funeral — once the activity stops — are the loneliest of all.
+In the first week after a death, attention floods in. By week four, the casseroles have stopped, the condolence cards have been put away, and friends have returned to their own lives. But grief does not follow that schedule. For many people, the weeks after the funeral - once the activity stops - are the loneliest of all.
 
-Check in again at one month. Then again at three. A text saying "I've been thinking about you — no need to reply" takes thirty seconds and can feel like a lifeline to someone sitting alone with their thoughts.
+Check in again at one month. Then again at three. A text saying "I've been thinking about you - no need to reply" takes thirty seconds and can feel like a lifeline to someone sitting alone with their thoughts.
 
 Anniversaries are significant. The first birthday after a death, the first Christmas, the first time the clocks change and you notice you've been grieving for a full year. A message on those days, acknowledging that you remember, is one of the most thoughtful things you can do.
 
@@ -117,7 +117,7 @@ And pressing for gratitude or progress. "You're so strong" or "You seem to be do
 
 Grief is not a medical condition, and most bereaved people do not need clinical intervention. But some do.
 
-If someone you care about is struggling to function several months on — not eating, not leaving the house, expressing feelings of hopelessness or of not wanting to be here — it is worth gently raising the possibility of speaking to their GP or contacting a specialist organisation.
+If someone you care about is struggling to function several months on - not eating, not leaving the house, expressing feelings of hopelessness or of not wanting to be here - it is worth gently raising the possibility of speaking to their GP or contacting a specialist organisation.
 
 :::callout
 **Cruse Bereavement Support** is the leading UK charity for people affected by grief. Their helpline is free: **0808 808 1677** (Monday to Friday, 9.30am to 5pm, with some evening availability). They also have an online chat service and a directory of local services at [cruse.org.uk](https://www.cruse.org.uk).

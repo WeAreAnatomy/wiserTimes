@@ -23,7 +23,7 @@ faqs:
       Not automatically. Most email providers, including Gmail and Outlook,
       treat accounts as personal and non-transferable. Without login credentials
       or a formal legacy contact arrangement, your family will likely need to
-      submit a death certificate and formal request — and even then, access is
+      submit a death certificate and formal request - and even then, access is
       not guaranteed.
   - q: What happens to my Netflix or Spotify subscription when I die?
     a: >-
@@ -34,8 +34,8 @@ faqs:
   - q: Is a list of passwords in my will a good idea?
     a: >-
       No. Wills become public documents on probate. A separate, secure password
-      document kept with your will — or a dedicated password manager with an
-      emergency access feature — is safer.
+      document kept with your will - or a dedicated password manager with an
+      emergency access feature - is safer.
   - q: Can I leave my iTunes or Kindle library to someone?
     a: >-
       In practice, no. Digital purchases on Apple and Amazon are licences tied
@@ -47,11 +47,11 @@ faqs:
       contact can memoralise it, or a verified family member can request
       deletion. Facebook will not act without formal notification.
 ---
-Your online life is bigger than you probably realise. Email accounts going back fifteen years. A Facebook profile with hundreds of photos. Subscriptions quietly billing a bank account. A Kindle library of 300 books. None of it disappears when you die — and very little of it is straightforward for the people you leave behind. Digital legacy planning is the practical work of deciding what happens to all of it, and making sure someone can actually carry out your wishes.
+Your online life is bigger than you probably realise. Email accounts going back fifteen years. A Facebook profile with hundreds of photos. Subscriptions quietly billing a bank account. A Kindle library of 300 books. None of it disappears when you die - and very little of it is straightforward for the people you leave behind. Digital legacy planning is the practical work of deciding what happens to all of it, and making sure someone can actually carry out your wishes.
 
 ## What does "digital estate" actually mean?
 
-The phrase sounds technical, but it covers everything you access online with a username and password. That includes social media accounts (Facebook, Instagram, X, LinkedIn), email (Gmail, Outlook, Apple Mail), cloud storage (Google Drive, iCloud, Dropbox), streaming and subscription services, online banking and investment accounts, cryptocurrency wallets, and any digital purchases — ebooks, music, apps.
+The phrase sounds technical, but it covers everything you access online with a username and password. That includes social media accounts (Facebook, Instagram, X, LinkedIn), email (Gmail, Outlook, Apple Mail), cloud storage (Google Drive, iCloud, Dropbox), streaming and subscription services, online banking and investment accounts, cryptocurrency wallets, and any digital purchases - ebooks, music, apps.
 
 Some of these have real financial value. Others have sentimental value that your family may care about enormously. A few carry ongoing liabilities: a subscription that keeps billing the estate, or a domain name that auto-renews at cost.
 
@@ -61,7 +61,7 @@ The legal position in the UK is not as settled as most people assume. There is n
 
 Each platform handles this differently, and it's worth knowing the specifics.
 
-**Facebook** offers two options: memorialisation or permanent deletion. You can nominate a legacy contact in your account settings right now — this person can pin a tribute post, respond to new friend requests and update your profile picture, but cannot read your messages or remove existing content. Alternatively, you can request in advance that your account be deleted entirely after your death. Without either instruction, Facebook will memorialise the account if notified of a death, or leave it dormant indefinitely.
+**Facebook** offers two options: memorialisation or permanent deletion. You can nominate a legacy contact in your account settings right now - this person can pin a tribute post, respond to new friend requests and update your profile picture, but cannot read your messages or remove existing content. Alternatively, you can request in advance that your account be deleted entirely after your death. Without either instruction, Facebook will memorialise the account if notified of a death, or leave it dormant indefinitely.
 
 **Instagram** (owned by Meta) follows similar rules but does not currently offer a legacy contact. Family members can request memorialisation or removal by submitting proof of death.
 
@@ -75,7 +75,7 @@ The gap between what people want and what platforms allow is real. If those year
 
 This is where families run into the most difficulty. Email providers treat accounts as strictly personal.
 
-Google offers an **Inactive Account Manager** feature — genuinely useful and under-used. You can specify what happens to your Google account (Gmail, Drive, Photos, YouTube) if it becomes inactive for a period you define. You can grant a trusted person access to download your data, or instruct Google to delete everything. It takes about ten minutes to set up at myaccount.google.com.
+Google offers an **Inactive Account Manager** feature - genuinely useful and under-used. You can specify what happens to your Google account (Gmail, Drive, Photos, YouTube) if it becomes inactive for a period you define. You can grant a trusted person access to download your data, or instruct Google to delete everything. It takes about ten minutes to set up at myaccount.google.com.
 
 Apple has an equivalent called **Digital Legacy**, introduced in 2021. You can add legacy contacts in your Apple ID settings; they receive a special access key which, combined with a death certificate, allows them to access your iCloud data for a limited period.
 
@@ -85,7 +85,7 @@ For any of these, your family will need at minimum a death certificate. In pract
 
 ## What about subscriptions and paid accounts?
 
-Streaming services (Netflix, Spotify, Amazon Prime, Apple TV+), software subscriptions, gym apps, cloud storage — none of these are assets that pass under your will. They are personal service contracts that terminate on death, even if nobody cancels them promptly.
+Streaming services (Netflix, Spotify, Amazon Prime, Apple TV+), software subscriptions, gym apps, cloud storage - none of these are assets that pass under your will. They are personal service contracts that terminate on death, even if nobody cancels them promptly.
 
 The practical problem is that direct debits keep running. An executor dealing with probate may not immediately know which subscriptions exist or which bank account they come from. Uncancelled subscriptions can drain an estate for months.
 
@@ -97,13 +97,13 @@ Cryptocurrency is a different matter entirely. If you hold Bitcoin, Ethereum or 
 
 The instinct is to write passwords in a notebook or add them to a will. Both have problems.
 
-A notebook can be lost, stolen or simply overlooked. More seriously, a will becomes a public document once it goes through probate — anyone can request a copy from HM Courts and Tribunals Service for a small fee. Putting account passwords in your will is roughly equivalent to publishing them.
+A notebook can be lost, stolen or simply overlooked. More seriously, a will becomes a public document once it goes through probate - anyone can request a copy from HM Courts and Tribunals Service for a small fee. Putting account passwords in your will is roughly equivalent to publishing them.
 
 A password manager with an emergency access feature is probably the most practical solution for most people. **1Password** and **Bitwarden** both offer this: you nominate a trusted person, they request access, and after a waiting period you define (giving you time to refuse if you are still alive), they gain entry to your stored credentials. Neither requires any technical skill to set up.
 
 The alternative is a sealed envelope kept with your will at your solicitor's office, updated whenever passwords change. Less elegant, but it works.
 
-What you want to avoid is leaving your family with nothing. Locked accounts, inaccessible photos, unrecoverable files — these are the real costs of doing nothing.
+What you want to avoid is leaving your family with nothing. Locked accounts, inaccessible photos, unrecoverable files - these are the real costs of doing nothing.
 
 ## Do you need to update your will to cover digital assets?
 
@@ -130,13 +130,13 @@ None of this is morbid. It is the same practical thinking that goes into writing
 
 :::faq
 - q: Can my family access my email account after I die?
-  a: Not automatically. Most email providers, including Gmail and Outlook, treat accounts as personal and non-transferable. Without login credentials or a formal legacy contact arrangement, your family will likely need to submit a death certificate and formal request — and even then, access is not guaranteed.
+  a: Not automatically. Most email providers, including Gmail and Outlook, treat accounts as personal and non-transferable. Without login credentials or a formal legacy contact arrangement, your family will likely need to submit a death certificate and formal request - and even then, access is not guaranteed.
 
 - q: What happens to my Netflix or Spotify subscription when I die?
   a: The subscription continues billing until someone cancels it. These accounts cannot legally be inherited; they are licences, not assets. Your executor should cancel them promptly to avoid wasted payments from the estate.
 
 - q: Is a list of passwords in my will a good idea?
-  a: No. Wills become public documents on probate. A separate, secure password document kept with your will — or a dedicated password manager with an emergency access feature — is safer.
+  a: No. Wills become public documents on probate. A separate, secure password document kept with your will - or a dedicated password manager with an emergency access feature - is safer.
 
 - q: Can I leave my iTunes or Kindle library to someone?
   a: In practice, no. Digital purchases on Apple and Amazon are licences tied to your account, not property you own outright. They cannot be transferred or inherited under current terms of service.

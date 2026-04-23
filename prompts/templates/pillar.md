@@ -33,4 +33,4 @@ faqs:
 - Do not include a disclaimer block in the article body. The template injects the correct one automatically.
 - Do not use em dashes. Not even once.
 - Do not default to lists of three.
-- Do not say "comprehensive", "seamless", "leverage", "navigate" etc — see base-persona.md for the full ban.
+- Do not say "comprehensive", "seamless", "leverage", "navigate" etc - see base-persona.md for the full ban.

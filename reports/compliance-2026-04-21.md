@@ -1,4 +1,4 @@
-# Compliance report — 2026-04-21
+# Compliance report - 2026-04-21
 
 44 article(s) scanned. 8 clean, 9 with hard violations.
 

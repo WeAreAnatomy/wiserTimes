@@ -76,7 +76,7 @@ function parseProsConsBody(body: string): { pros: string[]; cons: string[] } {
  * Accepts FOUR formats so authors aren't punished for writing FAQs the
  * way humans actually write them. SEO-critical: empty FAQ blocks used to
  * silently disappear from the page while the FAQSchema still emitted
- * them — Google penalises that mismatch.
+ * them - Google penalises that mismatch.
  *
  *   1. Plain q:/a: lines
  *        q: How long does it take?
@@ -105,7 +105,7 @@ export function parseFAQBody(body: string): FAQItem[] {
     current = null;
   };
 
-  // Strip surrounding "faqs:" (or similar) wrapper line — common in
+  // Strip surrounding "faqs:" (or similar) wrapper line - common in
   // LLM outputs that mirror the frontmatter shape.
   const lines = body
     .split('\n')
@@ -173,7 +173,7 @@ export function parseFAQBody(body: string): FAQItem[] {
 /**
  * Pulls every :::faq block's parsed items out of a markdown body.
  * Used by the page so FAQSchema (JSON-LD) and the visible FAQ stay in
- * sync — Google requires that schema FAQs match what the user sees.
+ * sync - Google requires that schema FAQs match what the user sees.
  */
 export function extractInlineFAQs(source: string): FAQItem[] {
   const { shortcodes } = extractShortcodes(sanitiseBody(source));

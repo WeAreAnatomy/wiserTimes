@@ -60,7 +60,7 @@ affiliates: []
 
 For a straightforward estate with a valid will, no disputes and a modest asset list, probate in England and Wales typically takes between nine and twelve months from the date of death to final distribution. That figure often surprises people. Most of that time is not spent waiting at the probate registry; it is spent gathering valuations, settling tax, notifying institutions and waiting for third parties to respond.
 
-Complex estates — those involving property abroad, business assets, disputed wills or Inheritance Tax complications — can run to two years or considerably longer.
+Complex estates - those involving property abroad, business assets, disputed wills or Inheritance Tax complications - can run to two years or considerably longer.
 
 ---
 

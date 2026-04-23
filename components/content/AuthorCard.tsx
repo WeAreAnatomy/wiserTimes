@@ -7,7 +7,7 @@ export interface AuthorCardProps {
 
 /**
  * Author attribution for E-E-A-T signals (brief §3.2). Resolves the slug
- * against lib/authors.ts — do not pass author name strings directly.
+ * against lib/authors.ts - do not pass author name strings directly.
  */
 export default function AuthorCard({ authorSlug, variant = 'full' }: AuthorCardProps) {
   const author = authors[authorSlug] ?? authors.editorial;
@@ -15,7 +15,7 @@ export default function AuthorCard({ authorSlug, variant = 'full' }: AuthorCardP
   if (variant === 'inline') {
     return (
       <p className="text-base text-brand-muted">
-        By <span className="font-semibold text-brand-ink">{author.name}</span> —{' '}
+        By <span className="font-semibold text-brand-ink">{author.name}</span> -{' '}
         {author.credentials}
       </p>
     );

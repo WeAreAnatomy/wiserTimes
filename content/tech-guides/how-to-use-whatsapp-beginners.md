@@ -3,7 +3,7 @@ title: 'How to use WhatsApp: a step-by-step guide for beginners'
 slug: how-to-use-whatsapp-beginners
 description: >-
   New to WhatsApp? This step-by-step guide walks you through setting up the app,
-  sending your first message, making calls and sharing photos — at your own
+  sending your first message, making calls and sharing photos - at your own
   pace.
 author: editorial
 howTo:
@@ -70,7 +70,7 @@ The download takes a minute or two on a decent Wi-Fi connection.
 
 ## Step 2: Verify your phone number
 
-Open the app once it has installed. You'll be asked to agree to WhatsApp's terms of service — tap "Agree and Continue" to proceed.
+Open the app once it has installed. You'll be asked to agree to WhatsApp's terms of service - tap "Agree and Continue" to proceed.
 
 Next, enter your mobile phone number. Make sure you're using the number of the phone you have in your hand, as WhatsApp will send a six-digit code to that number by text message. When the text arrives, WhatsApp will usually fill in the code automatically. If it doesn't, simply type the six digits yourself and tap "Next".
 
@@ -82,7 +82,7 @@ Next, enter your mobile phone number. Make sure you're using the number of the p
 
 ## Step 3: Set up your profile
 
-After verification, WhatsApp will ask for your name. This is what your contacts will see when they message you, so use whatever feels natural — your first name, or first and last name.
+After verification, WhatsApp will ask for your name. This is what your contacts will see when they message you, so use whatever feels natural - your first name, or first and last name.
 
 You can also add a profile photo at this stage. Tap the camera circle and choose a photo from your gallery, or take a new one. This is entirely optional; plenty of people skip it. You can always add or change your photo later by going to Settings (the cog icon at the bottom right) and tapping your name at the top.
 
@@ -96,7 +96,7 @@ This is the bit most people are itching to try.
 
 On an iPhone, tap the speech bubble icon in the top right corner of the main screen. On Android, tap the green speech bubble icon (usually at the bottom right). Then tap "New Chat".
 
-You'll see a list of your phone contacts who are already on WhatsApp. Tap the name of the person you want to message. Their chat window opens. At the bottom of the screen there's a white bar that says "Message" — tap it, type your message, then tap the green send button (it looks like a paper aeroplane).
+You'll see a list of your phone contacts who are already on WhatsApp. Tap the name of the person you want to message. Their chat window opens. At the bottom of the screen there's a white bar that says "Message" - tap it, type your message, then tap the green send button (it looks like a paper aeroplane).
 
 That's it. Your message will arrive on their phone in seconds, wherever they are.
 
@@ -120,7 +120,7 @@ A quick note on quality: calls work best on a strong Wi-Fi connection. If the pi
 
 Sharing photos is one of the things WhatsApp does best. Opening pictures of grandchildren, holidays or a new kitchen extension takes only a moment.
 
-Open the chat with the person you want to share a photo with. On iPhone, tap the plus icon (+) to the left of the message bar. On Android, tap the paperclip icon. A menu will appear — tap "Photo & Video Library" (iPhone) or "Gallery" (Android). Browse to the photo you want, tap it to select it, and tap the green send button.
+Open the chat with the person you want to share a photo with. On iPhone, tap the plus icon (+) to the left of the message bar. On Android, tap the paperclip icon. A menu will appear - tap "Photo & Video Library" (iPhone) or "Gallery" (Android). Browse to the photo you want, tap it to select it, and tap the green send button.
 
 You can send several photos at once by tapping and holding on multiple images before pressing Send.
 
@@ -139,7 +139,7 @@ The group chat opens immediately. Anyone in the group can send messages, photos 
 If someone else has already created a group and wants to add you, they can do that from their end; you'll simply receive a notification that you've been added. You don't need to do anything to accept it.
 
 :::callout{type="warning"}
-**Groups can get busy.** If a group chat is generating more notifications than you'd like, you can mute it without leaving. Open the group chat, tap the group name at the top, scroll down and tap "Mute Notifications". You can mute for eight hours, a week, or always. Your messages will still be there when you check — you just won't hear a ping every time someone sends one.
+**Groups can get busy.** If a group chat is generating more notifications than you'd like, you can mute it without leaving. Open the group chat, tap the group name at the top, scroll down and tap "Mute Notifications". You can mute for eight hours, a week, or always. Your messages will still be there when you check - you just won't hear a ping every time someone sends one.
 :::
 
 ---

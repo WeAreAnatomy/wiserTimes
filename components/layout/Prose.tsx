@@ -10,7 +10,7 @@ export interface ProseProps {
  * whenever you render HTML/markdown output (articles, policy pages, etc.)
  * instead of re-declaring heading/paragraph styles.
  *
- * NOTE: we don't use @tailwindcss/typography — we control typography
+ * NOTE: we don't use @tailwindcss/typography - we control typography
  * ourselves so the 18px accessibility floor and brand serif are consistent.
  *
  * SCALABILITY: every selector here is a `[&_X]` arbitrary descendant rule
@@ -40,7 +40,7 @@ export default function Prose({ children, className = '' }: ProseProps) {
         // Lists
         '[&_ul]:mt-4 [&_ul]:mb-4 [&_ul]:list-disc [&_ul]:pl-6 [&_ul_li]:mt-2',
         '[&_ol]:mt-4 [&_ol]:mb-4 [&_ol]:list-decimal [&_ol]:pl-6 [&_ol_li]:mt-2',
-        // Tables — wrapped in an overflow container so they never break the page on mobile.
+        // Tables - wrapped in an overflow container so they never break the page on mobile.
         // Authors don't need to think about this; just write a normal markdown table.
         '[&_table]:my-6 [&_table]:w-full [&_table]:border-collapse [&_table]:text-base [&_table]:block sm:[&_table]:table [&_table]:overflow-x-auto',
         '[&_th]:border [&_th]:border-brand-border [&_th]:bg-brand-sand [&_th]:px-3 [&_th]:py-2 [&_th]:text-left',
@@ -49,11 +49,11 @@ export default function Prose({ children, className = '' }: ProseProps) {
         '[&_blockquote]:my-6 [&_blockquote]:border-l-4 [&_blockquote]:border-brand-teal [&_blockquote]:bg-brand-sand/50 [&_blockquote]:px-5 [&_blockquote]:py-3 [&_blockquote]:italic',
         // Inline code
         '[&_code]:rounded [&_code]:bg-brand-sand [&_code]:px-1.5 [&_code]:py-0.5 [&_code]:font-mono [&_code]:text-base',
-        // Code BLOCKS — without this, fenced code overflows the column and the
+        // Code BLOCKS - without this, fenced code overflows the column and the
         // entire viewport scrolls horizontally on mobile. Constrain + scroll-x.
         '[&_pre]:my-6 [&_pre]:overflow-x-auto [&_pre]:rounded-lg [&_pre]:bg-brand-ink [&_pre]:p-4 [&_pre]:text-base [&_pre]:text-brand-cream',
         '[&_pre_code]:bg-transparent [&_pre_code]:px-0 [&_pre_code]:py-0 [&_pre_code]:text-brand-cream',
-        // Images & figures — the responsive defaults every author expects.
+        // Images & figures - the responsive defaults every author expects.
         '[&_img]:my-6 [&_img]:h-auto [&_img]:w-auto [&_img]:max-w-full [&_img]:rounded-lg',
         '[&_figure]:my-6',
         '[&_figcaption]:mt-2 [&_figcaption]:text-center [&_figcaption]:text-base [&_figcaption]:text-brand-muted',

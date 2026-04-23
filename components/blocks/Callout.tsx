@@ -50,7 +50,7 @@ const styles: Record<
 
 /**
  * Generic callout. If you find yourself wanting a new callout variant,
- * add it to the CalloutType union — do not create a second component.
+ * add it to the CalloutType union - do not create a second component.
  */
 export default function Callout({ type = 'info', title, children }: CalloutProps) {
   const s = styles[type] ?? styles.info;

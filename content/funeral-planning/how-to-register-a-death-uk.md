@@ -12,8 +12,8 @@ howTo:
   steps:
     - name: Check who is legally allowed to register the death
       text: >-
-        Only certain people — close relatives, someone present at the death, or
-        the occupier of the premises — are qualified informants under the Births
+        Only certain people - close relatives, someone present at the death, or
+        the occupier of the premises - are qualified informants under the Births
         and Deaths Registration Act 1953.
     - name: Obtain the Medical Certificate of Cause of Death
       text: >-

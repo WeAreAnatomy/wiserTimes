@@ -1,4 +1,4 @@
-// Site search. Server-side only — runs at request time on the search page,
+// Site search. Server-side only - runs at request time on the search page,
 // reads the same article store as every other page, and ranks matches with a
 // simple weighted-token score. We deliberately avoid client-side indexes
 // (lunr, fuse, etc.) to keep the JS bundle out of the critical path; the 55+
@@ -13,7 +13,7 @@ export interface SearchResult {
   vertical: Vertical;
   slug: string;
   url: string;
-  // ISO date — surfaced on the results card so users can see how fresh a
+  // ISO date - surfaced on the results card so users can see how fresh a
   // guide is before clicking through.
   published: string;
   score: number;
@@ -92,7 +92,7 @@ function scoreArticle(article: Article, tokens: string[], rawQuery: string): Sea
 
   if (score === 0) return null;
 
-  // Pillar pages are the canonical answer for a vertical — nudge them up.
+  // Pillar pages are the canonical answer for a vertical - nudge them up.
   if (fm.contentType === 'pillar') score += 2;
 
   return {
@@ -110,7 +110,7 @@ function scoreArticle(article: Article, tokens: string[], rawQuery: string): Sea
 /**
  * Search published articles by free-text query.
  * Returns results ordered by score (highest first), capped at `limit`.
- * An empty/blank query returns an empty array — the page handles the empty state.
+ * An empty/blank query returns an empty array - the page handles the empty state.
  */
 export function searchArticles(query: string, limit = 30): SearchResult[] {
   const trimmed = query.trim();

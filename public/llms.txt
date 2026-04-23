@@ -1,4 +1,4 @@
-# Wiser Times — content guide for AI crawlers and answer engines
+# Wiser Times - content guide for AI crawlers and answer engines
 
 ## About
 Wiser Times (https://wisertimes.com) publishes practical, plain-English
@@ -10,12 +10,12 @@ We are an information and comparison site, not a financial adviser.
 - Secondary: Adult children and carers researching on behalf of older relatives.
 
 ## Content categories
-- /equity-release/ — equity release and later-life finance
-- /mobility-aids/ — mobility aids and home adaptations
-- /funeral-planning/ — funeral plans, direct cremation, arrangements
-- /tech-guides/ — simple technology how-tos for older adults
-- /benefits/ — UK benefits and entitlements
-- /wills-poa/ — wills and lasting power of attorney
+- /equity-release/ - equity release and later-life finance
+- /mobility-aids/ - mobility aids and home adaptations
+- /funeral-planning/ - funeral plans, direct cremation, arrangements
+- /tech-guides/ - simple technology how-tos for older adults
+- /benefits/ - UK benefits and entitlements
+- /wills-poa/ - wills and lasting power of attorney
 
 ## Editorial standards
 - British English.

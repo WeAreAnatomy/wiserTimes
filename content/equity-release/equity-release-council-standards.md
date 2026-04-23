@@ -20,7 +20,7 @@ keywords:
 faqs:
   - q: Is the Equity Release Council the same as the FCA?
     a: >-
-      No. The FCA is the statutory regulator — it authorises firms and
+      No. The FCA is the statutory regulator - it authorises firms and
       individuals to give financial advice. The Equity Release Council is a
       trade body that adds a second layer of voluntary product standards on top
       of FCA regulation. Both matter, but in different ways.
@@ -33,7 +33,7 @@ faqs:
   - q: Does the no-negative-equity guarantee apply to home reversion plans?
     a: >-
       No. The no-negative-equity guarantee is specific to lifetime mortgages.
-      Home reversion plans work differently — you sell a share of the property,
+      Home reversion plans work differently - you sell a share of the property,
       so there is no debt to compound. The Council has separate standards for
       reversion plans.
   - q: Can I move home if I have a lifetime mortgage from a Council member?
@@ -51,9 +51,9 @@ affiliates: []
 ---
 # What is the Equity Release Council and why does it matter?
 
-The Equity Release Council is a UK trade body that sets mandatory product standards for lifetime mortgages and home reversion plans. If a lender, adviser or solicitor is a Council member, they have contractually agreed to follow those standards — which means you, as a customer, get specific legal protections built into your product from day one. The most well-known of these is the no-negative-equity guarantee: you can never owe more than your home is worth, no matter how long you live or how much the loan compounds.
+The Equity Release Council is a UK trade body that sets mandatory product standards for lifetime mortgages and home reversion plans. If a lender, adviser or solicitor is a Council member, they have contractually agreed to follow those standards - which means you, as a customer, get specific legal protections built into your product from day one. The most well-known of these is the no-negative-equity guarantee: you can never owe more than your home is worth, no matter how long you live or how much the loan compounds.
 
-That single guarantee changed the equity release market when it was introduced. Before it existed, people could — and did — end up with loans that outgrew their property value, leaving families to settle the shortfall. That scenario is now prohibited for any Council-member product.
+That single guarantee changed the equity release market when it was introduced. Before it existed, people could - and did - end up with loans that outgrew their property value, leaving families to settle the shortfall. That scenario is now prohibited for any Council-member product.
 
 ## How did the Equity Release Council come about?
 
@@ -61,7 +61,7 @@ The Council traces its origins to SHIP (Safe Home Income Plans), a voluntary sta
 
 SHIP became the Equity Release Council in 2012, broadening its membership to include solicitors, financial advisers and surveyors alongside lenders. Today its membership covers most of the active UK market, though membership is voluntary rather than legally required.
 
-That distinction is worth holding in mind. The FCA regulates equity release as a financial product — any firm advising on or selling a lifetime mortgage needs FCA authorisation. The Council sits alongside that, adding product-level protections that go beyond what the FCA mandates. Think of it as a second layer rather than a replacement.
+That distinction is worth holding in mind. The FCA regulates equity release as a financial product - any firm advising on or selling a lifetime mortgage needs FCA authorisation. The Council sits alongside that, adding product-level protections that go beyond what the FCA mandates. Think of it as a second layer rather than a replacement.
 
 ## What standards do Council members have to meet?
 
@@ -83,7 +83,7 @@ Fourth, fixed or capped interest rates for life. Variable-rate lifetime mortgage
 
 Council standards require that you receive independent legal advice from a solicitor before completing any equity release product. Specifically, the solicitor must not be the same firm acting for the lender.
 
-This is not a formality. The solicitor's job is to confirm you understand what you are signing, that you have not been pressured, and that the terms of the contract are as you were told they would be. They will go through the key terms with you individually — the interest rate, the compounding mechanics, the conditions under which early repayment charges apply, and what happens when the plan ends.
+This is not a formality. The solicitor's job is to confirm you understand what you are signing, that you have not been pressured, and that the terms of the contract are as you were told they would be. They will go through the key terms with you individually - the interest rate, the compounding mechanics, the conditions under which early repayment charges apply, and what happens when the plan ends.
 
 In my experience, clients sometimes feel impatient at this stage. They have already met an adviser, received an illustration and decided they want to proceed. The solicitor can feel like a delay. But this is the moment where a good solicitor occasionally identifies something worth pausing on: a fixed early repayment charge window that runs longer than expected, or a condition the borrower had not fully registered.
 
@@ -137,11 +137,11 @@ One last thought. The existence of the Equity Release Council, and its standards
 
 :::faq
 - q: Is the Equity Release Council the same as the FCA?
-  a: No. The FCA is the statutory regulator — it authorises firms and individuals to give financial advice. The Equity Release Council is a trade body that adds a second layer of voluntary product standards on top of FCA regulation. Both matter, but in different ways.
+  a: No. The FCA is the statutory regulator - it authorises firms and individuals to give financial advice. The Equity Release Council is a trade body that adds a second layer of voluntary product standards on top of FCA regulation. Both matter, but in different ways.
 - q: What happens if a provider leaves the Equity Release Council?
   a: Their existing products remain subject to the terms agreed at outset. The Council's standards are built into the product contract, not just a membership promise. That said, you should always check current membership status before proceeding.
 - q: Does the no-negative-equity guarantee apply to home reversion plans?
-  a: No. The no-negative-equity guarantee is specific to lifetime mortgages. Home reversion plans work differently — you sell a share of the property, so there is no debt to compound. The Council has separate standards for reversion plans.
+  a: No. The no-negative-equity guarantee is specific to lifetime mortgages. Home reversion plans work differently - you sell a share of the property, so there is no debt to compound. The Council has separate standards for reversion plans.
 - q: Can I move home if I have a lifetime mortgage from a Council member?
   a: Yes, provided the new property meets the lender's criteria. Council members must allow you to transfer (port) your mortgage to a suitable new property. You cannot be forced to repay simply because you want to move.
 - q: Where can I find a list of Equity Release Council members?

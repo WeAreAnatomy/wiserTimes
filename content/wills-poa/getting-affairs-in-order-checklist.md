@@ -23,7 +23,7 @@ faqs:
     a: >-
       A fireproof home safe works for most people. Alternatively, a solicitor
       can hold originals, and some banks offer document storage. Tell at least
-      one trusted person where to find everything — a document that nobody can
+      one trusted person where to find everything - a document that nobody can
       locate is effectively useless.
   - q: Should I store my will at home or with a solicitor?
     a: >-
@@ -50,7 +50,7 @@ affiliates: []
 ---
 # Getting your affairs in order: a practical checklist
 
-Most people know they should do this. Few actually sit down and do it. What follows is a straightforward checklist for UK residents who want to make things easier for the people they'll one day leave behind — or for those who simply want to feel more organised right now.
+Most people know they should do this. Few actually sit down and do it. What follows is a straightforward checklist for UK residents who want to make things easier for the people they'll one day leave behind - or for those who simply want to feel more organised right now.
 
 You don't need a solicitor to work through most of this. You do need a few hours, a notepad, and a willingness to look at the paperwork you've been avoiding.
 
@@ -174,7 +174,7 @@ If you haven't yet made a will or Lasting Power of Attorney, those are the two i
 
 :::faq
 - q: Where is the safest place to keep important documents in the UK?
-  a: A fireproof home safe works for most people. Alternatively, a solicitor can hold originals, and some banks offer document storage. Tell at least one trusted person where to find everything — a document that nobody can locate is effectively useless.
+  a: A fireproof home safe works for most people. Alternatively, a solicitor can hold originals, and some banks offer document storage. Tell at least one trusted person where to find everything - a document that nobody can locate is effectively useless.
 - q: Should I store my will at home or with a solicitor?
   a: Both is sensible. Keep a copy at home in a known location, and store the original with a solicitor or Will Aid-registered service such as Farewill's solicitor partner network. HM Courts and Tribunals Service also offers probate registry storage for a small fee.
 - q: What happens to direct debits and subscriptions when someone dies?

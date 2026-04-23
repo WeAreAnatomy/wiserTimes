@@ -19,7 +19,7 @@ function readArticleFile(filePath: string): Article {
 }
 
 // Returns true only if the article's published date is today or in the past.
-// Future-dated articles are staged but not yet live — they are excluded from
+// Future-dated articles are staged but not yet live - they are excluded from
 // all listings, generateStaticParams, and the sitemap until their date arrives.
 function isPublished(article: Article): boolean {
   if (!article.frontmatter.published) return false;

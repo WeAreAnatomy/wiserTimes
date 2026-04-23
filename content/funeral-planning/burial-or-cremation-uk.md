@@ -2,7 +2,7 @@
 title: 'Burial or cremation: what are the differences?'
 description: >-
   Burial typically costs £4,000–£6,000 more than cremation in the UK. Here's
-  what separates the two — practically, emotionally and environmentally.
+  what separates the two - practically, emotionally and environmentally.
 vertical: funeral-planning
 contentType: spoke
 intent: informational
@@ -31,7 +31,7 @@ faqs:
       buried in a biodegradable coffin or shroud without a conventional
       headstone. Costs vary widely but often sit between £1,000 and £3,500. The
       Natural Death Centre keeps a directory at naturaldeath.org.uk.
-  - q: Which is more environmentally friendly — burial or cremation?
+  - q: Which is more environmentally friendly - burial or cremation?
     a: >-
       Both have a real environmental footprint. Cremation produces roughly
       150–200kg of CO₂ per funeral, according to the Cremation Society.
@@ -151,7 +151,7 @@ And if you haven't yet read through the wider guidance on funeral planning, our 
   a: "Generally yes. A direct cremation can cost as little as £1,000–£1,500, while a full cremation funeral typically runs to £3,000–£4,500. A burial with a new grave in a municipal cemetery usually costs £5,000–£8,000 or more when you add the burial plot fee, which can reach £1,000–£3,000 in many areas."
 - q: Can you be buried in a woodland or natural burial ground in the UK?
   a: "Yes. There are over 270 natural burial grounds in the UK, where you're buried in a biodegradable coffin or shroud without a conventional headstone. Costs vary widely but often sit between £1,000 and £3,500. The Natural Death Centre keeps a directory at naturaldeath.org.uk."
-- q: Which is more environmentally friendly — burial or cremation?
+- q: Which is more environmentally friendly - burial or cremation?
   a: "Both have a real environmental footprint. Cremation produces roughly 150–200kg of CO₂ per funeral, according to the Cremation Society. Conventional burial uses embalming chemicals and hardwood coffins. Natural burial and water-based cremation (aquamation) have lower impacts, though aquamation is still rare in the UK."
 - q: Does religion affect whether you can be cremated or buried?
   a: "Some faiths have firm guidance. Islam and Orthodox Judaism require burial and prohibit cremation. The Catholic Church now permits cremation but prefers the ashes to be interred rather than scattered. Hinduism and Sikhism traditionally favour cremation. If faith matters to your family, it's worth checking with a religious leader before plans are made."

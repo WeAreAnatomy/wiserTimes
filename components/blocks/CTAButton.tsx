@@ -15,7 +15,7 @@ interface CommonProps {
 interface LinkProps extends CommonProps {
   href: string;
   external?: boolean;
-  /** For affiliate/sponsored links — renders rel="sponsored nofollow". */
+  /** For affiliate/sponsored links - renders rel="sponsored nofollow". */
   sponsored?: boolean;
   submit?: never;
 }
@@ -53,7 +53,7 @@ const sizes: Record<CTASize, string> = {
  *   - Sponsored / affiliate: <CTAButton href="https://..." sponsored />
  *   - Submit button: <CTAButton submit>Send enquiry</CTAButton>
  *
- * Do not write <button> or <a className="..."> at call sites — use this.
+ * Do not write <button> or <a className="..."> at call sites - use this.
  */
 export default function CTAButton(props: CTAButtonProps) {
   const { children, variant = 'primary', size = 'md', ariaLabel, className = '' } = props;

@@ -8,7 +8,7 @@ export interface ComparisonTableProps {
 
 /**
  * Renders a factual comparison table. Styling is controlled here, not at
- * call-sites. If a page needs a comparison, it passes the data — it does
+ * call-sites. If a page needs a comparison, it passes the data - it does
  * not hand-roll an HTML <table>.
  */
 export default function ComparisonTable({
@@ -57,7 +57,7 @@ export default function ComparisonTable({
       </div>
       {factualNote && (
         <p className="mt-2 text-base text-brand-muted">
-          Features are presented factually. We do not rank products by suitability — the right choice depends on your circumstances.
+          Features are presented factually. We do not rank products by suitability - the right choice depends on your circumstances.
         </p>
       )}
     </figure>

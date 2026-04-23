@@ -39,14 +39,14 @@ faqs:
       A deferred payment agreement (DPA) is arranged through your local
       authority. It allows care costs to be paid from the eventual sale of your
       home, rather than you having to sell immediately. Unlike equity release,
-      no interest compounds on your property's full value — the council charges
+      no interest compounds on your property's full value - the council charges
       a capped interest rate on the debt it covers.
   - q: Is my home included in the care home means test?
     a: >-
       In most cases your home is disregarded for the first 12 weeks of permanent
       residential care. After that, it is included in the capital assessment
-      unless a qualifying person — a spouse, civil partner, or dependent
-      relative — continues to live there.
+      unless a qualifying person - a spouse, civil partner, or dependent
+      relative - continues to live there.
   - q: Who can give regulated advice on equity release for care costs?
     a: >-
       Any adviser discussing equity release products must be authorised by the
@@ -72,7 +72,7 @@ The capital thresholds in England as of 2025 are:
 
 These thresholds have not risen in line with inflation for many years. Age UK publishes updated figures each April and is worth bookmarking if you're planning ahead.
 
-Your main home is, in most situations, **disregarded for the first 12 weeks** of a permanent residential care placement. After that initial period it is brought into the assessment unless a "qualifying occupier" still lives there — a spouse or civil partner, a dependent child, or a relative aged 60 or over, among others. The full list is set out in the Care and Support (Charging and Assessment of Resources) Regulations 2014.
+Your main home is, in most situations, **disregarded for the first 12 weeks** of a permanent residential care placement. After that initial period it is brought into the assessment unless a "qualifying occupier" still lives there - a spouse or civil partner, a dependent child, or a relative aged 60 or over, among others. The full list is set out in the Care and Support (Charging and Assessment of Resources) Regulations 2014.
 
 ## Where does equity release money fit into this?
 
@@ -96,7 +96,7 @@ It is not a loan product in the conventional sense. The interest rate is set nat
 
 The key distinction from equity release: interest accrues only on the care costs the council is covering, not on the full value of your home. That's a narrower debt base by some margin.
 
-There are conditions. You need sufficient equity in the property to cover projected costs. The home generally needs to be unoccupied or owned outright. Your council must agree. And DPAs don't cover everything — there's usually a "personal expenses allowance" element you manage yourself, and the agreement won't fund care above your assessed needs level if you choose a more expensive home.
+There are conditions. You need sufficient equity in the property to cover projected costs. The home generally needs to be unoccupied or owned outright. Your council must agree. And DPAs don't cover everything - there's usually a "personal expenses allowance" element you manage yourself, and the agreement won't fund care above your assessed needs level if you choose a more expensive home.
 
 For many families looking at this question, a DPA is worth understanding before reaching for equity release. Whether it's appropriate depends on your specific circumstances, which is a conversation for a regulated care fees adviser rather than a general equity release broker.
 
@@ -133,7 +133,7 @@ Timing matters more than most people realise. A few things worth addressing befo
 3. Ask the local authority about a deferred payment agreement before drawing down further equity release funds, particularly if care is already being considered.
 4. If an equity release plan is already in place, request a current statement from the provider showing the outstanding loan plus accrued interest. Solicitors and financial advisers will need this for estate planning.
 
-None of this is a substitute for regulated advice. Care funding sits at an awkward intersection of financial planning, benefits entitlements and property law. Getting one element wrong — drawing down funds at the wrong moment, missing a CHC assessment, or misunderstanding the deprivation of assets rules — can be genuinely costly.
+None of this is a substitute for regulated advice. Care funding sits at an awkward intersection of financial planning, benefits entitlements and property law. Getting one element wrong - drawing down funds at the wrong moment, missing a CHC assessment, or misunderstanding the deprivation of assets rules - can be genuinely costly.
 
 :::faq
 faqs:
@@ -142,9 +142,9 @@ faqs:
   - q: Can I take out equity release to pay care home fees?
     a: Technically yes, but it's a decision worth approaching with considerable caution. If you're already considering residential care, the property is likely to be sold within a relatively short period, which means compound interest on a lifetime mortgage could accumulate against an asset you'll sell anyway. Get regulated advice before proceeding.
   - q: What is a deferred payment agreement and how does it differ from equity release?
-    a: A deferred payment agreement (DPA) is arranged through your local authority. It allows care costs to be paid from the eventual sale of your home, rather than you having to sell immediately. Unlike equity release, no interest compounds on your property's full value — the council charges a capped interest rate on the debt it covers.
+    a: A deferred payment agreement (DPA) is arranged through your local authority. It allows care costs to be paid from the eventual sale of your home, rather than you having to sell immediately. Unlike equity release, no interest compounds on your property's full value - the council charges a capped interest rate on the debt it covers.
   - q: Is my home included in the care home means test?
-    a: In most cases your home is disregarded for the first 12 weeks of permanent residential care. After that, it is included in the capital assessment unless a qualifying person — a spouse, civil partner, or dependent relative — continues to live there.
+    a: In most cases your home is disregarded for the first 12 weeks of permanent residential care. After that, it is included in the capital assessment unless a qualifying person - a spouse, civil partner, or dependent relative - continues to live there.
   - q: Who can give regulated advice on equity release for care costs?
     a: Any adviser discussing equity release products must be authorised by the Financial Conduct Authority. For care funding specifically, a specialist later-life financial adviser or an independent care fees adviser (sometimes holding the CF8 qualification) can look at the full picture alongside state entitlements.
 :::

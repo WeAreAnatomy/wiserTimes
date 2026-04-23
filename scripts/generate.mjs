@@ -103,13 +103,13 @@ async function main() {
       const violations = scan(body, { regulatoryDomain: frontmatter.regulatoryDomain });
       if (violations.some((v) => v.severity === 'hard')) {
         console.warn(
-          `[hard violation] ${r.custom_id}: ${violations.map((v) => v.term).join(', ')} — queueing for humanisation.`,
+          `[hard violation] ${r.custom_id}: ${violations.map((v) => v.term).join(', ')} - queueing for humanisation.`,
         );
       }
       writeArticle(vertical, slug, frontmatter, body);
       console.log(`[write] content/${vertical}/${slug}.md`);
     } catch (err) {
-      console.warn(`[error] ${r.custom_id}: ${err.message} — skipping, will retry on next run.`);
+      console.warn(`[error] ${r.custom_id}: ${err.message} - skipping, will retry on next run.`);
     }
   }
 }

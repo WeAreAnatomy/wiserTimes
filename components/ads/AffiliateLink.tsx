@@ -4,14 +4,14 @@ import type { AffiliateReference } from '@/lib/types';
 export interface AffiliateLinkProps {
   affiliate: AffiliateReference;
   children: ReactNode;
-  /** Optional wrapper variant — pure text link or a button-style CTA. */
+  /** Optional wrapper variant - pure text link or a button-style CTA. */
   as?: 'text' | 'cta';
 }
 
 /**
  * Inline affiliate link. Applies rel="sponsored nofollow noopener" and
  * appends a small visual "Ad" marker. The AffiliateDisclosure at the top
- * of the page is still required — this component does not replace it.
+ * of the page is still required - this component does not replace it.
  *
  * For button-style affiliate CTAs, use <CTAButton sponsored ...> instead.
  * This component is for inline, in-body product links.

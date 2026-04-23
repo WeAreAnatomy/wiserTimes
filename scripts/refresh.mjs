@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Quarterly content refresh — bumps lastReviewed and, optionally, sends
+ * Quarterly content refresh - bumps lastReviewed and, optionally, sends
  * sections of aging articles back through the humanise pipeline.
  *
  *   node scripts/refresh.mjs                 # stamp + report

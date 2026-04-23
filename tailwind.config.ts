@@ -9,7 +9,7 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        // Brand palette — calm, trustworthy, high-contrast for older readers.
+        // Brand palette - calm, trustworthy, high-contrast for older readers.
         brand: {
           ink: '#0B2838',        // primary text / headings
           deep: '#123A53',       // links, nav

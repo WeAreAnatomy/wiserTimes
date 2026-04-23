@@ -26,7 +26,7 @@ faqs:
       It depends entirely on your circumstances. Downsizing releases cash
       outright with no compound interest, but it means moving home, which
       carries costs and disruption. Equity release lets you stay put but the
-      debt grows over time. Neither is inherently superior — they suit different
+      debt grows over time. Neither is inherently superior - they suit different
       situations.
   - q: Can I claim benefits instead of using equity release?
     a: >-
@@ -78,7 +78,7 @@ For many people, it can. Selling a larger home and buying something smaller rele
 
 The numbers can be substantial. The average gap between a three-bedroom and a two-bedroom property in England is over £60,000 according to ONS house price data, and in parts of the South East it runs considerably higher. If you're rattling around in a four-bedroom house, the gap could be six figures.
 
-The honest downsides are real, though. Moving costs — estate agent fees, solicitor fees, stamp duty if you're buying above the threshold, removal costs — typically absorb £10,000 to £15,000. And that's before the emotional cost of leaving a home you may have lived in for decades.
+The honest downsides are real, though. Moving costs - estate agent fees, solicitor fees, stamp duty if you're buying above the threshold, removal costs - typically absorb £10,000 to £15,000. And that's before the emotional cost of leaving a home you may have lived in for decades.
 
 Downsizing also takes time. A property chain can take six months or more to complete. If you need money quickly for care, for a repair or to help a child onto the housing ladder, downsizing isn't fast.
 
@@ -116,7 +116,7 @@ For people whose equity release interest is specifically about funding adaptatio
 
 ---
 
-## Renting out a room — the numbers are better than you'd think
+## Renting out a room - the numbers are better than you'd think
 
 If you have a spare bedroom, renting it out under the government's Rent a Room scheme lets you earn up to £7,500 per year tax-free. That's not a lump sum, but as a way of generating regular income it's worth considering.
 
@@ -166,7 +166,7 @@ A good starting point is a free, no-obligation conversation with an independent 
 
 :::faq
 - q: Is downsizing better than equity release?
-  a: It depends entirely on your circumstances. Downsizing releases cash outright with no compound interest, but it means moving home, which carries costs and disruption. Equity release lets you stay put but the debt grows over time. Neither is inherently superior — they suit different situations.
+  a: It depends entirely on your circumstances. Downsizing releases cash outright with no compound interest, but it means moving home, which carries costs and disruption. Equity release lets you stay put but the debt grows over time. Neither is inherently superior - they suit different situations.
 
 - q: Can I claim benefits instead of using equity release?
   a: Possibly. Pension Credit, Council Tax Reduction and Attendance Allowance are all commonly unclaimed. Age UK's free benefits calculator takes around 10 minutes and can flag entitlements worth hundreds or thousands of pounds a year before you consider borrowing anything.

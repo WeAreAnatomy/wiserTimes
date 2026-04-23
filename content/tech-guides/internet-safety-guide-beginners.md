@@ -25,12 +25,12 @@ faqs:
       Stop all contact with the scammer immediately. Do not send any more money
       or personal details. Report it to Action Fraud on 0300 123 2040 or at
       actionfraud.police.uk. If you've shared bank details, call your bank's
-      fraud line straight away — most banks have a 24-hour number on the back of
+      fraud line straight away - most banks have a 24-hour number on the back of
       your card.
   - q: How do I create a strong password I can actually remember?
     a: >-
-      Use three random words joined together — something like "purplekettledoor"
-      — then add a number or symbol. Avoid obvious words like your pet's name or
+      Use three random words joined together - something like "purplekettledoor"
+      - then add a number or symbol. Avoid obvious words like your pet's name or
       birth year. A password manager such as Bitwarden (free) or 1Password
       stores them all so you only need to remember one master password.
   - q: Is public Wi-Fi safe to use?
@@ -57,7 +57,7 @@ affiliates: []
 ---
 # Staying safe online: a practical guide for beginners
 
-The internet is genuinely useful — for staying in touch with family, managing money, booking appointments, even watching the grandchildren open birthday presents over video call. But it does carry risks, and those risks tend to target people who are newer to it. The good news is that a handful of straightforward habits will protect you against the vast majority of online threats. You don't need to be technical. You just need to know what to look for.
+The internet is genuinely useful - for staying in touch with family, managing money, booking appointments, even watching the grandchildren open birthday presents over video call. But it does carry risks, and those risks tend to target people who are newer to it. The good news is that a handful of straightforward habits will protect you against the vast majority of online threats. You don't need to be technical. You just need to know what to look for.
 
 ---
 
@@ -77,10 +77,10 @@ Beyond that, look for these warning signs:
 
 - A sender's email address that doesn't match the organisation. A genuine email from Lloyds Bank will come from a @lloydsbank.com address, not something like lloyd5-bank@fastmail.net.
 - Urgent language. "Your account will be suspended within 24 hours" is a classic pressure tactic designed to stop you thinking clearly.
-- A link that doesn't go where it claims. On a computer, hover your mouse over any link before clicking — the actual destination appears at the bottom of the screen. On a phone, press and hold the link briefly to see the URL.
+- A link that doesn't go where it claims. On a computer, hover your mouse over any link before clicking - the actual destination appears at the bottom of the screen. On a phone, press and hold the link briefly to see the URL.
 - Poor spelling and grammar, though I'd caution against relying on this alone. AI tools have made scam emails far more polished in recent years.
 
-If you receive a suspicious email, don't click anything. Forward it to report@phishing.gov.uk, which is the National Cyber Security Centre's reporting service. For suspicious texts, forward to 7726 (that spells SPAM on most keypads) — it's free on all major UK networks.
+If you receive a suspicious email, don't click anything. Forward it to report@phishing.gov.uk, which is the National Cyber Security Centre's reporting service. For suspicious texts, forward to 7726 (that spells SPAM on most keypads) - it's free on all major UK networks.
 
 :::callout
 **Received something that looked official but felt wrong?** You can report it to Action Fraud at actionfraud.police.uk or by calling 0300 123 2040. They're the UK's national reporting centre for fraud and cybercrime. Reporting takes about ten minutes and genuinely helps police identify patterns.
@@ -98,7 +98,7 @@ A method that works well for many people is to pick three unconnected words and 
 
 If keeping track of dozens of different passwords sounds impossible, a password manager does it for you. **Bitwarden** is free and well-regarded. **1Password** costs a few pounds a month but has a particularly clear interface that many older users find easier. Both work on phones, tablets and computers. You create one strong master password to access the manager, and it fills in all the others automatically.
 
-For your most important accounts — email, banking, HMRC's Government Gateway — turn on two-factor authentication as well. Your bank almost certainly already requires it under Open Banking regulations, but email accounts often don't have it switched on by default. Go into your account's security settings and look for "two-step verification" or "2FA".
+For your most important accounts - email, banking, HMRC's Government Gateway - turn on two-factor authentication as well. Your bank almost certainly already requires it under Open Banking regulations, but email accounts often don't have it switched on by default. Go into your account's security settings and look for "two-step verification" or "2FA".
 
 ---
 
@@ -114,7 +114,7 @@ One exception: if you use your mobile phone as a hotspot rather than connecting 
 
 ## Why software updates matter more than most people realise
 
-"Update available" notifications are easy to dismiss, and most of us do. That's understandable — they tend to arrive at inconvenient moments, take time to install, and seem to change things you'd got used to.
+"Update available" notifications are easy to dismiss, and most of us do. That's understandable - they tend to arrive at inconvenient moments, take time to install, and seem to change things you'd got used to.
 
 But security updates in particular patch specific holes that criminals are actively trying to exploit. The WannaCry ransomware attack in 2017, which knocked out parts of the NHS for several days, took advantage of a Windows vulnerability that Microsoft had already issued a patch for. The affected computers simply hadn't been updated.
 
@@ -158,9 +158,9 @@ This guide is part of Wiser Times' [technology guides for beginners](/tech-guide
 
 :::faq
 - q: What should I do if I think I've been scammed online?
-  a: Stop all contact with the scammer immediately. Do not send any more money or personal details. Report it to Action Fraud on 0300 123 2040 or at actionfraud.police.uk. If you've shared bank details, call your bank's fraud line straight away — most banks have a 24-hour number on the back of your card.
+  a: Stop all contact with the scammer immediately. Do not send any more money or personal details. Report it to Action Fraud on 0300 123 2040 or at actionfraud.police.uk. If you've shared bank details, call your bank's fraud line straight away - most banks have a 24-hour number on the back of your card.
 - q: How do I create a strong password I can actually remember?
-  a: Use three random words joined together — something like "purplekettledoor" — then add a number or symbol. Avoid obvious words like your pet's name or birth year. A password manager such as Bitwarden (free) or 1Password stores them all so you only need to remember one master password.
+  a: Use three random words joined together - something like "purplekettledoor" - then add a number or symbol. Avoid obvious words like your pet's name or birth year. A password manager such as Bitwarden (free) or 1Password stores them all so you only need to remember one master password.
 - q: Is public Wi-Fi safe to use?
   a: Public Wi-Fi in cafés, libraries and hotels is fine for general browsing, but avoid logging into your bank or entering card details while connected. If you regularly use public networks, a VPN app adds a useful layer of protection. NordVPN and Surfshark both offer straightforward options for older devices.
 - q: What is two-factor authentication?

@@ -47,12 +47,12 @@ faqs:
     a: >-
       Less than it used to. WhatsApp, Zoom and Google Meet all work across
       iPhones, Android phones and tablets regardless of make or model. FaceTime
-      is the exception — it only works between Apple devices.
+      is the exception - it only works between Apple devices.
 affiliates: []
 ---
 # Ways to stay in touch with family using technology
 
-Keeping in close contact with family doesn't require technical expertise or expensive kit. A smartphone or tablet, a reliable Wi-Fi connection, and the right app are genuinely enough to hold a weekly video call with grandchildren in Edinburgh, share holiday photos with a daughter in New Zealand, or trade silly messages with a sibling all day long. This guide runs through the main options — video calls, group messaging, photo sharing and plain old voice calls — and offers some honest thoughts on which tools work well and which add more frustration than they're worth.
+Keeping in close contact with family doesn't require technical expertise or expensive kit. A smartphone or tablet, a reliable Wi-Fi connection, and the right app are genuinely enough to hold a weekly video call with grandchildren in Edinburgh, share holiday photos with a daughter in New Zealand, or trade silly messages with a sibling all day long. This guide runs through the main options - video calls, group messaging, photo sharing and plain old voice calls - and offers some honest thoughts on which tools work well and which add more frustration than they're worth.
 
 ---
 
@@ -78,7 +78,7 @@ Think of a group message thread as a shared noticeboard where everyone in the fa
 
 **WhatsApp groups** are the UK standard for family messaging. You can share text, photos, short videos, voice notes (handy if typing feels slow) and documents. One person creates the group, names it (something cheerful, usually), and adds everyone by their phone number. After that, it mostly runs itself.
 
-A couple of things catch people out at first. Notifications. By default, WhatsApp will alert you every time anyone posts to the group, which can quickly become overwhelming if you have an enthusiastic family. Go into the group settings and select "Mute notifications" for a year — you can still check the thread whenever you like, but your phone won't buzz constantly. Worth doing on day one.
+A couple of things catch people out at first. Notifications. By default, WhatsApp will alert you every time anyone posts to the group, which can quickly become overwhelming if you have an enthusiastic family. Go into the group settings and select "Mute notifications" for a year - you can still check the thread whenever you like, but your phone won't buzz constantly. Worth doing on day one.
 
 **iMessage** (the blue-bubble text service on iPhones) works similarly, but only between Apple users. If even one person in your family has an Android phone, messages switch to a less reliable format. WhatsApp sidesteps this entirely.
 
@@ -104,7 +104,7 @@ What all three have in common: nobody outside your invited circle sees anything.
 
 Completely. Not everything needs a screen.
 
-A regular phone call — over the mobile network or via an app like WhatsApp — is often quicker, warmer and less fatiguing than a video call. You don't have to think about how you look. You can walk around. For people who find screens tiring on the eyes, a good old-fashioned phone call is frequently the better choice.
+A regular phone call - over the mobile network or via an app like WhatsApp - is often quicker, warmer and less fatiguing than a video call. You don't have to think about how you look. You can walk around. For people who find screens tiring on the eyes, a good old-fashioned phone call is frequently the better choice.
 
 WhatsApp voice calls use your internet connection rather than your phone minutes, so they're free over Wi-Fi regardless of where the other person is in the world. Call quality is generally excellent, often better than a standard mobile call.
 
@@ -158,5 +158,5 @@ One more thing: don't be discouraged if something takes a few attempts. Every pe
   a: Google Photos and Apple's Shared Albums let you create a private album that only invited family members can see. Neither requires you to post publicly. Alternatively, the Lifecake app is designed specifically for family photo sharing and is used widely in the UK.
 
 - q: My grandchildren use different phones to me. Does that matter?
-  a: Less than it used to. WhatsApp, Zoom and Google Meet all work across iPhones, Android phones and tablets regardless of make or model. FaceTime is the exception — it only works between Apple devices.
+  a: Less than it used to. WhatsApp, Zoom and Google Meet all work across iPhones, Android phones and tablets regardless of make or model. FaceTime is the exception - it only works between Apple devices.
 :::

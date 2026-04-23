@@ -1,5 +1,5 @@
 // Single source of truth for regulatory disclaimers and compliance copy.
-// Never inline this text at the call-site — always use the compliance
+// Never inline this text at the call-site - always use the compliance
 // components (FCADisclaimer, MedicalDisclaimer, AffiliateDisclosure).
 // We update this file quarterly as part of the compliance review.
 
@@ -27,7 +27,7 @@ export const disclaimers = {
     body: 'This page contains affiliate links. If you click through and take out a product, we may receive a commission. This does not affect our editorial independence or the information we provide.',
   },
   pricing: (date: string) =>
-    `Prices correct as of ${date}. Prices and availability change — always confirm with the provider before purchasing.`,
+    `Prices correct as of ${date}. Prices and availability change - always confirm with the provider before purchasing.`,
 } as const;
 
 // Banned phrases that must not appear in financial content under our FCA positioning.
@@ -70,7 +70,7 @@ export const aiSignalBanned = [
 // Punctuation bans per brief §2.3.
 export const punctuationBans = {
   emDash: /\u2014/, // U+2014, absolutely forbidden
-  // en-dash allowed only in number/date ranges — harder to check automatically,
+  // en-dash allowed only in number/date ranges - harder to check automatically,
   // so the compliance-check script warns rather than fails for this.
   enDash: /\u2013/,
 };

@@ -26,9 +26,9 @@ faqs:
       estate under the current rules.
   - q: What if I have no family at all?
     a: >-
-      If there are genuinely no qualifying relatives — no spouse, children,
+      If there are genuinely no qualifying relatives - no spouse, children,
       grandchildren, parents, siblings, half-siblings, grandparents or aunts and
-      uncles — the entire estate passes to the Crown. This is called bona
+      uncles - the entire estate passes to the Crown. This is called bona
       vacantia.
   - q: Can an unmarried partner contest the intestacy rules?
     a: >-
@@ -49,7 +49,7 @@ affiliates: []
 ---
 # What happens if you die without a will in the UK?
 
-If you die without a valid will in England or Wales, you die "intestate." That single word matters enormously, because the state then steps in with a fixed set of rules to decide who gets your money, your home, and your possessions. Those rules are the intestacy rules — and they do not care about your wishes, your relationships, or the promises you made to people you love. Your unmarried partner of 25 years could receive nothing at all.
+If you die without a valid will in England or Wales, you die "intestate." That single word matters enormously, because the state then steps in with a fixed set of rules to decide who gets your money, your home, and your possessions. Those rules are the intestacy rules - and they do not care about your wishes, your relationships, or the promises you made to people you love. Your unmarried partner of 25 years could receive nothing at all.
 
 Writing a will takes an afternoon. Not writing one can cost your family months of grief, legal fees, and family conflict at the worst possible time.
 
@@ -83,7 +83,7 @@ Worth noting: "spouse" means someone you are legally married to or in a civil pa
 
 This is the part that catches people out, and it causes genuine hardship.
 
-In England and Wales there is no such thing as a "common-law spouse" in law. Cohabiting couples have no automatic inheritance rights, no matter how many years they have shared a home, raised children together, or intertwined their finances. If your partner dies without a will, you could find yourself with no legal right to any of the estate — including the family home, if it was in their sole name.
+In England and Wales there is no such thing as a "common-law spouse" in law. Cohabiting couples have no automatic inheritance rights, no matter how many years they have shared a home, raised children together, or intertwined their finances. If your partner dies without a will, you could find yourself with no legal right to any of the estate - including the family home, if it was in their sole name.
 
 Age UK has highlighted this repeatedly. According to the Office for National Statistics, cohabiting couples are the fastest-growing family type in the UK, yet the law has not kept pace. Thousands of people in long-term relationships are in this position without realising it.
 
@@ -99,11 +99,11 @@ Stepchildren you have not legally adopted receive nothing, even if you raised th
 
 If a child has already died but left children of their own (your grandchildren), those grandchildren inherit their parent's share between them. This is called "per stirpes" distribution.
 
-Children who are under 18 do not receive their inheritance directly. A trustee manages the funds until they reach adulthood. If there is no will appointing a trustee, the court appoints one — which adds cost and delay.
+Children who are under 18 do not receive their inheritance directly. A trustee manages the funds until they reach adulthood. If there is no will appointing a trustee, the court appoints one - which adds cost and delay.
 
 ## Does your estate have to go through probate if there's no will?
 
-Yes, in most cases. Without a will, someone still needs legal authority to deal with the estate. Instead of a grant of probate (which applies when there is a will), the administrator applies for a grant of letters of administration. The process is broadly similar, but it falls to whoever is first in the intestacy order — not to a person you chose.
+Yes, in most cases. Without a will, someone still needs legal authority to deal with the estate. Instead of a grant of probate (which applies when there is a will), the administrator applies for a grant of letters of administration. The process is broadly similar, but it falls to whoever is first in the intestacy order - not to a person you chose.
 
 If your estate is small (roughly under £5,000, though banks set their own thresholds) some institutions will release funds without a grant. For anything larger, expect a formal process through the Probate Registry.
 
@@ -134,14 +134,14 @@ Several free or low-cost options are available in the UK:
 If your situation involves a business, foreign property, a complicated family structure, or significant assets, I would strongly suggest seeing a specialist solicitor rather than an online service. The modest extra cost is worthwhile.
 
 :::callout
-**A note on DIY will kits.** Handwritten or "holographic" wills are valid in England and Wales only if correctly witnessed and signed. DIY kits sold in stationery shops are legal but must be filled out precisely. Errors in witnessing — a witness who is also a beneficiary, for instance — can invalidate the will entirely. If you are not confident in the process, professional help is money well spent.
+**A note on DIY will kits.** Handwritten or "holographic" wills are valid in England and Wales only if correctly witnessed and signed. DIY kits sold in stationery shops are legal but must be filled out precisely. Errors in witnessing - a witness who is also a beneficiary, for instance - can invalidate the will entirely. If you are not confident in the process, professional help is money well spent.
 :::
 
 ## What about assets that pass outside a will?
 
 Some assets do not form part of your estate at all, and the intestacy rules do not touch them. This is worth understanding.
 
-Your pension (in most cases) does not pass under your will. It passes according to a nomination of beneficiaries form held by your pension provider. If you have not completed or updated that form, your provider's trustees decide who gets the money — and they may choose differently from what you intended. Check your nomination today.
+Your pension (in most cases) does not pass under your will. It passes according to a nomination of beneficiaries form held by your pension provider. If you have not completed or updated that form, your provider's trustees decide who gets the money - and they may choose differently from what you intended. Check your nomination today.
 
 Life insurance policies written in trust also pass directly to the named beneficiary, outside the estate. If the policy is not written in trust, the payout falls into the estate and is subject to intestacy (or your will, if you have one).
 
@@ -154,7 +154,7 @@ For everything else connected to wills and lasting power of attorney, take a loo
   a: Not necessarily. In England and Wales, a spouse inherits the first £322,000 of the estate plus half of anything above that. The rest passes to children. If there are no children, a spouse does inherit the whole estate under the current rules.
 
 - q: What if I have no family at all?
-  a: If there are genuinely no qualifying relatives — no spouse, children, grandchildren, parents, siblings, half-siblings, grandparents or aunts and uncles — the entire estate passes to the Crown. This is called bona vacantia.
+  a: If there are genuinely no qualifying relatives - no spouse, children, grandchildren, parents, siblings, half-siblings, grandparents or aunts and uncles - the entire estate passes to the Crown. This is called bona vacantia.
 
 - q: Can an unmarried partner contest the intestacy rules?
   a: An unmarried partner can make a claim under the Inheritance (Provision for Family and Dependants) Act 1975 if they lived with the deceased for at least two years before the death. It is a court process, not a guarantee, and it can be distressing and expensive.
