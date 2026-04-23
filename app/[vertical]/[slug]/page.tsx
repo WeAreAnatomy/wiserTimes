@@ -14,6 +14,7 @@ import type { Vertical } from '@/lib/types';
 import Container from '@/components/layout/Container';
 import Breadcrumbs from '@/components/layout/Breadcrumbs';
 import ArticleHeader from '@/components/content/ArticleHeader';
+import ShareBar from '@/components/content/ShareBar';
 import TableOfContents from '@/components/content/TableOfContents';
 import AuthorCard from '@/components/content/AuthorCard';
 import RelatedArticles from '@/components/content/RelatedArticles';
@@ -95,10 +96,14 @@ export default async function SpokePage({
   const allFAQs = [...frontmatterFAQs, ...inlineFAQs];
   const showPageLevelFAQ = inlineFAQs.length === 0 && frontmatterFAQs.length > 0;
 
+  const sharePath = `/${v.slug}/${article.frontmatter.slug}/`;
+
   return (
     <Container width="content" className="pt-8 pb-16">
       <Breadcrumbs crumbs={crumbs} />
       <ArticleHeader article={article} />
+
+      <ShareBar url={sharePath} title={article.frontmatter.title} />
 
       {/* Regulatory disclaimers render above the fold so readers see the
           "information, not advice" framing on arrival, not after the body.
@@ -119,6 +124,12 @@ export default async function SpokePage({
       {showPageLevelFAQ && <FAQ items={frontmatterFAQs} />}
 
       <AdSlot position="in-article-2" />
+
+      <ShareBar
+        url={sharePath}
+        title={article.frontmatter.title}
+        label="Found this useful? Share it"
+      />
 
       <AuthorCard authorSlug={article.frontmatter.author} />
       <RelatedArticles articles={related} />

@@ -85,6 +85,13 @@ Grid of related article cards at the foot of a page.
 - `articles: Article[]`
 - `title?: string` - default `'Related guides'`
 
+### `ShareBar.tsx`
+Article share row - Email, WhatsApp, Facebook, X, Copy link. Renders once at the top and once at the bottom of every spoke article via the page template; do not invoke from inside markdown or duplicate elsewhere. Most controls are server-rendered `<a>`s so they work without JS; the copy-link button needs hydration (shows a "Copied" confirmation). The Email control is a native `<details>` popover offering Gmail, Outlook.com, and Yahoo Mail - plain `mailto:` is deliberately omitted because it silently fails when the OS has no default mail handler (the common case in 2026). Brand-icon glyphs (WhatsApp, Facebook, X) are inline SVG inside the file - lucide-react no longer ships them.
+- `url: string` - relative path (`/equity-release/foo/`); the component prepends `siteConfig.url`.
+- `title: string` - article title; used in the email subject and accessible labels.
+- `label?: string` - section heading; default `'Share this article'`.
+- `className?: string`
+
 ---
 
 ## blocks/
