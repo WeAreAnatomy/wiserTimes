@@ -52,4 +52,32 @@ Disclaimers are rendered by the platform, not written into the article body. Do 
 ## Output format
 - Pure markdown with YAML frontmatter at the top.
 - Do not include any explanatory preamble or postamble. The first line is `---` (frontmatter opening), the last line is the end of the article body.
+- Do NOT wrap the response in a code fence (no leading ```yaml, ```markdown, or ```). The frontmatter `---` is the first line of your reply, not the first line inside a fence.
 - Use the site's shortcode blocks where they add genuine value (:::callout, :::compare, :::proscons, :::faq, :::quote). Do not force them. A pure-prose section is often better than a callout.
+
+## Shortcode body formats (mandatory — the platform parses these strictly)
+
+`:::callout{type="warning|tip|info" title="Optional title"}` ... free prose ... `:::`
+
+`:::compare{caption="Optional caption"}` then a standard markdown pipe table (header row, divider row, data rows). `:::`
+
+`:::proscons{title="Optional title"}` then either:
+```
+pros: First item, Second item, Third item
+cons: First downside, Second downside
+```
+or a multi-line variant where `pros:` introduces a list and `cons:` introduces another. `:::`
+
+`:::faq` — every question MUST start with `q:` and every answer with `a:`. Example:
+```
+:::faq
+q: How long does the application take?
+a: Most councils respond within four weeks.
+
+q: Can I appeal?
+a: Yes — write to your council within 28 days of the refusal letter.
+:::
+```
+Do NOT use bold-question-paragraph format inside `:::faq` blocks; the parser only reliably extracts `q:`/`a:` pairs and a malformed FAQ is silently dropped from both the page and the FAQ schema.
+
+`:::quote{author="Name" role="Optional role"}` ... single quoted paragraph ... `:::`

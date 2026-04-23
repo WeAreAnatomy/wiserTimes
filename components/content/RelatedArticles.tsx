@@ -3,6 +3,7 @@ import { Home, Accessibility, Flower2, Laptop2, HandHeart, ScrollText, BookOpen,
 import type { LucideIcon } from 'lucide-react';
 import type { Article } from '@/lib/types';
 import { articleUrl } from '@/lib/content';
+import { formatPublishDate } from '@/lib/dates';
 
 export interface RelatedArticlesProps {
   articles: Article[];
@@ -58,6 +59,12 @@ export default function RelatedArticles({ articles, title = 'Related guides' }: 
                   </span>
                   <span className="mt-0.5 block text-base text-brand-muted line-clamp-2">
                     {a.frontmatter.description}
+                  </span>
+                  <span className="mt-1 block text-sm text-brand-muted">
+                    Published{' '}
+                    <time dateTime={a.frontmatter.published}>
+                      {formatPublishDate(a.frontmatter.published)}
+                    </time>
                   </span>
                 </span>
                 <ArrowRight

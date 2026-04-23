@@ -10,7 +10,11 @@ export interface ArticleHeaderProps {
 
 /**
  * Header block shown at the top of every pillar and spoke article.
- * Composes LastUpdated + inline AuthorCard — do not rebuild the trio.
+ *
+ * Renders the inline (byline) AuthorCard. The FULL AuthorCard renders
+ * once at the bottom of the page (E-E-A-T tail). Do NOT add a second
+ * full card here — they are intentionally different widgets that share
+ * one component via the `variant` prop.
  */
 export default function ArticleHeader({ article }: ArticleHeaderProps) {
   const fm = article.frontmatter;
@@ -26,7 +30,7 @@ export default function ArticleHeader({ article }: ArticleHeaderProps) {
         {fm.title}
       </h1>
       <p className="mt-3 max-w-prose text-xl text-brand-muted">{fm.description}</p>
-      <div className="mt-4 flex flex-col gap-2">
+      <div className="mt-4 flex flex-col gap-1.5">
         <AuthorCard authorSlug={fm.author} variant="inline" />
         <LastUpdated
           published={fm.published}

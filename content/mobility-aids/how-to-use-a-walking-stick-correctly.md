@@ -47,7 +47,6 @@ regulatoryDomain: health
 keywords:
   - how to use a walking stick
 ---
-```
 
 # How to use a walking stick safely and correctly
 

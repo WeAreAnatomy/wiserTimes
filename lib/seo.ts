@@ -1,4 +1,4 @@
-import type { Article, ArticleFrontmatter } from './types';
+import type { Article, ArticleFrontmatter, FAQItem } from './types';
 import { siteConfig } from './config';
 import { authors } from './authors';
 import { articleUrl } from './content';
@@ -36,12 +36,26 @@ export function buildArticleSchema(a: Article): Record<string, unknown> {
   };
 }
 
-export function buildFAQSchema(fm: ArticleFrontmatter): Record<string, unknown> | null {
-  if (!fm.faqs || fm.faqs.length === 0) return null;
+/**
+ * Build FAQPage JSON-LD from any combination of frontmatter `faqs:` and
+ * inline `:::faq` shortcodes. Google requires that the FAQ schema match
+ * the visible FAQ on the page, so callers MUST pass the union of both
+ * (use `extractInlineFAQs` from MarkdownRenderer to gather inline ones).
+ */
+export function buildFAQSchema(items: FAQItem[]): Record<string, unknown> | null {
+  if (!items || items.length === 0) return null;
+  const seen = new Set<string>();
+  const unique = items.filter((f) => {
+    const key = f.q.trim().toLowerCase();
+    if (!f.q || !f.a || seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+  if (unique.length === 0) return null;
   return {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
-    mainEntity: fm.faqs.map((f) => ({
+    mainEntity: unique.map((f) => ({
       '@type': 'Question',
       name: f.q,
       acceptedAnswer: { '@type': 'Answer', text: f.a },

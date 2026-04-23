@@ -54,7 +54,6 @@ regulatoryDomain: general
 keywords:
   - how to apply for probate uk
 ---
-```
 
 # How to apply for probate in England and Wales
 

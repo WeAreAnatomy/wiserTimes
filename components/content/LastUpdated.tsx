@@ -1,16 +1,9 @@
+import { formatPublishDate } from '@/lib/dates';
+
 export interface LastUpdatedProps {
   published: string; // ISO
   lastReviewed: string; // ISO
   readingTimeMinutes?: number;
-}
-
-function formatDate(iso: string): string {
-  const d = new Date(iso);
-  return d.toLocaleDateString('en-GB', {
-    day: 'numeric',
-    month: 'long',
-    year: 'numeric',
-  });
 }
 
 /**
@@ -26,13 +19,13 @@ export default function LastUpdated({
   return (
     <p className="text-base text-brand-muted">
       <span>
-        Published <time dateTime={published}>{formatDate(published)}</time>
+        Published <time dateTime={published}>{formatPublishDate(published)}</time>
       </span>
       {showReview && (
         <>
           {' · '}
           <span>
-            Last reviewed <time dateTime={lastReviewed}>{formatDate(lastReviewed)}</time>
+            Last reviewed <time dateTime={lastReviewed}>{formatPublishDate(lastReviewed)}</time>
           </span>
         </>
       )}

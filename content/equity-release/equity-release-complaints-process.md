@@ -6,7 +6,6 @@ description: >-
   and what to expect at each stage.
 slug: equity-release-complaints-process
 author: david
-date: 2025-07-09T00:00:00.000Z
 tags:
   - equity release
   - complaints
@@ -50,7 +49,6 @@ regulatoryDomain: finance
 keywords:
   - equity release complaint
 ---
-```
 
 # How to make a complaint about an equity release product or adviser
 

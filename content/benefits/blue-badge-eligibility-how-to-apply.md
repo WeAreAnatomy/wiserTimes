@@ -156,19 +156,3 @@ If you want to understand how Blue Badge fits alongside other support you may be
 Age UK's helpline (0800 678 1602, free, open 8am to 7pm) can talk you through the application process and help you gather evidence. Their advisers are particularly good on the hidden disability route, which is the one most often misunderstood.
 
 If your difficulty walking is linked to a condition that might also affect other areas of life, it's worth asking your GP for a social care referral at the same time as applying for the badge. The two processes are separate, but they often surface similar needs.
-
-```
-
-:::faq
-faqs:
-  - q: Can I get a Blue Badge if I have a hidden disability?
-    a: Yes. Since 2019 the scheme has included people with non-visible conditions such as severe anxiety, autism or dementia, if those conditions cause considerable difficulty walking or mean someone cannot safely manage a journey independently. You'll need supporting evidence from a GP, specialist or social worker.
-  - q: How long does a Blue Badge last?
-    a: Most Blue Badges are issued for three years, after which you need to reapply. Some badges linked to a temporary condition are issued for a shorter period. Your council will contact you before your badge expires, but don't rely on that reminder, diarise it yourself.
-  - q: Can I use a Blue Badge anywhere in the UK?
-    a: Yes, a Blue Badge issued by any council in England, Scotland or Wales is valid across the whole of Great Britain. Different rules apply in Northern Ireland, where a separate scheme operates.
-  - q: What happens if my Blue Badge application is refused?
-    a: You have the right to ask for a decision review, and if that fails, to appeal further. Councils are required to explain their reasons in writing. Citizens Advice or Age UK can help you draft an appeal if you need support.
-  - q: Does my carer qualify for a Blue Badge in their own right?
-    a: Not usually on the basis of caring alone. A carer can only hold a badge in their own name if they personally meet the eligibility criteria. However, a badge issued to the person they support can be used when that person is travelling in the carer's vehicle.
-:::

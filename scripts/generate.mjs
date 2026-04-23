@@ -133,15 +133,23 @@ function splitFrontmatter(text) {
   // is detected. If the model forgets frontmatter entirely, fall back to a
   // stub and let the next compliance run flag it.
   let cleaned = text.trim();
-  const fenceMatch = cleaned.match(/^```(?:yaml|markdown|md)?\s*\n([\s\S]*?)\n```\s*$/);
-  if (fenceMatch) cleaned = fenceMatch[1].trim();
+
+  // Case 1: the whole response is wrapped in a fenced block.
+  const wholeFence = cleaned.match(/^```(?:yaml|markdown|md)?\s*\n([\s\S]*?)\n```\s*$/);
+  if (wholeFence) cleaned = wholeFence[1].trim();
+
+  // Case 2: model wrapped only the FRONTMATTER in a fenced block, leaving
+  // the body unfenced after the closing ```. Strip the leading fence; the
+  // closing fence will be handled by the body-fence sweep below.
+  cleaned = cleaned.replace(/^```(?:yaml|markdown|md)?\s*\n/, '');
+
   if (!cleaned.startsWith('---')) {
-    return { frontmatter: { title: 'Untitled', slug: 'untitled' }, body: cleaned };
+    return { frontmatter: { title: 'Untitled', slug: 'untitled' }, body: stripStrayFences(cleaned) };
   }
-  // First attempt: parse as-is.
+
+  let result;
   try {
-    const { data, content } = matter(cleaned);
-    return { frontmatter: data, body: content };
+    result = matter(cleaned);
   } catch {
     // YAML colons in unquoted scalar values (e.g. "title: Foo: bar") cause
     // parse failures. Quote any frontmatter line whose value contains a bare
@@ -150,9 +158,22 @@ function splitFrontmatter(text) {
       /^([ \t]*\w[\w-]*):\s*([^'"\n\[{][^\n]*:[^\n]*)$/gm,
       (_, key, val) => `${key}: '${val.replace(/'/g, "''")}'`,
     );
-    const { data, content } = matter(fixed);
-    return { frontmatter: data, body: content };
+    result = matter(fixed);
   }
+  return { frontmatter: result.data, body: stripStrayFences(result.content) };
+}
+
+/**
+ * Remove orphan triple-backtick fences from the body so a single artefact
+ * can never swallow an entire article into a <pre> block. Mirrors the
+ * runtime sanitiseBody() in lib/markdown.ts.
+ */
+function stripStrayFences(body) {
+  let out = body.replace(/^\s*```[a-zA-Z0-9-]*\s*\n/, '');
+  out = out.replace(/\n\s*```\s*$/, '\n');
+  const fenceCount = (out.match(/^```/gm) || []).length;
+  if (fenceCount % 2 === 1) out = `${out}\n\`\`\`\n`;
+  return out;
 }
 
 main().catch((err) => {

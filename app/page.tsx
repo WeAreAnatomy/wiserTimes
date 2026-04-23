@@ -20,6 +20,7 @@ import type { LucideIcon } from 'lucide-react';
 import { verticalsList, siteConfig } from '@/lib/config';
 import { getAllArticles } from '@/lib/content';
 import { articleUrl } from '@/lib/content';
+import { formatPublishDate } from '@/lib/dates';
 import Container from '@/components/layout/Container';
 import CTAButton from '@/components/blocks/CTAButton';
 import Stat from '@/components/blocks/Stat';
@@ -104,10 +105,6 @@ export default function HomePage() {
                 Free to read
               </li>
               <li className="flex items-center gap-2 rounded-full bg-white border border-brand-border px-4 py-2 text-base font-semibold text-brand-deep shadow-sm">
-                <RefreshCw size={18} className="text-brand-teal" aria-hidden="true" />
-                Reviewed every 90 days
-              </li>
-              <li className="flex items-center gap-2 rounded-full bg-white border border-brand-border px-4 py-2 text-base font-semibold text-brand-deep shadow-sm">
                 <CheckCircle2 size={18} className="text-brand-teal" aria-hidden="true" />
                 No paywall, ever
               </li>
@@ -166,7 +163,6 @@ export default function HomePage() {
       <Container width="wide" className="py-10">
         <div className="grid gap-4 sm:grid-cols-3">
           <Stat value="150+" label="Guides published" />
-          <Stat value="90 days" label="Maximum review cycle" />
           <Stat value="100%" label="Free, no paywall" />
         </div>
       </Container>
@@ -205,6 +201,12 @@ export default function HomePage() {
                     </p>
                     <p className="mt-1 text-base text-brand-muted line-clamp-2">
                       {a.frontmatter.description}
+                    </p>
+                    <p className="mt-2 text-sm text-brand-muted">
+                      Published{' '}
+                      <time dateTime={a.frontmatter.published}>
+                        {formatPublishDate(a.frontmatter.published)}
+                      </time>
                     </p>
                   </Link>
                 </li>

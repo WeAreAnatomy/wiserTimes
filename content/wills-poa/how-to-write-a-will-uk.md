@@ -1,7 +1,6 @@
 ---
 title: How to write a will in the UK
 slug: how-to-write-a-will-uk
-date: '2025-01-28'
 author: editorial
 targetUrl: /wills-poa/how-to-write-a-will-uk/
 description: >-

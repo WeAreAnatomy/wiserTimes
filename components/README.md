@@ -32,6 +32,13 @@ Site footer. No props. Composes `<Container>` + `<Navigation variant="footer">` 
 The same navigation list rendered in header or footer styling.
 - `variant?: 'header' | 'footer'` — default `'header'`
 
+### `SearchBar.tsx`
+Site-wide search input. Submits a plain GET to `/search/?q=…` so it works without JavaScript — the search page is server-rendered. Used in `Header` and on the search page itself; do not duplicate the `<input name="q">` markup elsewhere.
+- `defaultValue?: string` — pre-fills the input on the search results page.
+- `variant?: 'compact' | 'page'` — default `'compact'`; `page` is the larger treatment used on `/search/`.
+- `id?: string` — input id; override when more than one bar renders on the same page.
+- `className?: string`
+
 ### `Breadcrumbs.tsx`
 Visible breadcrumb trail. Pair with `<BreadcrumbSchema />` for JSON-LD. Do not hand-roll breadcrumb markup on pages.
 - `crumbs: BreadcrumbCrumb[]` — `{ label, href? }`; missing href = current page.
@@ -66,8 +73,12 @@ Builds a TOC from H2 headings in the raw markdown body.
 - `minHeadings?: number` — default `3`; TOC is hidden below this threshold.
 
 ### `MarkdownRenderer.tsx`
-The orchestrator for article bodies. Extracts `:::shortcode` blocks, renders the rest of the markdown to HTML via `lib/markdown.ts`, and interleaves `Callout`, `ComparisonTable`, `ProsCons`, `FAQ`, and `ExpertQuote` components into the stream. Wrap the output in `<Prose>` — the renderer does that for you.
+The orchestrator for article bodies. Runs `sanitiseBody()` (strips orphan ``` fences), extracts `:::shortcode` blocks, renders the rest of the markdown to HTML via `lib/markdown.ts`, and interleaves `Callout`, `ComparisonTable`, `ProsCons`, `FAQ`, and `ExpertQuote` components into the stream. Wrap the output in `<Prose>` — the renderer does that for you.
 - `source: string`
+
+Also exports two named helpers used by page templates:
+- `parseFAQBody(body: string): FAQItem[]` — accepts `q:`/`a:`, `**Question?**`, or `### Question?` formats.
+- `extractInlineFAQs(source: string): FAQItem[]` — pulls every `:::faq` block's parsed items from a markdown body. Used by spoke pages to merge inline FAQs into `FAQSchema` so JSON-LD matches the visible page (Google requirement).
 
 ### `RelatedArticles.tsx`
 Grid of related article cards at the foot of a page.
@@ -152,7 +163,7 @@ Emits `schema.org/Article`.
 
 ### `FAQSchema.tsx`
 Emits `schema.org/FAQPage`. Pair with the visible `<FAQ>`.
-- `{ frontmatter: ArticleFrontmatter }` (uses `frontmatter.faqs`).
+- `items: FAQItem[]` — pass the **union** of `frontmatter.faqs` and the inline `:::faq` blocks (use `extractInlineFAQs()` from `MarkdownRenderer`). Google penalises mismatches between visible FAQs and the schema.
 
 ### `BreadcrumbSchema.tsx`
 Emits `schema.org/BreadcrumbList`. Pair with the visible `<Breadcrumbs>`.

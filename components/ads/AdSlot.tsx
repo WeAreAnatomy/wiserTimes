@@ -73,12 +73,25 @@ export default function AdSlot({
 
   useEffect(() => {
     if (!hasAds || pushed.current || !insRef.current) return;
-    try {
-      (window.adsbygoogle = window.adsbygoogle || []).push({});
-      pushed.current = true;
-    } catch {
-      // adsbygoogle.js not yet loaded; it will pick up the <ins> on next push.
-    }
+    let attempts = 0;
+    const tryPush = () => {
+      try {
+        (window.adsbygoogle = window.adsbygoogle || []).push({});
+        pushed.current = true;
+        return true;
+      } catch {
+        return false;
+      }
+    };
+    if (tryPush()) return;
+    // adsbygoogle.js may not have loaded yet (beforeInteractive doesn't
+    // guarantee it is on the global). Poll a few times instead of failing
+    // silently for the lifetime of the page.
+    const id = setInterval(() => {
+      attempts += 1;
+      if (tryPush() || attempts >= 10) clearInterval(id);
+    }, 500);
+    return () => clearInterval(id);
   }, [hasAds]);
 
   if (hasAds) {

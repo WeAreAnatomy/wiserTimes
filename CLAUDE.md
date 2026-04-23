@@ -106,6 +106,9 @@ cons: Limited customisation
 :::faq
 q: How much does it cost?
 a: Typically between £500 and £1,200.
+
+q: Is it tax-deductible?
+a: No — see HMRC guidance for current rules.
 :::
 
 :::quote{author="Sarah, IFA in Bristol"}
@@ -113,7 +116,15 @@ Most people I speak to are surprised at how much equity they have.
 :::
 ```
 
+**`:::faq` body format is enforced.** The parser (`parseFAQBody` in `MarkdownRenderer.tsx`) accepts `q:`/`a:` lines, bold-question lines (`**Question?**` followed by an answer paragraph), and `### Question?` heading-style. Anything else produces an empty FAQ block, which (a) won't render visibly and (b) creates a mismatch with the `FAQPage` JSON-LD that Google penalises. **Stick to `q:`/`a:` for new content.**
+
+The page-level FAQ component (`<FAQ items={frontmatter.faqs} />`) is automatically suppressed when an inline `:::faq` block exists in the body, to avoid double-rendering. The FAQ schema is built from the union of both sources via `extractInlineFAQs(article.body)` so on-page and JSON-LD always match.
+
 **Do not invent new shortcodes without adding a block component for them.** Do not render these with raw HTML in the markdown — always go through the shortcode so the component can evolve.
+
+### Defensive markdown handling
+
+`MarkdownRenderer` runs `sanitiseBody()` from `lib/markdown.ts` on every body before parsing. It strips a stray ```` ``` ```` on the first/last line and closes any unbalanced fences so a single artefact can never wrap an entire article in `<pre>`. **You should still fix the source markdown** — `pnpm validate` (run automatically as `prebuild`) refuses to ship articles with stray fences, unbalanced shortcodes, or empty `:::faq` blocks.
 
 ---
 
@@ -173,10 +184,12 @@ Accessibility minimums (non-negotiable):
 
 A change is done when:
 
-1. `pnpm typecheck` and `pnpm build` pass.
-2. No new component was created that could have been a prop on an existing one.
-3. `components/README.md` reflects any additions.
-4. If the change touches content generation, a sample run produces output that passes `scripts/compliance-check.mjs`.
+1. `pnpm typecheck` passes.
+2. `pnpm validate` passes (structural markdown checks — runs automatically before `pnpm build`).
+3. `pnpm build` passes.
+4. No new component was created that could have been a prop on an existing one.
+5. `components/README.md` reflects any additions.
+6. If the change touches content generation, a sample run produces output that passes both `pnpm validate` and `pnpm compliance`.
 
 ---
 

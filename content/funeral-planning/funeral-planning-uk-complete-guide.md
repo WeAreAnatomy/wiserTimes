@@ -236,6 +236,3 @@ Finally: you are not obliged to use the funeral director that a hospital or care
 
 ---
 
-:::faq
-### Frequently asked questions about funeral planning in the UK
-:::

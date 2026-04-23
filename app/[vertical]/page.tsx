@@ -7,6 +7,7 @@ import Link from 'next/link';
 import { BookOpen, ArrowRight, Star } from 'lucide-react';
 import { siteConfig, verticalsList } from '@/lib/config';
 import { getArticlesByVertical, articleUrl } from '@/lib/content';
+import { formatPublishDate } from '@/lib/dates';
 import type { Vertical, Article } from '@/lib/types';
 import Container from '@/components/layout/Container';
 import Breadcrumbs from '@/components/layout/Breadcrumbs';
@@ -58,7 +59,7 @@ export default async function VerticalIndexPage({
   ];
 
   return (
-    <Container width="content" className="pt-8 pb-16">
+    <Container width="wide" className="pt-8 pb-16">
       <Breadcrumbs crumbs={crumbs} />
 
       <header className="mt-4">
@@ -118,6 +119,12 @@ export default async function VerticalIndexPage({
                       </span>
                       <span className="mt-1 block text-base text-brand-muted">
                         {a.frontmatter.description}
+                      </span>
+                      <span className="mt-2 block text-sm text-brand-muted">
+                        Published{' '}
+                        <time dateTime={a.frontmatter.published}>
+                          {formatPublishDate(a.frontmatter.published)}
+                        </time>
                       </span>
                     </span>
                     <ArrowRight

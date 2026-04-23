@@ -1,4 +1,4 @@
-import type { Metadata } from 'next';
+import type { Metadata, Viewport } from 'next';
 import type { ReactNode } from 'react';
 import Script from 'next/script';
 import { Analytics } from '@vercel/analytics/next';
@@ -10,6 +10,15 @@ import SkipLink from '@/components/layout/SkipLink';
 import CookieConsent from '@/components/compliance/CookieConsent';
 import OrganizationSchema from '@/components/seo/OrganizationSchema';
 import './globals.css';
+
+// Explicit viewport so older mobile browsers never default to desktop width.
+// `maximumScale=5` lets users zoom — never lock this down (WCAG SC 1.4.4).
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
+  maximumScale: 5,
+  themeColor: '#FAF7F0',
+};
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
@@ -48,7 +57,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
           strategy="beforeInteractive"
         />
       </head>
-      <body>
+      <body className="overflow-x-hidden">
         <SkipLink />
         <Header />
         <main id="main" className="pb-20">

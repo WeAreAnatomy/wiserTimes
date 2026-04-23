@@ -17,7 +17,9 @@ import ArticleHeader from '@/components/content/ArticleHeader';
 import TableOfContents from '@/components/content/TableOfContents';
 import AuthorCard from '@/components/content/AuthorCard';
 import RelatedArticles from '@/components/content/RelatedArticles';
-import MarkdownRenderer from '@/components/content/MarkdownRenderer';
+import MarkdownRenderer, {
+  extractInlineFAQs,
+} from '@/components/content/MarkdownRenderer';
 import FAQ from '@/components/blocks/FAQ';
 import AffiliateDisclosure from '@/components/compliance/AffiliateDisclosure';
 import FCADisclaimer from '@/components/compliance/FCADisclaimer';
@@ -83,34 +85,46 @@ export default async function SpokePage({
   const hasAffiliates =
     (article.frontmatter.affiliates && article.frontmatter.affiliates.length > 0) ?? false;
 
+  // Merge frontmatter FAQs with any inline `:::faq` blocks so:
+  //   1. The page-level <FAQ /> only renders if there ISN'T already an
+  //      inline one (avoids duplicate FAQ sections on screen).
+  //   2. The FAQ schema reflects the union (Google requires the JSON-LD
+  //      to match what the user sees).
+  const inlineFAQs = extractInlineFAQs(article.body);
+  const frontmatterFAQs = article.frontmatter.faqs ?? [];
+  const allFAQs = [...frontmatterFAQs, ...inlineFAQs];
+  const showPageLevelFAQ = inlineFAQs.length === 0 && frontmatterFAQs.length > 0;
+
   return (
     <Container width="content" className="pt-8 pb-16">
       <Breadcrumbs crumbs={crumbs} />
       <ArticleHeader article={article} />
-      <TableOfContents body={article.body} />
-      {hasAffiliates && <AffiliateDisclosure />}
 
-      <AdSlot position="in-article-1" />
-
-      <MarkdownRenderer source={article.body} />
-
-      {article.frontmatter.faqs && article.frontmatter.faqs.length > 0 && (
-        <FAQ items={article.frontmatter.faqs} />
-      )}
-
-      <AdSlot position="in-article-2" />
-
+      {/* Regulatory disclaimers render above the fold so readers see the
+          "information, not advice" framing on arrival, not after the body.
+          Affiliate disclosure stays adjacent for ASA/CAP proximity. */}
       {v.regulatoryDomain === 'finance' && (
         <FCADisclaimer equityRelease={v.slug === 'equity-release'} />
       )}
       {v.regulatoryDomain === 'health' && <MedicalDisclaimer />}
       {v.regulatoryDomain === 'legal' && <LegalDisclaimer />}
+      {hasAffiliates && <AffiliateDisclosure />}
+
+      <TableOfContents body={article.body} />
+
+      <AdSlot position="in-article-1" />
+
+      <MarkdownRenderer source={article.body} />
+
+      {showPageLevelFAQ && <FAQ items={frontmatterFAQs} />}
+
+      <AdSlot position="in-article-2" />
 
       <AuthorCard authorSlug={article.frontmatter.author} />
       <RelatedArticles articles={related} />
 
       <ArticleSchema article={article} />
-      <FAQSchema frontmatter={article.frontmatter} />
+      <FAQSchema items={allFAQs} />
       <HowToSchema frontmatter={article.frontmatter} />
       <ProductSchema frontmatter={article.frontmatter} />
       <BreadcrumbSchema items={schemaCrumbs} />
