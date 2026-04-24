@@ -10,8 +10,8 @@ intent: informational
 regulatoryDomain: finance
 slug: equity-release-what-happens-on-death
 author: david
-published: '2026-07-28'
-lastReviewed: '2026-07-28'
+published: '2026-05-03'
+lastReviewed: '2026-05-03'
 keywords:
   - equity release on death
   - what happens to equity release when you die

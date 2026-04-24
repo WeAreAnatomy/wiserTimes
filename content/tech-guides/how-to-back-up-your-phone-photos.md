@@ -34,8 +34,8 @@ howTo:
       text: >-
         Open your backup app or service and confirm the date of the last
         successful backup.
-published: '2026-09-24'
-lastReviewed: '2026-09-24'
+published: '2026-06-30'
+lastReviewed: '2026-06-30'
 vertical: tech-guides
 contentType: how-to
 intent: informational

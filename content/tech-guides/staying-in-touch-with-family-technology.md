@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: general
 slug: staying-in-touch-with-family-technology
 author: wiser-times-tech
-published: '2026-10-28'
-lastReviewed: '2026-10-28'
+published: '2026-08-02'
+lastReviewed: '2026-08-02'
 keywords:
   - staying in touch with family technology
   - video calling for older people

@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: general
 slug: accessibility-features-smartphone
 author: tech-guides-editor
-published: '2026-09-20'
-lastReviewed: '2026-09-20'
+published: '2026-06-25'
+lastReviewed: '2026-06-25'
 keywords:
   - smartphone accessibility features
   - large text iPhone

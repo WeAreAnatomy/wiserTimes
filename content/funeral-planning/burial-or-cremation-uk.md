@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: general
 slug: burial-or-cremation-uk
 author: david
-published: '2026-08-13'
-lastReviewed: '2026-08-13'
+published: '2026-05-19'
+lastReviewed: '2026-05-19'
 keywords:
   - burial or cremation uk
   - burial vs cremation

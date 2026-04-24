@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: general
 slug: how-to-shop-online-safely
 author: tech-guides-editor
-published: '2026-09-29'
-lastReviewed: '2026-09-29'
+published: '2026-07-05'
+lastReviewed: '2026-07-05'
 keywords:
   - online shopping safely uk
   - safe online shopping

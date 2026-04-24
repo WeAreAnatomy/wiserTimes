@@ -10,8 +10,8 @@ intent: informational
 regulatoryDomain: health
 slug: what-is-a-carer-uk
 author: priya
-published: '2026-09-17'
-lastReviewed: '2026-09-17'
+published: '2026-06-23'
+lastReviewed: '2026-06-23'
 keywords:
   - unpaid carer uk support
   - carer's assessment

@@ -37,8 +37,8 @@ howTo:
       text: >-
         Tap the new chat icon, select New Group, add contacts, give the group a
         name, and tap the green tick to create it.
-published: '2026-10-04'
-lastReviewed: '2026-10-04'
+published: '2026-07-09'
+lastReviewed: '2026-07-09'
 vertical: tech-guides
 contentType: how-to
 intent: informational

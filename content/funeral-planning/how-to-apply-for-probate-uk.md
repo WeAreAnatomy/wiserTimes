@@ -45,8 +45,8 @@ howTo:
       text: >-
         Once your grant of probate arrives, use it to access bank accounts, sell
         property, and distribute the estate to beneficiaries.
-published: '2026-08-18'
-lastReviewed: '2026-08-18'
+published: '2026-05-24'
+lastReviewed: '2026-05-24'
 vertical: funeral-planning
 contentType: how-to
 intent: informational
@@ -54,7 +54,6 @@ regulatoryDomain: general
 keywords:
   - how to apply for probate uk
 ---
-
 # How to apply for probate in England and Wales
 
 This guide is for executors named in a will who need to apply for a grant of probate in England and Wales. By the end you will know whether probate is necessary in your specific situation, how to apply online through the HMCTS Probate Service, what the fees are, and roughly how long the whole process takes. Scotland and Northern Ireland operate separate legal systems with their own procedures; the steps here do not apply there.

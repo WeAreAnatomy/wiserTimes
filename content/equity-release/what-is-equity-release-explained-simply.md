@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: finance
 slug: what-is-equity-release-explained-simply
 author: david
-published: '2026-08-11'
-lastReviewed: '2026-08-11'
+published: '2026-05-17'
+lastReviewed: '2026-05-17'
 keywords:
   - what is equity release
   - equity release explained

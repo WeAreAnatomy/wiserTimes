@@ -40,8 +40,8 @@ howTo:
       text: >-
         Respond to any requests for information promptly and keep copies of
         everything you send.
-published: '2026-07-21'
-lastReviewed: '2026-07-21'
+published: '2026-04-26'
+lastReviewed: '2026-04-26'
 vertical: equity-release
 contentType: how-to
 intent: informational
@@ -49,7 +49,6 @@ regulatoryDomain: finance
 keywords:
   - equity release complaint
 ---
-
 # How to make a complaint about an equity release product or adviser
 
 This guide is for anyone who has taken out a lifetime mortgage or home reversion plan and believes something went wrong: perhaps you were mis-sold the product, given unsuitable advice, or have encountered a problem with how your lender has administered your loan. By the end, you'll know exactly how to raise a formal complaint, what timescales apply, and what to do if the response you receive doesn't satisfy you.

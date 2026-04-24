@@ -37,8 +37,8 @@ howTo:
       text: >-
         Print the eulogy in a large font, bring a second copy, and have a plan
         for managing emotion at the lectern.
-published: '2026-09-06'
-lastReviewed: '2026-09-06'
+published: '2026-06-11'
+lastReviewed: '2026-06-11'
 vertical: funeral-planning
 contentType: how-to
 intent: informational

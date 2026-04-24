@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: finance
 slug: questions-to-ask-equity-release-adviser
 author: david
-published: '2026-08-06'
-lastReviewed: '2026-08-06'
+published: '2026-05-12'
+lastReviewed: '2026-05-12'
 keywords:
   - questions to ask equity release adviser
   - equity release adviser checklist

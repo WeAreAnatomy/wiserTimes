@@ -10,8 +10,8 @@ intent: informational
 regulatoryDomain: health
 slug: fall-prevention-at-home-uk
 author: priya
-published: '2026-09-13'
-lastReviewed: '2026-09-13'
+published: '2026-06-18'
+lastReviewed: '2026-06-18'
 keywords:
   - fall prevention elderly home
   - falls prevention at home UK

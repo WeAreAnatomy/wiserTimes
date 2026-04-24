@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: health
 slug: driving-with-a-disability-uk
 author: priya
-published: '2026-09-10'
-lastReviewed: '2026-09-10'
+published: '2026-06-16'
+lastReviewed: '2026-06-16'
 keywords:
   - driving with disability uk
   - DVLA medical requirements

@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: legal
 slug: digital-legacy-planning
 author: david
-published: '2026-11-09'
-lastReviewed: '2026-11-09'
+published: '2026-08-13'
+lastReviewed: '2026-08-13'
 keywords:
   - digital legacy planning uk
   - what happens to online accounts when you die

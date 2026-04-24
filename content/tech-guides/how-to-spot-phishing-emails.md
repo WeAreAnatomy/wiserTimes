@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: general
 slug: how-to-spot-phishing-emails
 author: editorial
-published: '2026-10-01'
-lastReviewed: '2026-10-01'
+published: '2026-07-07'
+lastReviewed: '2026-07-07'
 keywords:
   - phishing emails uk
   - scam emails

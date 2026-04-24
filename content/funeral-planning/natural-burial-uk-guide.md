@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: general
 slug: natural-burial-uk-guide
 author: david
-published: '2026-08-27'
-lastReviewed: '2026-08-27'
+published: '2026-06-02'
+lastReviewed: '2026-06-02'
 keywords:
   - natural burial uk
   - woodland burial

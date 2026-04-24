@@ -41,8 +41,8 @@ tags:
   - gp appointments
   - repeat prescriptions
   - health record
-published: '2026-11-04'
-lastReviewed: '2026-11-04'
+published: '2026-08-09'
+lastReviewed: '2026-08-09'
 vertical: tech-guides
 contentType: how-to
 intent: informational

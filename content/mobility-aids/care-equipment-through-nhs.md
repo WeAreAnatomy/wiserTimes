@@ -45,8 +45,8 @@ howTo:
       text: >-
         Contact your local community equipment service directly; they will
         collect and refurbish items for someone else.
-published: '2026-09-08'
-lastReviewed: '2026-09-08'
+published: '2026-06-14'
+lastReviewed: '2026-06-14'
 vertical: mobility-aids
 contentType: how-to
 intent: informational

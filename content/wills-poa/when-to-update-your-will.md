@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: legal
 slug: when-to-update-your-will
 author: david
-published: '2026-11-27'
-lastReviewed: '2026-11-27'
+published: '2026-09-01'
+lastReviewed: '2026-09-01'
 keywords:
   - when to update your will
   - updating a will

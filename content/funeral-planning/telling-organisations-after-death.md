@@ -45,8 +45,8 @@ howTo:
       text: >-
         Inform solicitors, employers, clubs and landlords or the mortgage
         lender.
-published: '2026-09-01'
-lastReviewed: '2026-09-01'
+published: '2026-06-07'
+lastReviewed: '2026-06-07'
 vertical: funeral-planning
 contentType: how-to
 intent: informational

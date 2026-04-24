@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: general
 slug: funeral-expenses-payment-dwp
 author: margaret
-published: '2026-08-16'
-lastReviewed: '2026-08-16'
+published: '2026-05-21'
+lastReviewed: '2026-05-21'
 keywords:
   - funeral expenses payment
   - DWP funeral payment

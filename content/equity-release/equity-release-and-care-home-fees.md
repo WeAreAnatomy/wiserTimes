@@ -10,8 +10,8 @@ intent: informational
 regulatoryDomain: finance
 slug: equity-release-and-care-home-fees
 author: david
-published: '2026-07-19'
-lastReviewed: '2026-07-19'
+published: '2026-04-23'
+lastReviewed: '2026-04-23'
 keywords:
   - equity release care home fees
   - care home funding means test

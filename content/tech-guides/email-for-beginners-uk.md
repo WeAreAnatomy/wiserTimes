@@ -42,8 +42,8 @@ howTo:
       text: >-
         Use folders or labels to sort messages, and delete anything you no
         longer need.
-published: '2026-09-22'
-lastReviewed: '2026-09-22'
+published: '2026-06-28'
+lastReviewed: '2026-06-28'
 vertical: tech-guides
 contentType: how-to
 intent: informational

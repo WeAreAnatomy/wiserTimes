@@ -29,8 +29,8 @@ howTo:
       text: >-
         Tap your profile picture, select Offline maps, then Download your own
         map and draw a box around the area you want.
-published: '2026-11-02'
-lastReviewed: '2026-11-02'
+published: '2026-08-06'
+lastReviewed: '2026-08-06'
 vertical: tech-guides
 contentType: how-to
 intent: informational

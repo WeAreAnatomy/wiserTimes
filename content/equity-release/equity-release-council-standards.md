@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: finance
 slug: equity-release-council-standards
 author: david
-published: '2026-07-23'
-lastReviewed: '2026-07-23'
+published: '2026-04-28'
+lastReviewed: '2026-04-28'
 keywords:
   - equity release council
   - equity release standards

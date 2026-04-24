@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: finance
 slug: inheritance-and-equity-release
 author: david
-published: '2026-08-02'
-lastReviewed: '2026-08-02'
+published: '2026-05-07'
+lastReviewed: '2026-05-07'
 keywords:
   - equity release and inheritance
   - equity release on death

@@ -6,7 +6,7 @@ description: >-
   A step-by-step guide to registering a death in England and Wales: who can do
   it, the five-day rule, what to bring, and which documents you'll receive.
 author: editorial
-lastReviewed: '2026-08-23'
+lastReviewed: '2026-05-28'
 howTo:
   totalTime: PT60M
   steps:
@@ -41,7 +41,7 @@ tags:
   - bereavement
   - register a death
   - death certificate
-published: '2026-08-23'
+published: '2026-05-28'
 vertical: funeral-planning
 contentType: how-to
 intent: informational

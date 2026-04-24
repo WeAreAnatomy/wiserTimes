@@ -32,8 +32,8 @@ howTo:
       text: >-
         During any call, tap the rotate or flip-camera icon on screen to switch
         between front and rear camera.
-published: '2026-10-08'
-lastReviewed: '2026-10-08'
+published: '2026-07-14'
+lastReviewed: '2026-07-14'
 vertical: tech-guides
 contentType: how-to
 intent: informational

@@ -10,8 +10,8 @@ intent: informational
 regulatoryDomain: general
 slug: smart-doorbell-home-security
 author: tech-guides-editor
-published: '2026-10-22'
-lastReviewed: '2026-10-22'
+published: '2026-07-28'
+lastReviewed: '2026-07-28'
 keywords:
   - smart doorbell uk guide
   - smart doorbell

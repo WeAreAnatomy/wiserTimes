@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: general
 slug: streaming-services-explained
 author: wiser-times-tech
-published: '2026-10-30'
-lastReviewed: '2026-10-30'
+published: '2026-08-04'
+lastReviewed: '2026-08-04'
 keywords:
   - streaming services uk guide
   - bbc iplayer guide

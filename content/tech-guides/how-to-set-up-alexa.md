@@ -42,8 +42,8 @@ howTo:
       text: >-
         Use voice commands to make hands-free calls, listen to Audible
         audiobooks, or stream BBC Radio 4.
-published: '2026-09-27'
-lastReviewed: '2026-09-27'
+published: '2026-07-02'
+lastReviewed: '2026-07-02'
 vertical: tech-guides
 contentType: how-to
 intent: informational

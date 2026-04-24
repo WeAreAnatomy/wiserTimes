@@ -33,8 +33,8 @@ howTo:
       text: >-
         Contact banks, insurers, pension providers, and utilities individually
         using the death certificates.
-published: '2026-09-03'
-lastReviewed: '2026-09-03'
+published: '2026-06-09'
+lastReviewed: '2026-06-09'
 vertical: funeral-planning
 contentType: how-to
 intent: informational

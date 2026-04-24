@@ -10,8 +10,8 @@ intent: informational
 regulatoryDomain: general
 slug: keeping-devices-secure
 author: wiser-times-tech
-published: '2026-10-13'
-lastReviewed: '2026-10-13'
+published: '2026-07-19'
+lastReviewed: '2026-07-19'
 keywords:
   - tablet computer security tips
   - phone security tips

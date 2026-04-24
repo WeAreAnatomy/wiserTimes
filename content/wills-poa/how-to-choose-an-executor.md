@@ -10,8 +10,8 @@ intent: informational
 regulatoryDomain: legal
 slug: how-to-choose-an-executor
 author: david
-published: '2026-11-16'
-lastReviewed: '2026-11-16'
+published: '2026-08-20'
+lastReviewed: '2026-08-20'
 keywords:
   - how to choose an executor
   - executor of a will

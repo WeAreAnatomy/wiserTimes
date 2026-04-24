@@ -35,8 +35,8 @@ howTo:
       text: >-
         Open the Play Store app, search for something you want such as BBC
         iPlayer or WhatsApp, then tap Install.
-published: '2026-10-20'
-lastReviewed: '2026-10-20'
+published: '2026-07-26'
+lastReviewed: '2026-07-26'
 intent: informational
 regulatoryDomain: general
 keywords:

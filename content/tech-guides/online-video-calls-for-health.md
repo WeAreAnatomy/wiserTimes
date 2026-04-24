@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: health
 slug: online-video-calls-for-health
 author: editorial
-published: '2026-10-15'
-lastReviewed: '2026-10-15'
+published: '2026-07-21'
+lastReviewed: '2026-07-21'
 keywords:
   - online gp video appointment uk
   - nhs video consultation

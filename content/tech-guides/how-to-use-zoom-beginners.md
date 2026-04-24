@@ -36,8 +36,8 @@ howTo:
         others can hear you.
     - name: Leave the meeting politely
       text: Tap "Leave" or "End" when the call is finished.
-published: '2026-10-06'
-lastReviewed: '2026-10-06'
+published: '2026-07-12'
+lastReviewed: '2026-07-12'
 vertical: tech-guides
 contentType: how-to
 intent: informational

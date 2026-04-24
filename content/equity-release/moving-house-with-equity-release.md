@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: finance
 slug: moving-house-with-equity-release
 author: david
-published: '2026-08-04'
-lastReviewed: '2026-08-04'
+published: '2026-05-10'
+lastReviewed: '2026-05-10'
 keywords:
   - moving house with equity release
   - portable lifetime mortgage

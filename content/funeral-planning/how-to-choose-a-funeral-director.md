@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: general
 slug: how-to-choose-a-funeral-director
 author: david
-published: '2026-08-20'
-lastReviewed: '2026-08-20'
+published: '2026-05-26'
+lastReviewed: '2026-05-26'
 keywords:
   - choosing a funeral director uk
   - how to choose a funeral director

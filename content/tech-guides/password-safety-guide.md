@@ -10,8 +10,8 @@ intent: informational
 regulatoryDomain: general
 slug: password-safety-guide
 author: tech-guides-editor
-published: '2026-10-18'
-lastReviewed: '2026-10-18'
+published: '2026-07-23'
+lastReviewed: '2026-07-23'
 keywords:
   - password safety guide
   - strong passwords

@@ -10,8 +10,8 @@ intent: informational
 regulatoryDomain: legal
 slug: how-to-store-a-will-safely
 author: david
-published: '2026-11-18'
-lastReviewed: '2026-11-18'
+published: '2026-08-23'
+lastReviewed: '2026-08-23'
 keywords:
   - where to store a will uk
   - how to store a will safely

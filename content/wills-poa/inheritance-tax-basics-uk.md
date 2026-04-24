@@ -9,8 +9,8 @@ intent: informational
 regulatoryDomain: legal
 slug: inheritance-tax-basics-uk
 author: david
-published: '2026-11-20'
-lastReviewed: '2026-11-20'
+published: '2026-08-25'
+lastReviewed: '2026-08-25'
 keywords:
   - inheritance tax basics uk
   - inheritance tax threshold

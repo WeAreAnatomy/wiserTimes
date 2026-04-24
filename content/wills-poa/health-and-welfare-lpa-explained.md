@@ -10,8 +10,8 @@ intent: informational
 regulatoryDomain: legal
 slug: health-and-welfare-lpa-explained
 author: margaret
-published: '2026-11-13'
-lastReviewed: '2026-11-13'
+published: '2026-08-18'
+lastReviewed: '2026-08-18'
 keywords:
   - health and welfare lpa
   - lasting power of attorney

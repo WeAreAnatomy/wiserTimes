@@ -10,8 +10,8 @@ intent: informational
 regulatoryDomain: legal
 slug: probate-how-long-does-it-take
 author: david
-published: '2026-11-23'
-lastReviewed: '2026-11-23'
+published: '2026-08-27'
+lastReviewed: '2026-08-27'
 keywords:
   - how long does probate take
   - probate timeline
